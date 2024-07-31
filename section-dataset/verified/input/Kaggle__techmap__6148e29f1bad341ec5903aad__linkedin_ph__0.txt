@@ -1,0 +1,21 @@
+10-15 years web and desktop application development work experience.
+
+- Experienced with JSON, Angular, JQuery, AJAX, XML, and REST web services.
+- Experienced with MongoDB, MySQL, and PostgreSQL databases.
+- Experienced with developing web applications using ASP.Net and PHP.
+- Experienced with developing desktop applications and services using C.Net, C, and Java.
+- Experienced in cloud technologies (AWS, Azure, and Google Cloud).
+- Experienced in Android mobile application development.
+- Result-oriented, able to work in a team environment as well as independently.
+- Strong analytical and problem-solving skills.
+- Strong administrative/organizational skills (ability to effectively prioritize, manage time, and meet deadlines for multiple projects).
+- Strong leadership skills.
+- Experienced in SCRUM agile methodology.
+- Advanced knowledge in SharePoint administration and application development.
+- Advanced knowledge in multithreading and socket programming.
+- Advanced knowledge in telephony, VoIP, and video streaming technology.
+- Advanced knowledge in Git.
+- Amazon Connect cloud contact center administration and integration.
+- Experienced in Kubernetes.
+- Experienced in setting up CI/CD pipeline using Jenkins.
+- Advanced knowledge in Microservice architecture.

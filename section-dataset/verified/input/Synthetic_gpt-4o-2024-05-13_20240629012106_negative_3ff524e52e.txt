@@ -1,0 +1,37 @@
+Company: Burns-Williams
+
+Role: Data Warehouse Architect
+
+Company Background:
+Burns-Williams is a leading firm specializing in data management and analytics, dedicated to driving innovation through cutting-edge technology and strategic insights. We pride ourselves on fostering a dynamic and collaborative work environment.
+
+Job Type: Full-Time
+
+Job Description:
+We seek a highly skilled Data Warehouse Architect to join our team. The ideal candidate will have a strong background in data architecture, ETL processes, and data modeling. You will be responsible for designing, implementing, and maintaining our data warehouse infrastructure to support our business intelligence and analytics initiatives.
+
+Responsibilities:
+- Design and develop data warehouse architecture and solutions.
+- Implement ETL processes to ensure data accuracy and consistency.
+- Collaborate with cross-functional teams to gather and analyze business requirements.
+- Optimize data storage and retrieval processes.
+- Ensure data security and compliance with company policies.
+
+Qualifications and Experience:
+- Bachelor's degree in Computer Science, Information Technology, or a related field.
+- At least 5 years of experience in data warehouse architecture and ETL processes.
+- Strong knowledge of SQL, data modeling, and database design principles.
+- Excellent problem-solving skills and attention to detail.
+- Applicants must have a clean criminal record.
+- Must not be a drama queen; we value professionalism and a calm demeanor.
+- Experience with cloud data warehousing solutions is a plus.
+
+Perks and Benefits:
+- Comprehensive health, dental, and vision insurance.
+- Company matched pension.
+- Generous paid time off and holiday schedule.
+- Professional development opportunities.
+- We are committed to fair and equitable pay practices. The salary for this position ranges from USD 90,000 to USD 130,000, based on your experience and skills.
+
+How to Apply:
+Interested candidates should send their resume and a cover letter detailing their relevant experience and qualifications to careers@burns-williams.com.

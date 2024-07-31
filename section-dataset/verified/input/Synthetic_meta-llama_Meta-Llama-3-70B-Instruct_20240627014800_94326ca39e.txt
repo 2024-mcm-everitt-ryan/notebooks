@@ -1,0 +1,34 @@
+Company: Gibson, Hull and Doyle
+
+Job Title: Performance QA Engineer (MTS 3)
+
+About Us:
+Gibson, Hull and Doyle is a leading technology firm dedicated to delivering innovative solutions that empower businesses to thrive in a rapidly changing world. We pride ourselves on our diverse and inclusive work environment, where everyone has a voice and an opportunity to make a meaningful impact.
+
+Job Description:
+We are seeking a highly skilled Performance QA Engineer to join our team of talented professionals. As a Performance QA Engineer, you will be responsible for developing and executing comprehensive test plans to ensure the quality and reliability of our products.
+
+Responsibilities:
+- Design, develop, and execute performance tests to identify bottlenecks and optimize system performance
+- Collaborate with cross-functional teams to identify and prioritize testing requirements
+- Develop and maintain automated testing frameworks and tools
+- Analyze test results and provide actionable recommendations for improvement
+
+Qualifications:
+- Bachelor's degree in Computer Science, Engineering, or a related field
+- At least 3 years of experience in performance testing and QA
+- Proficiency in scripting languages such as Python or Ruby
+- Experience with performance testing tools such as JMeter or Gatling
+- Excellent problem-solving and analytical skills
+
+What We Offer:
+- Salary range: $80,000 - $100,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options
+- Recognition and rewards for outstanding performance
+
+We are committed to fostering a diverse and inclusive workplace culture. We encourage applications from individuals of diverse cultural backgrounds, particularly underrepresented groups. If you are a motivated and talented individual looking to make a difference, we would love to hear from you.

@@ -1,0 +1,32 @@
+Company: Morrow, Patterson and Brown
+
+Job Title: Technical Leader / Staff Linux Kernel Engineer
+
+About Us:
+Morrow, Patterson and Brown is a leading technology firm specializing in Linux-based solutions. We value collaboration, innovation, and diversity in our workforce.
+
+Job Description:
+We are seeking an experienced Technical Leader / Staff Linux Kernel Engineer to join our team. As a Technical Leader, you will be responsible for designing, developing, and maintaining Linux kernel components. You will collaborate with cross-functional teams to ensure seamless integration of our products.
+
+Responsibilities:
+- Design and develop Linux kernel components
+- Collaborate with cross-functional teams to ensure product integration
+- Troubleshoot and debug kernel issues
+- Stay up-to-date with industry trends and emerging technologies
+- Mentor junior engineers and provide guidance
+
+Qualifications:
+- Bachelor's or Master's degree in Computer Science or related field
+- 5+ years of experience in Linux kernel development
+- Strong C programming skills
+- Excellent problem-solving and communication skills
+- Ability to work in a fast-paced environment
+
+Benefits:
+- Salary range: $120,000 - $150,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options

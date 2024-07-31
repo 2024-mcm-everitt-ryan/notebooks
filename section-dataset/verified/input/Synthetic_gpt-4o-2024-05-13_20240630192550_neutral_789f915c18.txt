@@ -1,0 +1,33 @@
+Company Background:
+Johnson Ltd is a leading technology firm specializing in innovative solutions for a diverse set of clients. Our culture is built on values of inclusivity, creativity, and excellence. We aim to create an environment where everyone can thrive and contribute to our shared success.
+
+Job Type:
+Full-Time
+
+Job Description:
+We are seeking a skilled SharePoint Developer to join our dynamic team. This role involves designing, developing, and maintaining SharePoint solutions to meet business requirements. The ideal candidate will be innovative, detail-oriented, and passionate about technology.
+
+Responsibilities:
+- Design, develop, and maintain custom SharePoint applications
+- Collaborate with cross-functional teams to gather and analyze requirements
+- Implement best practices in SharePoint development and maintenance
+- Provide technical support and troubleshooting for SharePoint-related issues
+- Ensure the security and compliance of SharePoint solutions
+
+Qualifications and Experience Needed:
+- Proven track record in SharePoint development
+- Proficiency in SharePoint Online and SharePoint 2013/2016
+- Strong knowledge of JavaScript, HTML, CSS, and C#
+- Experience in quality assurance is advantageous
+- Excellent problem-solving skills and attention to detail
+- Ability to manage multiple projects simultaneously
+
+Perks and Benefits:
+- Competitive salary: We are committed to fair and equitable pay practices. The salary for this position ranges from 50,000 to 70,000 USD, based on your experience and skills
+- Comprehensive health, dental, and vision insurance
+- Flexible working hours and remote work options
+- Professional development opportunities
+- Inclusive and diverse work environment
+
+How to Apply:
+Interested candidates should submit their resume and cover letter explaining their experience and why they are a good fit for the role. We value and celebrate diversity in all its forms and encourage candidates from all backgrounds to apply.

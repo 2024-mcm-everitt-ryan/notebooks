@@ -1,0 +1,35 @@
+Company: Perkins Inc  
+Role: Microsoft Exchange Administrator  
+
+Company Background:  
+Perkins Inc is a forward-thinking technology firm specializing in comprehensive IT solutions for diverse clients. Our team is dedicated to providing top-tier service and innovative solutions.
+
+Job Type:  
+Full-time  
+
+Job Description:  
+We are seeking a skilled Microsoft Exchange Administrator to join our dynamic team. The ideal candidate will manage and support our enterprise-level Microsoft Exchange environment, ensuring seamless email communication across the company.
+
+Responsibilities:  
+- Manage and maintain Microsoft Exchange servers.
+- Perform regular system updates, patches, and upgrades.
+- Monitor system performance and troubleshoot issues.
+- Ensure data integrity and security for all email communications.
+- Collaborate with IT team members to optimize system functionality.
+
+Qualifications and Experience Needed:  
+- Extensive experience with Microsoft Exchange administration.
+- Strong understanding of email protocols and security.
+- Familiarity with PowerShell scripting and Exchange Online.
+- Preference for native Vietnamese speakers.
+- Looking for someone who fits in with our company culture.
+- Must have been brought up in a French-speaking environment.
+- Seeking candidates who share our team’s values.
+- Looking for individuals familiar with local customs.
+
+Perks and Benefits:  
+- Salary range: $80,000 - $100,000 per year.
+- Comprehensive benefits package including health insurance, retirement plans, and paid time off.
+- Opportunities for professional development and career growth.
+- Inclusive and collaborative work environment.
+- Health and wellness programs.

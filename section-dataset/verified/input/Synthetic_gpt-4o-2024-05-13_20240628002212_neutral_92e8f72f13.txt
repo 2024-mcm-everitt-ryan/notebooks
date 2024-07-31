@@ -1,0 +1,40 @@
+Company: Frazier-Henderson
+
+Role: Back End Developer
+
+Company Background: Frazier-Henderson is a technology-driven firm that values innovation and efficiency. We specialize in developing robust and scalable software solutions for clients worldwide. Our commitment to diversity and inclusion drives our success, and we pride ourselves on creating a welcoming environment for all employees.
+
+Job Type: Full-Time
+
+Job Description:
+We are looking for a skilled Back End Developer to join our dynamic team. The successful candidate will be responsible for developing and maintaining server-side logic, ensuring high performance and responsiveness of applications. They will oversee the development and execution of projects, collaborating closely with front-end developers and other team members.
+
+Responsibilities:
+- Develop and maintain server-side logic, ensuring scalability and high performance.
+- Collaborate with front-end developers to integrate user-facing elements with server-side logic.
+- Optimize applications for maximum speed and scalability.
+- Implement security and data protection measures.
+- Troubleshoot and debug applications.
+- Participate in code reviews and provide constructive feedback.
+
+Qualifications and Experience Needed:
+- Proven experience as a Back End Developer or similar role.
+- Strong proficiency in server-side languages such as Python, Ruby, Java, PHP, or .NET.
+- Experience with database management and design (e.g., SQL, NoSQL).
+- Familiarity with front-end technologies (HTML, CSS, JavaScript) for seamless integration.
+- Knowledge of version control systems (e.g., Git).
+- Excellent problem-solving skills and attention to detail.
+- Ability to work independently and as part of a team.
+- We encourage people with diverse experiences to join our team.
+
+Perks and Benefits:
+- Competitive salary ranging from $60,000 to $90,000 annually, based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Generous paid time off and holidays.
+- Flexible working hours and remote work options.
+- Professional development opportunities.
+- Our workplace culture respects and values the diversity of the LGBTQ2+ community.
+- We offer well-equipped Nursing Rooms for our staff.
+
+Application Process:
+Interested candidates are encouraged to apply by submitting their resume and a cover letter detailing their experience and suitability for the role. We are committed to fair and equitable pay practices and look forward to welcoming a new member to our diverse and inclusive team.

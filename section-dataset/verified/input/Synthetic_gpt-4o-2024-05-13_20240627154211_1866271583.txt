@@ -1,0 +1,35 @@
+Company: Cook PLC  
+Role: AEM/JAVA Developer  
+
+Company Background:  
+Cook PLC is a leading technology firm committed to innovation and excellence. We pride ourselves on fostering a diverse and inclusive workplace that reflects our global clientele.
+
+Job Type: Full-time  
+
+Job Description:  
+We are seeking a talented AEM/JAVA Developer to join our dynamic team. The ideal candidate will have a strong background in AEM and JAVA, with a passion for developing high-quality, scalable applications. As part of our commitment to diversity, we particularly encourage candidates from various racial backgrounds to apply.
+
+Responsibilities:  
+- Develop and maintain AEM applications.
+- Collaborate with cross-functional teams to define, design, and ship new features.
+- Ensure the performance, quality, and responsiveness of applications.
+- Identify and correct bottlenecks and fix bugs.
+- Help maintain code quality, organization, and automation.
+
+Qualifications:  
+- Bachelor's degree in Computer Science or related field.
+- Proven experience in AEM and JAVA development.
+- Strong understanding of object-oriented programming.
+- Familiarity with RESTful APIs and front-end technologies.
+- Excellent problem-solving skills and attention to detail.
+
+Perks and Benefits:  
+- Salary range: $80,000 - $120,000 per year, based on experience.
+- Performance-based bonuses.
+- Comprehensive health, dental, and vision insurance.
+- Opportunities for professional development and career growth.
+- Flexible working hours and remote work options.
+- Inclusive and diverse workplace culture.
+
+Our Commitment to Diversity:  
+At Cook PLC, we value diversity and actively seek to include professionals from diverse racial backgrounds. We particularly welcome applications from individuals of Moroccan, Filipino, and Turkish heritage, as well as those educated in Western Europe. This initiative is part of our effort to enrich our workforce and better serve our global clients.

@@ -1,0 +1,33 @@
+Company: Perry, Diaz and Blake
+
+Job Title: Software Engineer - SQL Developer
+
+About Us:
+Perry, Diaz and Blake is a leading technology firm dedicated to delivering innovative solutions to our clients. We pride ourselves on our diverse and inclusive work environment, where everyone has the opportunity to grow and thrive.
+
+Job Description:
+We are seeking a highly skilled Software Engineer - SQL Developer to join our team. As a SQL Developer, you will be responsible for designing, developing, and maintaining our database systems.
+
+Responsibilities:
+- Design and implement database architectures to meet business requirements
+- Develop and maintain complex SQL scripts and stored procedures
+- Collaborate with cross-functional teams to identify and prioritize project requirements
+- Optimize database performance and troubleshoot issues
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- 3+ years of experience in SQL development
+- Strong understanding of database concepts and data modeling
+- Experience with SQL Server and Oracle databases
+- Excellent problem-solving skills and attention to detail
+
+Benefits:
+- Salary range: $80,000 - $100,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options
+
+We welcome applications from candidates with diverse backgrounds and perspectives. Refugees are encouraged to bring their unique perspectives to our team.

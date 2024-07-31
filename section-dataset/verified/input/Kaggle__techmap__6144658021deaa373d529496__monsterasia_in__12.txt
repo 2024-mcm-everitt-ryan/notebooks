@@ -1,0 +1,24 @@
+.NET Senior Engineer
+
+Description
+
+DXC Technology India is seeking great talent to join the Digital Design group. The Digital Design group works on the latest and emerging digital technologies to bring to life large digital transformations for our clients. We look for candidates who are digital natives and demonstrate dexterity in utilizing technology to solve real-world problems.
+
+The .NET Senior Support Engineer is an experienced multi-skilled professional, with experience in enhancements, maintenance, and development of .NET applications. He/she is a good team player, who is part of a team responsible for delivering end-to-end application services to customers. He/she collaborates with professionals in the regional and worldwide DXC Application Services community to leverage modern solutions and brings .NET Senior expertise to ensure the customer Solution & Design. The main goal is to ensure DXC delivers application services and to continuously improve our maturity in processes and technology, resulting in best-in-class technology implementation. The Engineer is motivated to take strong ownership of actions, to find innovative ways to improve the services’ agility and efficiency, and to continuously gain more skills. As a team member, good exposure will be provided to you on the latest technologies like Microservices, API & Cloud native development.
+
+Responsibilities
+
+- Work in cross-functional teams to drive effective creation of Minimum Viable Products that bring business value faster.
+- Design, develop, test, deploy, maintain, and improve software.
+- Think creatively to solve the user problem with holistic and simple solutions.
+- Support to maintain and improve the application functionality.
+- Drive best practices within teams with respect to coding standards and guidelines.
+- Develop/Write code and tests, deploy application functionality to meet requirement specification/In-Scope User Stories.
+- Manage individual project priorities, deadlines, and deliverables.
+- Build products aligned to help our clients succeed in the industry.
+- Ability to learn and adapt to new frameworks/technologies.
+- Ensure compliance with the documented software processes and procedures throughout the life cycle.
+- Constantly review the code to ensure the quality of the design by avoiding complexity, advocating clarity, and doing this with the team.
+- Contribute to each step of the product development process from ideation to implementation to release using DevOps best practices such as Continuous Integration, Automated Testing, and Continuous Delivery.
+- Create software documentation and update existing documentation.
+- Implement best practices, standards, and procedures including quality and delivery methodologies.

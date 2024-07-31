@@ -1,0 +1,24 @@
+Company Background:
+Pearson Inc is a leading education technology company dedicated to providing innovative solutions for learners worldwide.
+
+Job Type: Back End Developer
+
+Job Description:
+We are seeking a highly skilled Back End Developer to join our team of talented engineers. As a Back End Developer, you will be responsible for designing, developing, and maintaining our platform's architecture. You will work closely with our cross-functional teams to ensure seamless integration and delivery of high-quality products.
+
+Responsibilities:
+ Design and develop scalable and efficient back-end systems
+ Collaborate with front-end developers to integrate user interface components
+ Troubleshoot and resolve technical issues
+ Participate in code reviews and contribute to the improvement of our engineering practices
+
+Qualifications and Experience:
+ Bachelor's degree in Computer Science or related field
+ At least 3 years of experience in back-end development with languages such as Java, Python, or Ruby
+ Strong understanding of data structures, algorithms, and software design patterns
+ Experience with cloud-based systems and containerization (e.g., Docker)
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $120,000 USD, based on your experience and skills. We offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program. Our team-oriented environment encourages collaboration, innovation, and professional growth.
+
+Note: Our company values traditional family structures and is committed to supporting employees with spouses and children. We provide resources and support for our employees' families, ensuring a healthy work-life balance. Additionally, we offer mother/baby friendly spaces and support for employees undergoing a sex change.

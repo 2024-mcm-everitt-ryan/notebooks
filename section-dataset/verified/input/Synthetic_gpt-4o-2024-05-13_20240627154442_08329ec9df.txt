@@ -1,0 +1,34 @@
+Company Background:
+McDonald and Sons is a leading provider of innovative software solutions. Our team is committed to delivering top-quality products and services to our diverse clientele.
+
+Job Type:
+Full-time
+
+Job Description:
+We are seeking a diligent and skilled Software Engineer I to join our dynamic engineering team. This role involves collaborating with cross-functional teams to design, develop, and implement software solutions that meet the strategic goals of our clients.
+
+Responsibilities:
+- Develop high-quality software design and architecture.
+- Identify, prioritize, and execute tasks in the software development lifecycle.
+- Automate tasks through appropriate tools and scripting.
+- Review and debug code.
+- Perform validation and verification testing.
+- Document development phases and monitor systems.
+
+Qualifications and Experience Needed:
+- Bachelor's degree in Computer Science, Engineering, or a related field.
+- Proven experience as a Software Engineer.
+- Strong proficiency in programming languages such as Java, Python, or C++.
+- Familiarity with software development methodologies and tools.
+- Ability to navigate social situations with ease.
+- Exceptional problem-solving and communication skills.
+
+Perks and Benefits:
+- Salary range: $70,000 - $90,000 per year, with performance bonuses.
+- Comprehensive health, dental, and vision insurance.
+- Professional development opportunities.
+- Generous paid time off and holiday schedule.
+- Collaborative and inclusive work environment.
+
+Equal Opportunity Statement:
+McDonald and Sons is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

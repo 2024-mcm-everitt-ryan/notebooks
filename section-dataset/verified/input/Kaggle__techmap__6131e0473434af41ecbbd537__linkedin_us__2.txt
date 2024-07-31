@@ -1,0 +1,29 @@
+Job Summary:
+
+The Order to Cash (OTC) team supports the OTC process and enhancements for the company’s financial systems, including SAP and various Front of House, web applications, and payment systems. The Senior Financial Systems Analyst will play a key role in providing support and leadership, as needed, in various payment initiatives impacting multiple system applications throughout the segment/Enterprise. 
+
+The Senior Financial Systems Analyst (Project Hire through March 31st, 2022) will support project initiatives impacting multiple system applications throughout the segment & Enterprise. The position will play a key role as new technologies emerge and are placed into operation, ensuring planning and implementation consider the correct processing and accounting of financial data across multiple systems. This position will also focus on ensuring changes to processing financial data are properly documented and integrated within financial systems. 
+
+Additional responsibilities include:
+- Working with finance partners for approval
+- Performing testing efforts to validate financial and functional requirements
+- Working with IT and business partners to ensure that critical financial needs are covered
+- Supporting change management efforts through testing, documentation, and training
+
+This role will primarily support an enterprise project, including system integrations with payment processing, accounting postings, reporting, as well as testing and coordination efforts. A strong knowledge base in SAP will assist as the project is foundational to recording transactions correctly in SAP. 
+
+The ideal candidate should have:
+- Extensive experience with process improvement
+- The ability to learn new systems
+- Experience with projects at the Enterprise, Segment, or Business Unit level
+- Familiarity with current best practices
+- The ability to work with multiple business units to understand issues and partner with IT for a resolution
+
+Basic Qualifications:
+- Minimum of 4 – 6 years of demonstrated high-level professional knowledge and skills in finance and/or supply chain systems and processes
+- Minimum of 4 – 6 years leading change management efforts at the Enterprise, Segment, and Business Unit levels of the organization
+- Experience working for a large company and within a matrix organization
+- Passion for and knowledge of emerging technologies to deliver best practice ensuring financial systems integrity and controls
+- Expert knowledge/experience in Financial Systems and area for business and technical audiences
+- Experience supporting change for large projects that encompass front of house and back of house finance/accounting and integration to SAP ensuring financial integrity
+- Demonstrated multi-tasking and project management skills to manage workload from logistics to strategic efforts, while adhering to deadlines and high quality

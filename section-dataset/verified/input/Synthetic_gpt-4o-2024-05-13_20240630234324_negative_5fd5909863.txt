@@ -1,0 +1,25 @@
+Company: Alexander-Turner
+  Role: Machinist
+  Description
+    Alexander-Turner, a leading manufacturer in the precision engineering sector, is seeking a dedicated Machinist to join our robust team. Our company prides itself on delivering high-quality components to various industries including automotive, aerospace, and defense.
+
+  Responsibilities
+    - Operate and maintain CNC machines to produce precision parts.
+    - Interpret technical drawings and specifications.
+    - Troubleshoot and resolve machining issues.
+    - Ensure quality control standards are met.
+    - Collaborate with team members to optimize production processes.
+
+  Qualifications
+    - Proven experience as a Machinist.
+    - Familiarity with CNC machines and tools.
+    - Strong problem-solving skills.
+    - Ability to read and interpret blueprints and schematics.
+    - Previous experience in a fast-paced manufacturing environment is preferred.
+
+  Benefits
+    - Competitive salary: £30,000 to £45,000 annually, based on experience and skills.
+    - Comprehensive health and dental insurance.
+    - Retirement savings plan with company match.
+    - Opportunities for professional development and training.
+    - Paid time off and holidays.

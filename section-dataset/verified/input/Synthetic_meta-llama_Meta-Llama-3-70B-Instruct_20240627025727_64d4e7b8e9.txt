@@ -1,0 +1,33 @@
+Job Title: Python Developer (Vendor/Contractor)
+Company: Johnson PLC (vendor for Apple Inc.)
+
+About Us:
+Johnson PLC is a leading technology solutions provider, dedicated to delivering innovative services to top-tier clients like Apple Inc. We pride ourselves on creating an inclusive work environment that values diverse perspectives and fosters collaboration.
+
+Job Description:
+We are seeking a skilled Python Developer to join our team, working on-site at Apple Inc. As a Python Developer, you will be responsible for developing and maintaining scalable, efficient, and reliable software applications. Our ideal candidate is well-versed in Python programming, has excellent problem-solving skills, and is conversant in multiple languages, including English.
+
+Responsibilities:
+
+- Design, develop, and test software applications using Python
+- Collaborate with cross-functional teams to identify and prioritize project requirements
+- Troubleshoot and debug code issues, ensuring timely resolution
+- Develop and maintain technical documentation
+- Stay up-to-date with industry trends and emerging technologies
+
+Qualifications:
+
+- Bachelor's degree in Computer Science, Engineering, or a related field
+- 3+ years of experience in Python development
+- Strong understanding of data structures, algorithms, and software design patterns
+- Excellent communication and interpersonal skills
+- Conversant in English
+- Goal is to create an equitable and inclusive workplace, and we welcome applicants from diverse backgrounds
+
+Benefits:
+
+- Hourly rate of $50-$70
+- Opportunity to work with a leading technology company (Apple Inc.)
+- Collaborative and dynamic work environment
+- Professional development and training opportunities
+- Access to cutting-edge technologies and tools

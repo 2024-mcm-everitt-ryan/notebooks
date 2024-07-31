@@ -1,0 +1,36 @@
+6 months fully paid parental leave and subsidized fertility assistance.  
+Unlimited vacation with a 20-day minimum requirement.  
+$10,000 annual charitable donation matching.  
+
+Requirements:  
+- Minimum of 4 years of professional experience as a software engineer.  
+- There's no need to have previous experience with our stack if you are willing to learn.  
+- Native or fluent English.  
+
+You might be a good fit if you:  
+- Reflexively ask yourself, is this code the best way to make my users happy?  
+- Are excited to deeply understand the inner workings of the tools you use.  
+- Push through hard problems without giving up.  
+- Are not afraid to take on complicated systems.  
+- Can communicate clearly with colleagues who work, speak, and think differently.  
+- Work to make things easier for the next engineer who will touch your code.  
+- Always try to improve as a programmer and colleague.  
+
+About engineering at Wave:  
+You'll join an autonomous, cross-functional team focused on a single area of Wave's product. Each team is led by a product manager and mentored by a senior engineer on the team. We organize projects to give you as much ownership as possible. Typically, you'll be responsible for a feature or improvement end-to-end, from design through deployment.  
+
+Our stack (note that we will train you on any of these; you don't need any prior experience):  
+- Backend: Python 3 (mypy)  
+- API layer: GraphQL  
+- Android frontend: Kotlin/Jetpack  
+- iOS frontend: Swift/SwiftUI  
+- Web frontend: TypeScript/React  
+- Database: Postgres  
+- Infrastructure: GCP / Terraform  
+- Orchestration: Kubernetes  
+
+Our team:  
+We have a continuously growing in-country team in Senegal, Cote D'Ivoire, and Uganda, plus remote team members spread across the world. We're deeply passionate about our mission of bringing great financial services to the people who need them most. We foster autonomy for our employees. You'll learn to own your own projects at every stage, from understanding the problem to monitoring your solution in production. We're backed by world-class investors including Khosla Ventures, Founders Fund, Y Combinator, and the cofounders of PayPal.  
+
+How to apply:  
+Fill out the form below, and upload a resume plus a cover letter describing your interest in Wave and the role. We review applications on a rolling basis. Wave is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

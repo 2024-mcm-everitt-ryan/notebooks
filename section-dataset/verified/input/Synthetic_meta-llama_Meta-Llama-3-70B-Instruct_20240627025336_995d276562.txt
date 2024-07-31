@@ -1,0 +1,31 @@
+Company: Russell, Young and Farmer
+
+Job Title: enVision QA Tester
+
+About Us:
+Russell, Young and Farmer is a leading technology firm dedicated to delivering cutting-edge solutions to our clients. We pride ourselves on our dynamic work environment and commitment to excellence.
+
+Job Description:
+We are seeking an experienced enVision QA Tester to join our team. As an enVision QA Tester, you will be responsible for developing and executing comprehensive testing plans to ensure the quality of our software products.
+
+Responsibilities:
+- Design and implement test cases to identify software defects
+- Collaborate with cross-functional teams to resolve defects and improve overall product quality
+- Analyze and report test results to stakeholders
+- Stay up-to-date with industry trends and emerging technologies
+
+Qualifications:
+- Bachelor's degree in Computer Science or a related field
+- 2+ years of experience in software testing
+- Strong analytical and problem-solving skills
+- Ability to work effectively in a fast-paced environment
+
+What We Offer:
+- Salary range: $70,000 - $90,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+
+Note: We are looking for someone who shares our corporate values and can integrate into our team seamlessly.

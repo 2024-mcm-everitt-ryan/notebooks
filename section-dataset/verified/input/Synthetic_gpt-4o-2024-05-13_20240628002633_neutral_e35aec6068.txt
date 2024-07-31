@@ -1,0 +1,37 @@
+Company Background:
+Turner-Webb is a leading technology solutions provider that values innovation, diversity, and inclusion. We are dedicated to creating a work environment where everyone can thrive and contribute to our success.
+
+Job Title: Unix System Administrator
+
+Job Type: Full-time
+
+Job Description:
+Turner-Webb is seeking a skilled Unix System Administrator to join our dynamic team. The ideal candidate will have a strong background in Unix/Linux systems and be responsible for managing, maintaining, and supporting our Unix-based infrastructure.
+
+Responsibilities:
+- Install, configure, and maintain Unix/Linux systems and servers.
+- Monitor system performance and troubleshoot issues.
+- Ensure the security and integrity of Unix/Linux systems.
+- Perform regular system updates and patch management.
+- Collaborate with the IT team to develop and implement system improvements.
+- Provide technical support and guidance to internal teams.
+
+Qualifications:
+- Bachelor’s degree in Computer Science, Information Technology, or a related field.
+- Minimum of 3 years of experience as a Unix System Administrator.
+- Proficiency in Unix/Linux operating systems and shell scripting.
+- Strong understanding of network protocols and security practices.
+- Excellent problem-solving and communication skills.
+- Ability to work independently and as part of a team.
+
+Perks and Benefits:
+- We are committed to fair and equitable pay practices. The salary for this position ranges from $70,000 to $90,000, based on your experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Generous paid time off and holiday policies.
+- Opportunities for professional development and career growth.
+- Flexible working hours and remote work options.
+- Inclusive workplace where everyone, regardless of gender identity or sexual orientation, is encouraged to join our team.
+- Support for diverse family structures within our team.
+- Employee wellness programs and support for mental health.
+
+Turner-Webb is an equal opportunity employer. Our policies ensure inclusivity for all, and we are committed to creating a supportive environment for the LGBTQ community.

@@ -1,0 +1,31 @@
+Company Background:
+Simon, Nelson and Howell is a globally recognized consultancy firm with a strong emphasis on fostering a diverse and inclusive workplace. We pride ourselves on being a forward-thinking organization that values the unique perspectives and backgrounds of our team members.
+
+Job Type:
+Full-Time
+
+Job Description:
+We are currently seeking a DevOps Admin Analyst to join our dynamic team. This role involves managing and optimizing deployment pipelines, ensuring seamless integration of new software, and maintaining robust system performance. The ideal candidate will be proactive, detail-oriented, and passionate about continuous improvement.
+
+Responsibilities:
+- Manage and enhance CI/CD pipelines.
+- Collaborate with development and operations teams to streamline workflows.
+- Monitor system performance and troubleshoot issues as they arise.
+- Implement automation tools to improve efficiency.
+- Maintain and update documentation for processes and procedures.
+
+Qualifications and Experience Needed:
+- Bachelor's degree in Computer Science, Information Technology, or a related field.
+- 3+ years of experience in a DevOps or SysAdmin role.
+- Proficiency with tools such as Jenkins, Docker, Kubernetes, and Terraform.
+- Strong understanding of cloud platforms like AWS, Azure, or Google Cloud.
+- Excellent problem-solving skills and attention to detail.
+
+Perks and Benefits:
+- Salary range: $80,000 - $100,000 per year and performance bonuses.
+- Comprehensive health, dental, and vision insurance.
+- Generous paid time off and flexible work hours.
+- Professional development opportunities and a supportive team environment.
+- We are committed to creating a diverse workplace and strongly encourage candidates from various racial backgrounds and minority groups to apply. We welcome applications from candidates with a background in African American studies and are looking to hire professionals from diverse cultural backgrounds, particularly underrepresented groups.
+
+Simon, Nelson and Howell is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

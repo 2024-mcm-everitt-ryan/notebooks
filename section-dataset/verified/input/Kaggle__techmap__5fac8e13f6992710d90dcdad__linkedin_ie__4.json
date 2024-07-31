@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::5fac8e13f6992710d90dcdad::linkedin_ie::4",
+    "label_age":false,
+    "analysis_age":null,
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":false,
+    "analysis_masculine":null,
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":true,
+    "analysis_racial":"The phrase \"native speaker of Swedish language.\" might implicitly exclude candidates who are fluent in Swedish, but are not native speakers, potentially leading to discrimination based on nationality or ethnicity.",
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":"Main Responsibilities:. Conduct quality assessment work by ensuring and evaluating the quality delivery of the content reviewed in European markets. Conduct root cause data analysis and summary. Provide QA reports to content quality centre team members, and act as liaison with them to ensure consistent quality measurements throughout the operation. Work closely with Local Operations and Safety teams, and act as escalation point of contact for policy related questions, issues and solutions. Conduct coaching and calibration sessions to the Content Moderation teams across Europe to ensure that operational policies and processes are being applied consistently. Enhance moderation policy and community safety continuously. Qualifications. - Bachelor\u2019s Degree or equivalent education\/experience, advanced degree is preferred.. At least one year experience working on content quality, safety or policy in a major tech or media company. Deep understanding of European online safety, privacy, and expression issues. Strong attention to detail and ability to work independently. Proven track record of working with co-workers across different countries is preferable but not required. Fluent in English, and native speaker of Swedish language.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::5fac8e13f6992710d90dcdad::linkedin_ie\", \"source\": \"linkedin_ie\", \"country\": \"IE\", \"company\": \"TikTok\", \"position\": \"Quality Analyst-Swedish\", \"notes\": \"\", \"original\": \"<p>Main Responsibilities:<\/p><p>- Conduct quality assessment work by ensuring and evaluating the quality delivery of the content reviewed in European markets.<\/p><p>- Conduct root cause data analysis and summary.<\/p><p>- Provide QA reports to content quality centre team members, and act as liaison with them to ensure consistent quality measurements throughout the operation.<\/p><p>- Work closely with Local Operations and Safety teams, and act as escalation point of contact for policy related questions, issues and solutions.<\/p><p>- Conduct coaching and calibration sessions to the Content Moderation teams across Europe to ensure that operational policies and processes are being applied consistently.<\/p><p>- Enhance moderation policy and community safety continuously.<\/p><p><br><\/p><p>Qualifications<\/p><p>- Bachelor\\u2019s Degree or equivalent education\/experience, advanced degree is preferred;<\/p><p>- At least one year experience working on content quality, safety or policy in a major tech or media company.<\/p><p>- Deep understanding of European online safety, privacy, and expression issues.<\/p><p>- Strong attention to detail and ability to work independently.<\/p><p>- Proven track record of working with co-workers across different countries is preferable but not required.<\/p><p>- Fluent in English, and native speaker of <strong>Swedish<\/strong> language.<\/p>\"}"
+}

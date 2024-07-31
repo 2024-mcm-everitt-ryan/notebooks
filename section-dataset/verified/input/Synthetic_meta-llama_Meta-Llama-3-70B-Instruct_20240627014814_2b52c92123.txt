@@ -1,0 +1,37 @@
+Company: Jones-Hunter
+
+Role: Technical Architect - Telepresence TG
+
+Job Type: Full-time
+
+About Us:
+Jones-Hunter is a leading provider of innovative telepresence solutions, dedicated to revolutionizing the way people connect and collaborate. Our team of experts is passionate about creating cutting-edge technology that transforms the way we work and live.
+
+Job Description:
+We are seeking a highly skilled Technical Architect to join our Telepresence TG team. As a Technical Architect, you will be responsible for designing and implementing our telepresence solutions, ensuring seamless integration with our clients' systems.
+
+Responsibilities:
+- Design and develop scalable and efficient telepresence solutions
+- Collaborate with cross-functional teams to ensure successful project delivery
+- Develop and maintain technical documentation
+- Provide technical guidance and support to junior team members
+- Stay up-to-date with industry trends and emerging technologies
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- 5+ years of experience in telepresence technology or a related field
+- Strong understanding of cloud-based architecture and design patterns
+- Excellent communication and problem-solving skills
+- Ability to work effectively in a fast-paced environment
+
+Benefits:
+- Salary range: $90,000 - $120,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options
+
+Note:
+Must have experience with clients from similar cultural backgrounds to ensure effective communication and collaboration.

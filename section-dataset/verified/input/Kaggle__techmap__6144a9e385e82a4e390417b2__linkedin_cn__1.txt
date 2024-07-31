@@ -1,0 +1,50 @@
+Basic Qualifications
+
+- Years of design/implementation/operations/consulting experience with distributed applications.
+- Experience managing large-scale environments including escalations, incident, problem, and service availability.
+- Demonstrated ability to adapt to new technologies and learn quickly.
+- Customer-facing experience as a technical lead.
+- Exceptional customer focus and bias for action.
+- Candidates must have excellent oral and written communication skills.
+- High level of comfort communicating effectively across internal and external organizations.
+- Presentation skills.
+- High degree of comfort with both large and small audiences.
+- Bachelor's degree or equivalent work experience required.
+- Computer Science or Math background highly desired.
+- Working knowledge of software development practices and technologies highly desired.
+- Travel to client locations as needed (including Taiwan, China, and other regions).
+- Fluent in both Mandarin and English.
+
+Broad Experience Across Several Of The Following Areas
+
+- Linux system administration and troubleshooting (Windows experience is a plus.)
+- Network protocols and troubleshooting (Layer 4 - Layer 7 knowledge is a must).
+- Operations Management.
+- Internet technologies including HTTP, SMTP, DNS, TLS/SSL, SSH, VPN, etc.
+- Service Oriented Architecture.
+- Databases administration, troubleshooting, and performance tuning (relational and non-relational).
+- Software design, development, and deployment.
+- Internet Content distribution network.
+- Scripting / Automation.
+- IT Security.
+
+Preferred Qualifications
+
+- Years of IT/Technical Industry experience.
+- Experience with AWS service offering.
+- Passing AWS certifications is a plus.
+- Experience working directly with Enterprise customers.
+- Technical Program Management experience.
+- Ability to manage multiple tasks and projects in a fast-moving environment.
+- Strong written communication skills. This role will require the creation of content such as whitepapers and other written deliverables.
+- Coding experience and knowledge of development methodologies in the internet industry.
+- Developing or administration experience on Big Data/Hadoop.
+- Large scale and highly distributed environments.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. For individuals with disabilities who would like to request an interpreter or any support on-site, please inform our team.
+
+AWSGCR
+
+Company: Amazon Connect Technology Serv.
+
+Job ID: A1607196.

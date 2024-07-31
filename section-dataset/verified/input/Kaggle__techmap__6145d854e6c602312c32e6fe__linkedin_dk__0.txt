@@ -1,0 +1,16 @@
+WS Audiology
+
+Formed in 2019 through the merger of Sivantos and Widex, WS Audiology combines over 140 years of experience in pioneering the use of technology to help people with hearing loss hear the sounds that make life wonderful. We are active in over 125 markets and employ 11,000 people worldwide. Our broad portfolio of hearing-related products and services generates annual revenues of around EUR 2 billion. Learn about us on [URL Redacted].
+
+The Role
+
+We are looking for a newly graduated profile to join our Global IT Service Desk team and learn the way a local and global IT Service Desk team works. With more than 10,000 employees worldwide, Global IT is supporting our colleagues primarily from our hubs located in Denmark, Germany, Singapore, and the US. The support includes procurement of hardware, support to mobile devices (iOS/Android), and printers. You will participate in IT projects on a random basis and author knowledgebase documentation for internal IT use. You will learn to provide onsite and remote desktop/infrastructure support to users, including first-level support in WS Audiology's core applications. You will primarily be supporting business functions in Denmark and the rest of the Nordics. As an IT Supporter at WSA, you will be the face of IT in Lynge and will have contact with WSA employees every day, both welcoming new employees and supporting existing ones. This is why communication and customer service are essential for us.
+
+The Team
+
+You will join our local IT team based in Lynge and will have close collaboration with our Global IT Support services function. You will also be a part of a global team with 50 colleagues in Europe, Asia, and the US. We are a self-driven, service-minded team and our motto is to ensure a great work environment where IT support and customer satisfaction go hand in hand. The team typically works within normal working hours to support our colleagues when they are also in the office. You will be reporting to the local Manager of the IT Service Desk, located in our CO2-neutral HQ north of Copenhagen, Lynge.
+
+Your Responsibility
+
+- Daily operation in the Onsite IT Service Desk and contact with your colleagues who are responsible for the 24/7 Global Service Desk.
+- Execute service requests and standard changes such as creating AD users, share folders, mail accounts, backup data, or restore files.

@@ -1,0 +1,33 @@
+Company: Thompson-Richards
+
+Job Title: QA Test Lead
+
+About Us:
+Thompson-Richards is a leading software development company dedicated to creating innovative solutions for the tech industry. We value diversity and inclusivity in our workforce and are committed to fostering a culture of respect and empathy.
+
+Job Description:
+We are seeking a highly skilled QA Test Lead to join our quality assurance team. As a QA Test Lead, you will be responsible for developing and implementing testing strategies, leading a team of QA engineers, and collaborating with cross-functional teams to ensure the delivery of high-quality products.
+
+Responsibilities:
+- Develop and execute comprehensive testing plans and strategies
+- Lead and mentor a team of QA engineers to achieve project goals
+- Collaborate with development teams to identify and resolve defects
+- Analyze and report on testing results to improve product quality
+- Stay up-to-date with industry trends and emerging technologies
+
+Qualifications:
+- 5+ years of experience in QA testing, with at least 2 years in a leadership role
+- Strong knowledge of software development life cycles and testing methodologies
+- Excellent leadership and communication skills
+- Bachelor's degree in Computer Science or related field
+
+Benefits:
+- Salary range: $80,000 - $100,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible work arrangements, including remote work options
+
+We value diversity and welcome candidates from Hispanic and Latino communities, as well as those from other underrepresented racial backgrounds. We believe that a diverse team is a strong team, and we are committed to creating an inclusive work environment where everyone can thrive.

@@ -1,0 +1,18 @@
+Description
+
+Principal Customer Solutions Manager
+
+As an Amazon Web Services (AWS) Principal Customer Solutions Manager, you will be responsible for helping to guide the largest and most complex AWS Swiss customers along their multi-year journey to the cloud. In this new, highly visible position, you will ensure that all AWS teams are working together effectively and efficiently to deliver outcomes for the customer.
+
+In the role, you will be a critical partner to our Swiss customers, leveraging your delivery experience with large-scale transformations and helping shepherd them through their stages of AWS adoption. Guiding the customer through the operational, educational, and governance aspects of a successful AWS cloud journey, you will interface with customer and AWS leadership, driving collaboration between the other core account groups (Account Management, Support, Solutions Architecture, and Professional Services), product/engineering teams, and customer teams, planning and supporting major workload migrations.
+
+You will translate strategic initiatives in the account plan into executable actions, working backwards from our customers' key milestones. The execution of education plans, roadmap to business outcome alignments, Executive Briefing Sessions, and go-live events and transitions are a few items owned by the CSM that are critical to the success of our customer’s cloud journey.
+
+At AWS, you are encouraged to think big, invent, and take ownership of customer challenges. You will not only bring the best of AWS/Amazon to our customers, but you will also proactively help solve the customer’s challenges through new ideas, tools, and mechanisms. You will be a peer leader, have the ability to gain stakeholder buy-in, negotiate, and lead virtual teams. Your enterprise experience and operational excellence will influence the team’s decisions, provide insight, and help drive secure and robust solutions. You will evangelize AWS services and influence customers to adopt them. You should be passionate about delivering a great customer experience by deploying AWS solutions and inspiring innovation. You will be obsessed with contributing to the day-to-day management of your customers' successful adoption of AWS.
+
+Do you look around corners for ways to engage and service customers? Are you passionate about using technology to solve business problems that have a big customer impact? Come build the future with us.
+
+Basic Qualifications
+
+- Experience leading complex, large-scale IT/digital/business transformation programs.
+- Experience in a senior customer-facing role.

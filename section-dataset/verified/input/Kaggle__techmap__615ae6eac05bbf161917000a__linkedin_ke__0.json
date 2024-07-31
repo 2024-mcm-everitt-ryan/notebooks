@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::615ae6eac05bbf161917000a::linkedin_ke::0",
+    "label_age":true,
+    "analysis_age":"Specifying \"7-10 years of overall software engineering experience\" can exclude younger candidates who may have the necessary skills but haven't had the opportunity to accumulate that many years of experience.",
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":false,
+    "analysis_masculine":null,
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":false,
+    "analysis_racial":null,
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":" 2-3 years of strong Elixir experience. 3-5 years of functional programming experience. 7-10 years of overall software engineering experience. Senior engineer with several successful projects under their belt. Software design and architecture. Preferred web development stacks are Golang  Ruby on Rails  Java. Familiarity with common API and services design best practices. Deep experience in overall system design and implementationhow they scale, how they should fit together, and how theyre likely to break.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::615ae6eac05bbf161917000a::linkedin_ke\", \"source\": \"linkedin_ke\", \"country\": \"KE\", \"company\": \"Andela\", \"position\": \"Software Engineer\", \"notes\": \"\", \"original\": \"<ul><li>2-3 years of strong Elixir experience<\/li><li>3-5 years of functional programming experience<\/li><li>7-10 years of overall software engineering experience<\/li><li>Senior engineer with several successful projects under their belt<\/li><li>Software design and architecture<\/li><li>Preferred web&nbsp;development stacks are Golang &gt; Ruby on Rails &gt; Java<\/li><li>Familiarity with common API and services design best practices.<\/li><li>Deep experience in overall system design and implementation\\u2014how they scale, how they should fit together, and how they\\u2019re likely to break.<\/li><\/ul>\"}"
+}

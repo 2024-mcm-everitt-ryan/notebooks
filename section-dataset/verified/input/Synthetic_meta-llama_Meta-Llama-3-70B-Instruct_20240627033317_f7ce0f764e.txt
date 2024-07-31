@@ -1,0 +1,32 @@
+Wallace-Weaver is a leading developer of microscopy imaging software, dedicated to advancing scientific discovery and improving human health. We are seeking a talented and motivated individual to join our team as a Microscopy Imaging Software Development Fellowship.
+
+As a member of our software development team, you will contribute to the design, development, and testing of our microscopy imaging software products. You will work closely with cross-functional teams to identify and prioritize project requirements, develop and implement software features, and ensure timely and high-quality delivery of our products.
+
+Responsibilities:
+
+- Collaborate with scientists, engineers, and other stakeholders to understand project requirements and develop software solutions
+- Design, develop, and test software features using programming languages such as Python, C++, and MATLAB
+- Participate in code reviews and contribute to the improvement of our software development processes
+- Troubleshoot and resolve software issues using debugging tools and techniques
+- Stay up-to-date with industry trends and emerging technologies in microscopy imaging and software development
+
+Qualifications:
+
+- Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related field
+- Strong programming skills in Python, C++, or MATLAB
+- Experience with software development methodologies such as Agile and Scrum
+- Excellent problem-solving skills and attention to detail
+- Ability to work effectively in a team environment and communicate technical information to non-technical stakeholders
+
+Benefits:
+
+- Salary range: $70,000 - $90,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development in a dynamic and innovative company
+- Collaborative and diverse work environment
+- Flexible working hours and remote work options
+- Access to cutting-edge technologies and tools
+
+Wallace-Weaver is an equal opportunities employer committed to creating a diverse and inclusive workplace. We welcome applications from qualified candidates of all backgrounds.

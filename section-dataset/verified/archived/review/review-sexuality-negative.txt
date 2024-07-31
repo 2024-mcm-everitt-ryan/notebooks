@@ -1,0 +1,2995 @@
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002752:negative:e1db5e4f1b
+The job posting has negative sexuality bias due to the use of heteronormative language and assumptions. It mentions benefits that appeal specifically to traditional family structures (maternity and paternity leave, parenting workshops for Moms and Dads) and uses gendered pronouns (his/her) which may discourage non-heteronormative candidates from applying.
+------------------------------
+
+Company Background:
+Haynes LLC is a leading biotechnological firm dedicated to innovative research and development in the field of biological sciences. Our team is committed to advancing scientific knowledge and improving global health through cutting-edge research.
+
+Job Type:
+Full-time
+
+Job Description:
+We are seeking a highly motivated Biological Scientist to join our dynamic team. The successful candidate will contribute to various research projects focused on molecular biology, biochemistry, and genetics. Our state-of-the-art laboratory facilities provide an excellent environment for scientific discovery and collaboration.
+
+Responsibilities:
+- Conduct comprehensive research in molecular biology, biochemistry, and genetics.
+- Design and execute experiments, analyze data, and interpret results.
+- Prepare technical reports, research papers, and presentations.
+- Collaborate with cross-functional teams to advance research projects.
+- Maintain accurate and detailed laboratory records.
+
+Qualifications and Experience:
+- Ph.D. in Biological Sciences, Molecular Biology, Biochemistry, or a related field.
+- Strong experience in molecular biology techniques and experimental design.
+- Demonstrated ability to conduct independent research and publish findings.
+- Excellent analytical and problem-solving skills.
+- Strong communication and teamwork abilities.
+
+Perks and Benefits:
+- We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $120,000 per year, based on your experience and skills.
+- Comprehensive health insurance, including medical, dental, and vision coverage.
+- Our benefits include both maternity and paternity leave options.
+- We offer workshops for Moms and Dads on parenting and work balance.
+- Each team member is expected to contribute his/her best efforts.
+- Our facilities are designed to support Moms and Dads.
+- Family-oriented work environment.
+- We respect traditional family values and support employees in their lifestyle choices.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628005246:negative:c4eea53c62
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies a heteronormative work environment. Phrases such as "join our close-knit team of like-minded individuals" and the lack of explicit inclusivity language may make LGBTQ+ candidates feel unwelcome or uncertain about their place in the organization.
+------------------------------
+
+Company: Christensen-Shaw
+Role: Program Assistant
+
+About Us:
+Christensen-Shaw is a leading organization dedicated to delivering exceptional program management services. We are committed to fostering a professional work environment.
+
+Job Description:
+We are seeking a highly skilled Program Assistant to join our close-knit team of like-minded individuals. As a Program Assistant, you will provide administrative support to our program managers, ensuring the smooth operation of our projects. Your attention to detail, organizational skills, and ability to work well under pressure will make you a valuable asset to our team.
+
+Responsibilities:
+
+ Provide administrative support to program managers, including scheduling meetings, preparing reports, and maintaining project files
+ Coordinate travel arrangements, process expense reports, and perform other administrative tasks as needed
+ Assist in the development of project plans, schedules, and budgets
+ Maintain accurate and up-to-date records and reports
+ Collaborate with team members to achieve project goals and objectives
+
+Qualifications and Experience:
+
+ 2+ years of experience in an administrative role, preferably in program management
+ Strong organizational, communication, and problem-solving skills
+ Proficiency in Microsoft Office, particularly Excel, Word, and PowerPoint
+ Ability to work independently and as part of a team
+ Bachelor's degree in Business Administration, Management, or a related field
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from £35,000 to £45,000, based on your experience and skills. You will also be eligible for our comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program. We also provide a supportive environment for employees with traditional family values.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628011600:negative:71dca2031f
+The job posting subtly discourages non-heteronormative candidates from applying by implying a traditional family structure and a focus on personal relationships, which may not be inclusive of diverse sexual orientations or gender identities. The language used is negative and exclusionary, potentially deterring candidates who do not identify with traditional heterosexual norms.
+------------------------------
+
+Company: Nguyen, Bright and Henderson
+Role: Facility Operations Custodial Assistant
+
+Job Description:
+Nguyen, Bright and Henderson is seeking a reliable and detail-oriented Facility Operations Custodial Assistant to join our team. As a key member of our facilities team, you will be responsible for maintaining the cleanliness and organization of our office space. This is a great opportunity to work with a dynamic team and contribute to the smooth operation of our facilities.
+
+Responsibilities:
+
+ Clean and maintain office spaces, including restrooms, kitchens, and common areas
+ Restock supplies and materials as needed
+ Perform minor repairs and maintenance tasks
+ Collaborate with the facilities team to ensure efficient use of resources
+ Provide exceptional customer service to employees and visitors
+
+Qualifications and Experience:
+
+ 1-2 years of experience in custodial or facilities maintenance
+ Ability to lift up to 50 pounds and stand for long periods
+ Basic knowledge of cleaning supplies and equipment
+ Excellent communication skills
+
+Perks and Benefits:
+
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $35,000 to $45,000 USD, based on your experience and skills.
+ Opportunities for professional growth and development
+ A supportive and inclusive work environment
+
+Note:
+Our company values a traditional family structure and a commitment to personal relationships, reflecting our belief in the importance of these values in the workplace. We believe that these traditional values contribute to a harmonious and productive work environment. We also support employees who align with these values and maintain a lifestyle choice that reflects our company's ethos.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628003929:negative:86b57665dc
+The job posting subtly discourages non-heteronormative candidates from applying by using language that assumes a traditional family structure and gender roles. Phrases such as "Moms and Dads at work" and "our facilities are designed to support Moms and Dads" imply a heteronormative environment, making it less likely for LGBTQ+ individuals to feel welcome or included.
+------------------------------
+
+Company: Garcia-Morales
+Role: IT Auditor
+
+About Us:
+Garcia-Morales is a leading consulting firm dedicated to providing exceptional auditing services to our clients. We pride ourselves on our commitment to excellence and our team's passion for delivering high-quality results.
+
+Job Description:
+We are seeking an experienced IT Auditor to join our team. As an IT Auditor, you will be responsible for conducting risk-based audits, identifying control deficiencies, and developing recommendations for improvement. You will work closely with our clients to understand their business needs and provide tailored solutions to meet their auditing requirements.
+
+Responsibilities:
+
+ Conduct risk-based audits to identify control deficiencies and develop recommendations for improvement
+ Collaborate with clients to understand their business needs and provide tailored auditing solutions
+ Develop and maintain audit programs, procedures, and workpapers
+ Identify and communicate audit findings to clients and internal stakeholders
+ Stay up-to-date with industry trends and regulatory requirements
+
+Qualifications and Experience:
+
+ Bachelor's degree in Accounting, Computer Science, or related field
+ 3+ years of experience in IT auditing or a related field
+ Certified Information Systems Auditor (CISA) or Certified Internal Auditor (CIA) certification preferred
+ Strong analytical and problem-solving skills
+ Excellent communication and interpersonal skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills. We offer a comprehensive benefits package, including medical, dental, and vision insurance, retirement plan matching, and paid time off. Our facilities are designed to support Moms and Dads, ensuring a family-friendly environment.
+
+Our Team:
+We are a dynamic and diverse team of professionals dedicated to delivering exceptional results. We strive to create a supportive environment where everyone can thrive. Moms and Dads at work will find our environment particularly accommodating.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002000:negative:454c581fb9
+The job posting subtly discourages non-heteronormative candidates by emphasizing support for traditional family structures and using gender-specific pronouns, thereby suggesting a preference for heterosexual candidates.
+------------------------------
+
+Company Background:
+Cooper-Hicks is a leading technology firm specializing in developing innovative software solutions for clients across various industries. Our commitment to excellence and customer satisfaction has positioned us as a trusted partner in the tech community.
+
+Job Type:
+Full-Time
+
+Job Description:
+We are seeking a talented and dedicated computer programmer to join our dynamic team. The ideal candidate will bring his/her unique perspective to develop and maintain high-quality software applications. This role requires a keen eye for detail and a passion for technology.
+
+Responsibilities:
+- Develop, test, and maintain software applications.
+- Collaborate with other team members to design and implement new features.
+- Troubleshoot and debug code.
+- Participate in code reviews.
+- Continuously update technical knowledge and skills.
+
+Qualifications and Experience Needed:
+- Bachelor’s degree in Computer Science or a related field.
+- At least 2 years of experience in software development.
+- Proficiency in programming languages such as Java, Python, or C++.
+- Strong problem-solving skills and attention to detail.
+- Ability to work collaboratively in a team environment.
+- Candidates should align with our traditionally-oriented culture.
+
+Perks and Benefits:
+- Competitive salary ranging from $60,000 to $90,000, based on experience and skills.
+- Health, dental, and vision insurance.
+- Retirement plan with company match.
+- Paid time off and holidays.
+- Family-friendly workplace policies supporting Moms and Dads.
+
+We are committed to fair and equitable pay practices. The salary for this position ranges from $60,000 to $90,000, based on your experience and skills.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002159:negative:90774f4243
+The job posting subtly discourages non-heteronormative candidates by emphasizing a family-oriented work environment, using gender-specific pronouns, and explicitly welcoming applications from men and women only, without recognizing non-binary or LGBTQ+ identities.
+------------------------------
+
+Company Background:
+Figueroa LLC is a leading technology solutions provider, dedicated to delivering innovative and efficient systems to our diverse clientele. Our family-oriented work environment promotes collaboration and professional growth.
+
+Job Type:
+Full-time
+
+Job Description:
+We are seeking a skilled Computer and Information Systems Manager to oversee and enhance our technological infrastructure. He/she will participate in team meetings and provide input on critical technology decisions, ensuring optimal performance and security.
+
+Responsibilities:
+- Manage and direct the work of IT personnel.
+- Develop and implement IT policies and procedures.
+- Oversee the installation and maintenance of hardware and software systems.
+- Ensure data security and compliance with regulatory standards.
+- Participate in meetings to provide input and guidance on IT strategy.
+
+Qualifications and Experience Needed:
+- Bachelor’s degree in Computer Science or related field.
+- Minimum of 5 years of experience in IT management.
+- Strong leadership and team management skills.
+- Excellent problem-solving and analytical abilities.
+- Proficiency in system and network administration.
+
+Perks and Benefits:
+- Competitive salary ranging from £70,000 to £90,000, based on experience and skills.
+- Comprehensive health and dental insurance.
+- Opportunities available for both men and women in our growing company.
+- Retirement savings plan with company match.
+- Professional development and training programs.
+
+How to Apply:
+Interested candidates should submit their resume and cover letter to careers@figueroallc.com. We welcome applications from men and women with diverse backgrounds.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002834:negative:010cfac182
+The job posting subtly discourages non-heteronormative candidates by emphasizing traditional gender roles and relationships, such as including only husbands or wives in health plans and encouraging only men and women to apply.
+------------------------------
+
+Company: Kaiser Group
+
+Role: DBA Lead
+
+Company Background:
+Kaiser Group is a leading provider in the technology sector, renowned for our dedication to innovation and excellence. Our team thrives on established social ethics, and we have built a reputation for delivering superior solutions to our clients.
+
+Job Type: Full-Time
+
+Job Description:
+We are seeking a skilled DBA Lead to join our dynamic team. This role involves overseeing database administration tasks, ensuring data integrity, and optimizing database performance. The ideal candidate will demonstrate strong leadership abilities and a commitment to upholding our company's values.
+
+Responsibilities:
+- Manage and maintain database environments.
+- Ensure data integrity and security.
+- Optimize database performance and troubleshoot issues.
+- Lead and mentor a team of database administrators.
+- Collaborate with other departments to ensure seamless data integration.
+
+Qualifications and Experience:
+- Bachelor's degree in Computer Science or related field.
+- Proven experience as a DBA Lead or in a similar role.
+- Strong knowledge of database management systems (DBMS).
+- Excellent problem-solving and communication skills.
+
+Perks and Benefits:
+- Comprehensive health plans where employees can include their husbands or wives.
+- Generous paid time off and holiday schedule.
+- Professional development opportunities.
+- Competitive salary: We are committed to fair and equitable pay practices. The salary for this position ranges from $70,000 to $100,000, based on your experience and skills.
+- Supportive and inclusive work environment.
+
+Application Process:
+We encourage both men and women to apply for this exciting role and become part of our esteemed company. Apply now to take the next step in your career with Kaiser Group.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628004914:negative:ac1397354b
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies a traditionally-oriented culture and accommodates only certain lifestyle choices, excluding others.
+------------------------------
+
+Lead Business Analyst at Harper-Smith
+
+Company Background:
+Harper-Smith is a leading financial services firm that provides innovative solutions to individuals and businesses. With a revenue of over $10 million USD, we are committed to delivering exceptional results and exceeding our clients' expectations.
+
+Job Description:
+We are seeking an experienced Lead Business Analyst to join our team. As a Lead Business Analyst, you will be responsible for analyzing business needs and developing solutions to improve our operations. You will work closely with our stakeholders to identify areas for improvement and implement changes that drive results.
+
+Responsibilities:
+
+ Analyze business needs and develop solutions to improve operations
+ Collaborate with stakeholders to identify areas for improvement
+ Develop and implement process improvements
+ Conduct training sessions for employees
+ Stay up-to-date with industry trends and best practices
+
+Qualifications and Experience:
+
+ 5+ years of experience in business analysis
+ Strong analytical and problem-solving skills
+ Excellent communication and interpersonal skills
+ Ability to work in a fast-paced environment
+ Bachelor's degree in Business Administration or related field
+
+Perks and Benefits:
+We offer a comprehensive benefits package that accommodates family-centric lifestyles and traditional values. Our salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills. We are committed to fair and equitable pay practices. You will also receive 20 days of paid vacation, 10 paid holidays, and opportunities for professional development. We value a work environment that supports traditional family structures and values.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628003644:negative:00debdaa75
+The job posting subtly discourages non-heteronormative candidates from applying by implying a traditionally gendered work environment. The language used, such as "men and women," assumes a binary gender identity and does not explicitly welcome candidates with diverse gender identities or expressions. This creates an environment where non-heteronormative individuals may feel uncomfortable or excluded.
+------------------------------
+
+Company Background:
+Colon-Gray is a reputable company in the construction industry, dedicated to providing top-notch services to our clients. We value teamwork, innovation, and customer satisfaction.
+
+Job Type: Paperhanger
+
+Job Description:
+We are seeking a skilled Paperhanger to join our team. As a Paperhanger, you will be responsible for hanging and finishing wallpaper, borders, and other decorative wall coverings. You will work closely with our clients to understand their design preferences and provide expert advice on paper selection and installation.
+
+Responsibilities:
+
+    Measure and cut wallpaper to fit specific areas
+    Apply adhesive and hang wallpaper, ensuring a smooth and even finish
+    Finish and trim edges to perfection
+    Collaborate with clients to select paper designs and patterns
+    Maintain a clean and organized workspace
+
+Qualifications and Experience:
+
+    2+ years of experience as a Paperhanger or in a related field
+    Strong knowledge of wallpaper installation techniques and materials
+    Excellent communication and customer service skills
+    Ability to work independently and as part of a team
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from USD 45,000 to USD 60,000, based on your experience and skills. We offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as paid time off and holidays. We encourage both men and women to apply, reflecting our commitment to a balanced and diverse workforce. We believe in maintaining a traditional work environment that values the unique contributions of men and women.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001433:negative:7e67683e91
+The job posting subtly discourages non-heteronormative candidates from applying by using gender-specific terms and traditional family structures, such as "men and women," "he/she," and "moms and dads." These phrases suggest a preference for candidates who fit traditional gender and family roles, potentially alienating LGBTQ+ individuals.
+------------------------------
+
+Company Background:
+Berry Inc is a leading tech company committed to developing innovative solutions for our global clientele. We take pride in our dynamic and high-performing team, dedicated to pushing the boundaries in the tech industry.
+
+Job Type:
+Full-Time
+
+Job Description:
+We are seeking a talented Senior Product Manager to join our expanding projects. The ideal candidate will be a visionary leader ready to take on new challenges and manage team projects effectively. He/she will play a critical role in the growth and development of our product lines.
+
+Responsibilities:
+- Lead product strategy and development for new initiatives.
+- Collaborate with cross-functional teams to ensure project alignment.
+- Oversee the product lifecycle from conception to launch.
+- Manage and mentor a diverse team to achieve project milestones.
+
+Qualifications and Experience:
+- Minimum of 7 years of experience in product management.
+- Strong leadership skills with the ability to manage and inspire a team.
+- Proven track record of successful product launches.
+- Excellent communication skills, both verbal and written.
+- Bachelor's degree in Business, Engineering, or a related field.
+
+Perks and Benefits:
+- Competitive salary range from $90,000 to $130,000, based on experience and skills.
+- Comprehensive healthcare and dental plans.
+- Access to our exclusive parenting support resources for moms and dads.
+- Professional development opportunities and continuing education support.
+- Generous paid time off and flexible work arrangements.
+
+Berry Inc is an Equal Opportunity Employer:
+We value diversity and are committed to creating an inclusive environment for all employees. We encourage applications from all qualified men and women.
+
+Application Process:
+Interested candidates should submit their resumes and cover letters detailing relevant experience and accomplishments.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628003836:negative:7d24ed3d2a
+The job posting subtly discourages non-heteronormative candidates from applying by using language that assumes a traditional nuclear family structure. The phrase "Our facilities are designed to support employees with families" implies that the company is primarily supportive of employees with spouses and children, potentially making LGBTQ+ candidates feel less welcome. The lack of explicit language supporting diversity and inclusivity of all sexual orientations and gender identities further contributes to this negative bias.
+------------------------------
+
+Company: Arnold-Oconnor
+
+Job Type: Cartographer
+
+Job Description:
+We are seeking a highly skilled Cartographer to join our team at Arnold-Oconnor. As a Cartographer, you will be responsible for creating accurate and visually appealing maps, conducting spatial analysis, and collaborating with our team to develop innovative solutions.
+
+Responsibilities:
+
+ Design and develop maps, charts, and other visualizations to communicate complex data insights
+ Conduct spatial analysis and modeling to identify trends and patterns
+ Collaborate with cross-functional teams to integrate mapping solutions with business objectives
+ Stay up-to-date with industry trends and emerging technologies in cartography and GIS
+
+Qualifications and Experience Needed:
+
+ Bachelor's degree in Cartography, GIS, or related field
+ 3+ years of experience in cartography or a related field
+ Proficiency in ArcGIS, QGIS, or other mapping software
+ Excellent analytical and problem-solving skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $60,000 to $80,000 USD, based on your experience and skills. Our company offers a comprehensive benefits package, including medical, dental, and vision insurance, as well as opportunities for professional development and growth.
+
+About Us:
+At Arnold-Oconnor, we value diversity and inclusivity, and strive to create a welcoming environment for all employees. Our facilities are designed to support employees with traditional family structures, and we offer a range of benefits to support work-life balance. We understand the importance of family and provide a supportive environment for employees with spouses and children.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628004727:negative:c8271ec34f
+The job posting subtly discourages non-heteronormative candidates from applying by using language that assumes a traditional nuclear family structure. The phrase "Moms and Dads" is used to describe the target audience for on-site childcare services, implying that only heterosexual couples with children are welcome to apply. This language creates a barriers for LGBTQ+ individuals who may not identify with this family structure, making them feel less likely to fit in or be accepted in the company culture.
+------------------------------
+
+Blackburn Ltd is seeking a skilled Bus and Truck Mechanics and Diesel Engine Specialist to join our team. As a leader in the transportation industry, we pride ourselves on our commitment to excellence and customer satisfaction.
+
+Job Description:
+We are looking for a dedicated and experienced individual to diagnose and repair diesel engines, perform routine maintenance, and ensure our fleet is running smoothly. The ideal candidate will have a strong work ethic, excellent problem-solving skills, and the ability to work well under pressure.
+
+Responsibilities:
+
+ Diagnose and repair diesel engines, transmissions, and brake systems
+ Perform routine maintenance tasks, such as oil changes and tire rotations
+ Collaborate with other mechanics to ensure efficient workflow
+ Maintain a clean and organized workspace
+
+Qualifications and Experience:
+
+ 5+ years of experience as a bus and truck mechanic
+ Strong knowledge of diesel engines and mechanical systems
+ Ability to work in a fast-paced environment
+ Valid driver's license
+
+Perks and Benefits:
+We offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program. We are committed to fair and equitable pay practices. The salary for this position ranges from $60,000 to $80,000 USD per year, based on your experience and skills. Additionally, we provide a safe and respectful work environment, with opportunities for professional growth and development. On-site childcare services are available for Moms and Dads.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002710:negative:0bfc422fb1
+The job post subtly discourages non-heteronormative candidates by making references to "family-friendly" company events and emphasizing support for employees' "personal lifestyle choices," which can be interpreted as exclusionary language towards LGBTQ+ individuals.
+------------------------------
+
+Company Background:
+Ortiz-Burns is a leading civil engineering firm committed to delivering innovative infrastructure solutions. Our projects range from urban development to large-scale transportation networks, and we pride ourselves on our meticulous attention to detail and excellence in execution.
+
+Job Type:
+Full-Time Civil Engineer
+
+Job Description:
+Ortiz-Burns is seeking a dedicated and talented Civil Engineer to join our dynamic team. The ideal candidate will be responsible for designing, developing, and overseeing construction projects, ensuring they meet our high standards of quality and efficiency.
+
+Responsibilities:
+- Design and plan civil engineering projects, including roads, bridges, and buildings.
+- Conduct site inspections and ensure compliance with safety and engineering standards.
+- Prepare detailed project reports and documentation.
+- Collaborate with contractors, architects, and other stakeholders to ensure project success.
+- Manage project timelines and budgets effectively.
+
+Qualifications and Experience Needed:
+- Bachelor’s degree in Civil Engineering or a related field.
+- Professional Engineer (PE) license preferred.
+- Minimum 5 years of experience in civil engineering.
+- Proficiency in AutoCAD, Civil 3D, and other relevant software.
+- Strong analytical and problem-solving skills.
+- Excellent communication and teamwork abilities.
+
+Perks and Benefits:
+- Competitive salary ranging from $70,000 to $90,000 annually, based on experience and skills.
+- Health, dental, and vision insurance.
+- Retirement savings plan with company match.
+- Paid time off and holidays.
+- Supportive work environment with opportunities for professional development.
+- Our company supports employees in their personal lifestyle choices.
+- Family-friendly company events, including mother/baby friendly spaces.
+
+Ortiz-Burns is an equal opportunity employer. We encourage applications from all qualified individuals, regardless of race, gender, disability, or sexual preference.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002606:negative:b2592f2efa
+This job posting subtly discourages non-heteronormative candidates by emphasizing the need to uphold conventional social morals and traditional gender norms, creating an environment that might feel exclusive to those who do not conform to these standards.
+------------------------------
+
+Company Background:
+Young-Smith is a well-established security firm providing top-tier protection services for high-profile clients. Our reputation is built on trust, discipline, and a commitment to traditional values.
+
+Job Type:
+Full-time
+
+Job Description:
+We are seeking a dedicated and disciplined Sergeant to join our team. This role requires leadership, vigilance, and an unwavering commitment to the safety of our clients and team members. The ideal candidate will uphold the highest standards of conduct and professional ethics.
+
+Responsibilities:
+- Lead and manage a team of security personnel.
+- Develop and implement security protocols.
+- Conduct regular training sessions to ensure team readiness.
+- Monitor and report on security activities.
+- Coordinate with other law enforcement agencies as needed.
+
+Qualifications and Experience Needed:
+- Minimum of 5 years of experience in a security or law enforcement role.
+- Proven leadership skills and ability to manage a team.
+- Strong understanding of security protocols and procedures.
+- Excellent communication and interpersonal skills.
+- High moral and ethical standards.
+
+Perks and Benefits:
+- Competitive salary ranging from $50,000 to $70,000 annually, based on experience and skills.
+- Health and dental insurance.
+- Retirement plans.
+- Opportunities for professional development.
+- Access to mother rooms for privacy and comfort.
+
+Company Values:
+We expect candidates to uphold conventional social morals and be comfortable with a work environment that values traditional gender norms. We believe in creating a supportive environment that respects long-established social norms, which align with the values of a traditional family structure. Candidates should be comfortable with a workplace that may not support alternative lifestyle choices.
+
+Application Process:
+Interested candidates should submit a resume and cover letter detailing their experience and suitability for the role.
+
+Young-Smith is an equal opportunity employer committed to providing a supportive and inclusive workplace.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001859:negative:5f442d0760
+This job posting for Hamilton-Moore subtly discourages non-heteronormative candidates by using gender-specific pronouns and emphasizing family structures that align with traditional heteronormative roles.
+------------------------------
+
+Company: Hamilton-Moore  
+Role: Field Operations Training Coordinator
+
+Company Background:  
+Hamilton-Moore is a leading provider of innovative solutions in the field operations sector. Our dynamic team is dedicated to driving efficiency and quality in various industries.
+
+Job Description:  
+We are seeking a Field Operations Training Coordinator to develop and implement comprehensive training programs for our field operations staff. This role requires a proactive approach to ensure all team members are well-equipped with the necessary skills.
+
+Responsibilities:  
+- Design and deliver training programs for field operations staff.
+- Evaluate training effectiveness and update programs as needed.
+- Collaborate with department heads to identify training needs.
+- Maintain training records and prepare reports.
+- Ensure compliance with industry standards and regulations.
+
+Qualifications and Experience Needed:  
+- Bachelor's degree in Business, Human Resources, or related field.
+- Proven experience in training coordination or similar role.
+- Strong leadership and communication skills.
+- Ability to work independently and as part of a team.
+- Proficient in MS Office and training software.
+
+Perks and Benefits:  
+- We are committed to fair and equitable pay practices. The salary for this position ranges from USD 50,000 to USD 70,000, based on your experience and skills.
+- Comprehensive health and dental insurance.
+- Retirement savings plan with company match.
+- Flexible work hours and opportunities for remote work.
+- Professional development and training opportunities.
+
+Additional Information:  
+- The candidate should demonstrate his/her ability to lead effectively.
+- We offer workshops for Moms and Dads on parenting and work balance.
+- Our policies support employees regardless of their sexual preference.
+- Our facilities are designed to support Moms and Dads.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628005652:negative:260f266480
+The job posting subtly discourages non-heteronormative candidates from applying by implying that the company values traditional family structures and only provides support for employees with spouses and children, thereby excluding those with non-traditional family arrangements or different sexual orientations.
+------------------------------
+
+Company Background:
+Pearson Inc is a leading education technology company dedicated to providing innovative solutions for learners worldwide.
+
+Job Type: Back End Developer
+
+Job Description:
+We are seeking a highly skilled Back End Developer to join our team of talented engineers. As a Back End Developer, you will be responsible for designing, developing, and maintaining our platform's architecture. You will work closely with our cross-functional teams to ensure seamless integration and delivery of high-quality products.
+
+Responsibilities:
+ Design and develop scalable and efficient back-end systems
+ Collaborate with front-end developers to integrate user interface components
+ Troubleshoot and resolve technical issues
+ Participate in code reviews and contribute to the improvement of our engineering practices
+
+Qualifications and Experience:
+ Bachelor's degree in Computer Science or related field
+ At least 3 years of experience in back-end development with languages such as Java, Python, or Ruby
+ Strong understanding of data structures, algorithms, and software design patterns
+ Experience with cloud-based systems and containerization (e.g., Docker)
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $120,000 USD, based on your experience and skills. We offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program. Our team-oriented environment encourages collaboration, innovation, and professional growth.
+
+Note: Our company values traditional family structures and is committed to supporting employees with spouses and children. We provide resources and support for our employees' families, ensuring a healthy work-life balance. Additionally, we offer mother/baby friendly spaces and support for employees undergoing a sex change.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628010045:negative:1e44c55074
+The job posting subtly discourages non-heteronormative candidates from applying by using language that assumes a traditional nuclear family structure, such as mentioning "moms and dads" in the benefits section, implying that only heterosexual couples with children are valued by the company. This language creates an unwelcoming atmosphere for LGBTQ+ individuals, making them less likely to consider applying for the role.
+------------------------------
+
+Job Title: Meeting and Convention Planner
+
+Company: Werner-Dixon
+
+About Us:
+Werner-Dixon is a leading event management company specializing in corporate conferences and meetings. We pride ourselves on our exceptional organizational skills and attention to detail, ensuring that every event is a success.
+
+Job Description:
+We are seeking a highly skilled Meeting and Convention Planner to join our team. As a Meeting and Convention Planner, you will be responsible for planning, coordinating, and executing corporate events, conferences, and meetings. Your expertise in event management will ensure that our clients' expectations are exceeded, and their events are memorable and successful.
+
+Responsibilities:
+
+ Coordinate and plan logistics for corporate events, conferences, and meetings
+ Develop and manage event budgets
+ Liaise with clients to understand their event requirements and preferences
+ Negotiate with vendors and suppliers to secure the best deals
+ Ensure events are executed according to plan, on time, and within budget
+
+Qualifications and Experience:
+ Bachelor's degree in Hospitality, Event Management, or a related field
+ At least 3 years of experience in event planning and management
+ Proven track record of successfully planning and executing events
+ Excellent communication, organizational, and project management skills
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $60,000 to $80,000 USD, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, retirement plan matching, and paid time off. Our benefits are designed to support the well-being of all our employees, especially moms and dads who are balancing work and family life.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002247:negative:a2f8b064a1
+This job posting subtly discourages non-heteronormative candidates by using heteronormative language and excluding non-binary or non-heterosexual individuals through phrases like "enthusiastic men and women" and emphasizing "paternity leave" without mention of other family structures.
+------------------------------
+
+Company Background:
+Kim-Perry is a leader in the aviation industry, known for its commitment to excellence and innovation. With a team of dedicated professionals, we strive to maintain the highest standards of safety and performance.
+
+Job Type:
+Full-Time
+
+Job Description and Responsibilities:
+We are seeking a skilled Aircraft Mechanic to join our team. The successful candidate will be responsible for inspecting, repairing, and maintaining aircraft to ensure they meet safety regulations and operational standards. Key responsibilities include:
+
+- Performing regular maintenance checks on aircraft.
+- Diagnosing and repairing mechanical and electrical issues.
+- Maintaining detailed records of maintenance work.
+- Collaborating with other technicians and engineers to improve processes.
+
+Qualifications and Experience Needed:
+- Minimum of 3 years of experience in aircraft maintenance.
+- FAA Airframe and Powerplant (A&P) certification.
+- Strong analytical and problem-solving skills.
+- Ability to work in a fast-paced environment.
+- Excellent communication skills.
+
+Perks and Benefits:
+- Competitive salary ranging from $50,000 to $75,000, based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Retirement savings plan with company match.
+- Paid time off and sick leave.
+- Opportunities for professional development and career advancement.
+
+Our team is looking for enthusiastic men and women.
+Paternity leave is an essential part of our family benefits, supporting traditional family structures.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628011155:negative:68a2c9c9cf
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies a traditionally-oriented environment, such as describing the team as "like a close-knit family." This language may make LGBTQ+ individuals feel uncomfortable or unwelcome. Additionally, the lack of explicit inclusivity language or diversity-focused benefits may further contribute to a sense of exclusion.
+------------------------------
+
+Operations Coordinator
+Schaefer Group
+
+About Us:
+Schaefer Group is a leading provider of logistical solutions, dedicated to delivering exceptional service to our clients. Our team is built on the principles of hard work, dedication, and a strong sense of tradition.
+
+Job Description:
+We are seeking an Operations Coordinator to join our team. As an Operations Coordinator, you will be responsible for ensuring the smooth day-to-day operation of our logistics department. You will work closely with our management team to optimize processes, manage budgets, and coordinate with vendors.
+
+Responsibilities:
+
+ Coordinate logistics operations to ensure timely and efficient delivery of services
+ Develop and implement process improvements to increase productivity
+ Manage budgets and track expenses to ensure cost-effectiveness
+ Build and maintain relationships with vendors and clients
+ Collaborate with the management team to achieve departmental goals
+
+Qualifications and Experience:
+
+ 2+ years of experience in operations or logistics management
+ Strong analytical and problem-solving skills
+ Excellent communication and interpersonal skills
+ Ability to work in a fast-paced environment
+ Bachelor's degree in Business Administration, Logistics, or related field
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $55,000 to $70,000 USD, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program. Our team is like a close-knit family, and we prioritize a healthy work-life balance. We value traditional values and a cohesive team environment. We believe in maintaining a workplace that reflects traditional family values.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628004204:negative:c5b83bb92a
+The job posting subtly discourages non-heteronormative candidates from applying by using language that assumes traditional family structures and heteronormative relationships. The phrase "traditional family structures" implies a narrow and exclusionary definition of family, and the lack of inclusive language may deter non-heteronormative candidates from applying.
+------------------------------
+
+Company: Reynolds, Perkins and Jordan
+
+Job Title: Order Filler
+
+About Us:
+Reynolds, Perkins and Jordan is a leading distributor of industrial equipment, committed to delivering exceptional customer service and quality products.
+
+Job Description:
+We are seeking a highly organized and efficient Order Filler to join our team. As an Order Filler, you will be responsible for accurately and efficiently filling customer orders, managing inventory, and maintaining a safe and clean work environment.
+
+Responsibilities:
+
+ Fill customer orders accurately and efficiently
+ Manage inventory levels and report any discrepancies
+ Maintain a safe and clean work environment
+ Collaborate with team members to achieve department goals
+ Demonstrate a strong commitment to customer satisfaction
+
+Qualifications and Experience:
+
+ High school diploma or equivalent required
+ 1-2 years of experience in a warehouse or distribution environment
+ Ability to lift up to 50 pounds and stand for long periods
+ Excellent communication and teamwork skills
+ Ability to work in a fast-paced environment
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $35,000 to $45,000 USD per year, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program.
+
+Our team is like family, and we support our employees' traditional family structures with our family leave policy. We strive to create a welcoming work environment, but we recognize that our company culture may not be the best fit for everyone, especially those with non-traditional lifestyle choices.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002543:negative:48ba97c86f
+This job posting subtly discourages non-heteronormative candidates by emphasizing traditional community values, using gender-specific pronouns, and highlighting a traditionally-oriented culture.
+------------------------------
+
+Company Background:
+Sanders and Sons is a leading software development company with a rich history of delivering high-quality solutions to clients across various industries. We pride ourselves on our commitment to excellence and our strong community values.
+
+Job Type:
+Full-time
+
+Job Description:
+We are seeking a highly skilled Computer Software Engineer to join our team. The ideal candidate will show his/her commitment to our values and culture, which reflect traditional community values. The successful candidate will have demonstrated his/her expertise in the field and will align with our traditionally-oriented culture.
+
+Responsibilities:
+- Develop, test, and maintain high-quality software solutions.
+- Collaborate with team members to design new software features.
+- Troubleshoot and resolve software issues.
+- Ensure software performance, reliability, and scalability.
+- Participate in code reviews and provide constructive feedback.
+
+Qualifications and Experience:
+- Bachelor's degree in Computer Science or related field.
+- Minimum of 3 years of experience in software development.
+- Proficiency in programming languages such as Java, C++, or Python.
+- Strong problem-solving skills and attention to detail.
+- Excellent communication skills, both written and verbal.
+
+Perks and Benefits:
+- We are committed to fair and equitable pay practices. The salary for this position ranges from $70,000 to $100,000 annually, based on your experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Retirement savings plan with company match.
+- Paid time off and holidays.
+- Professional development opportunities.
+- Company events that reflect our traditional community values, fostering a family-oriented environment. We also support employees undergoing a sex change to ensure they feel included in our family-oriented culture.
+
+How to Apply:
+Interested candidates should send their resume and a cover letter detailing their experience and alignment with our values to [email@example.com].
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628004440:negative:28d6c48c7e
+The job posting subtly discourages non-heteronormative candidates from applying by using language that emphasizes traditional values and family-friendly benefits, implying a heteronormative work environment. The lack of explicit language supporting LGBTQ+ individuals or inclusive policies may deter non-heteronormative candidates from considering the role.
+------------------------------
+
+Company Background: 
+Mclaughlin, Bell and Ellis is a leading provider of administrative services, dedicated to delivering exceptional support to our clients. We pride ourselves on our traditional values and commitment to excellence.
+
+Job Type: 
+Principal Administrative Associate
+
+Job Description:
+We are seeking a highly organized and detail-oriented individual to join our team as a Principal Administrative Associate. As a key member of our administrative team, you will provide critical support to our senior management, ensuring the smooth operation of our day-to-day activities.
+
+Responsibilities:
+
+ Manage complex calendars, coordinate travel arrangements, and prepare comprehensive itineraries
+ Develop and maintain effective filing systems, both physical and digital
+ Prepare and distribute confidential documents, reports, and presentations
+ Provide exceptional customer service to internal and external stakeholders
+ Develop and maintain positive working relationships with senior management and colleagues
+
+Qualifications and Experience:
+
+ 5+ years of experience in an administrative role, preferably in a traditional or conservative industry
+ High school diploma or equivalent required; bachelor's degree preferred
+ Proficient in Microsoft Office Suite and Google Workspace
+ Excellent organizational, communication, and problem-solving skills
+ Ability to maintain confidentiality and handle sensitive information with discretion
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $55,000 to $70,000 USD, based on your experience and skills. Our comprehensive benefits package includes medical, dental, and vision coverage, as well as a retirement matching program. We also offer a range of family-friendly benefits, including generous parental leave and flexible work arrangements. We value a work environment that supports lifestyle choices, which we believe fosters a strong and cohesive team.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628003216:negative:addbe77b7b
+Notice the lack of emphasis on diversity, equity, and inclusion, as well as the absence of any language that promotes an inclusive and welcoming workplace for all individuals. This can subtly signal that diversity is not a priority.
+------------------------------
+
+Company: Carter, Elliott and Chavez
+
+Job Title: Quality Assurance Auditor
+
+Job Description:
+We are seeking a highly detailed and analytical individual to join our Quality Assurance team as an Auditor. The successful candidate will be responsible for reviewing and evaluating the quality of our products and services, identifying areas for improvement, and implementing process changes to ensure compliance with industry standards. Our company focuses on fostering a workplace that supports traditional family values and conventional identities.
+
+Responsibilities:
+
+ Conduct thorough audits of our products and services to identify areas for improvement
+ Develop and implement process changes to ensure compliance with industry standards
+ Collaborate with cross-functional teams to drive quality improvements
+ Analyze data and produce reports to senior management
+
+Qualifications and Experience:
+
+ Bachelor's degree in a related field
+ 3+ years of experience in quality assurance or a related field
+ Strong analytical and problem-solving skills
+ Excellent communication and collaboration skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $65,000 to $85,000, based on your experience and skills. We offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program. Our benefits are tailored to support traditional family structures and relationships, reflecting our company values.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628010133:negative:f98d07cf6d
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies a traditional, heteronormative family structure and uses gendered terms. The phrase "Our team is like a big happy family" may make non-heteronormative candidates feel unwelcome or excluded, and the use of "guys and gals" to refer to employees may be seen as outdated and exclusionary.
+------------------------------
+
+Company Background:
+Winters and Sons is a well-established company with a strong reputation for excellence in our industry. We are committed to providing exceptional service to our clients and a supportive work environment for our employees.
+
+Job Type: Administrative Assistant
+
+Job Description:
+We are seeking a highly organized and detail-oriented administrative assistant to join our team. As an administrative assistant, you will be responsible for providing administrative support to our management team, coordinating events, and maintaining accurate records.
+
+Responsibilities:
+
+ Provide administrative support to management team
+ Coordinate events and meetings
+ Maintain accurate records and files
+ Perform other administrative tasks as needed
+
+Qualifications and Experience Needed:
+ 2+ years of experience in an administrative role
+ Strong organizational and communication skills
+ Ability to work in a fast-paced environment
+ High school diploma or equivalent required
+
+Perks and Benefits:
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $40,000 to $55,000 USD, based on your experience and skills.
+ Opportunities for professional growth and development
+ Access to a comprehensive benefits package, including health, dental, and vision insurance
+ A collaborative and supportive work environment
+
+About Our Team:
+Our team is like a big happy family of guys and gals who value teamwork and camaraderie. We're looking for someone who will fit in with our dynamic and energized atmosphere. We believe in creating a workplace that feels like home.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628010234:negative:e0c5fbab7e
+The job posting subtly discourages non-heteronormative candidates from applying by using language that assumes a traditional and conservative background. Phrases such as "Men and women in this role are expected to handle client interactions professionally" and "Preference for candidates with conventional backgrounds" create an atmosphere that may be unwelcoming to individuals who do not identify as heterosexual.
+------------------------------
+
+At Boyer, Davis and Nelson, we are seeking a highly skilled Data Research Specialist to join our team. As a leading research firm, we are dedicated to providing innovative solutions to our clients. Our ideal candidate will have a strong background in data analysis and research, with a keen eye for detail and excellent communication skills.
+
+Job Description:
+The Data Research Specialist will be responsible for conducting in-depth research, analyzing data, and presenting findings to our clients. This is a full-time position that requires a high level of professionalism and discretion when interacting with clients. Men and women in this role are expected to handle client interactions professionally.
+
+Responsibilities:
+
+ Conduct research and analyze data to identify trends and patterns
+ Develop and present comprehensive reports to clients
+ Collaborate with cross-functional teams to develop research projects
+ Stay up-to-date with industry developments and emerging trends
+
+Qualifications and Experience:
+
+ Bachelor's degree in a related field (e.g., statistics, mathematics, computer science)
+ At least 2 years of experience in data analysis and research
+ Strong analytical and problem-solving skills
+ Excellent communication and presentation skills
+ Ability to work in a fast-paced environment and meet deadlines
+ Preference for candidates with conventional backgrounds
+
+We are committed to fair and equitable pay practices. The salary for this position ranges from $60,000 to $80,000 USD, based on your experience and skills. Our benefits package includes comprehensive health insurance, retirement savings plan, and paid time off.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001222:negative:26b43b9ff7
+The job posting includes subtle negative language that discourages non-heteronormative candidates. It emphasizes traditional gender roles and family structures, such as mentioning support specifically for "Moms and Dads" and highlighting a strong sense of marital commitment.
+------------------------------
+
+Company Background:
+Shea, Fuller, and Garrett is a leading logistics company providing comprehensive transportation solutions for a diverse range of clients. We pride ourselves on our efficiency, reliability, and committed workforce.
+
+Role: Fleet Administrator
+
+Job Description:
+We are looking for an organized and detail-oriented Fleet Administrator to join our team. The Fleet Administrator will be responsible for managing our fleet of vehicles, ensuring compliance with regulatory requirements, and coordinating maintenance schedules.
+
+Responsibilities:
+- Oversee the daily operations of the company's fleet.
+- Ensure all vehicles are properly maintained and comply with safety standards.
+- Maintain accurate records of vehicle inspections, maintenance schedules, and repairs.
+- Coordinate with drivers to ensure timely deliveries and pickups.
+- Manage fleet-related budgets and expenses.
+- Assist in the development and implementation of fleet policies and procedures.
+
+Qualifications and Experience Needed:
+- Bachelor’s Degree in Business Administration or related field.
+- At least 3 years of experience in fleet management.
+- Strong organizational and multitasking skills.
+- Excellent communication and interpersonal skills.
+- Proficiency in fleet management software.
+- Valid driver’s license.
+
+Perks and Benefits:
+- We are committed to fair and equitable pay practices. The salary for this position ranges from €40,000 to €55,000, based on your experience and skills.
+- Comprehensive health and dental insurance.
+- Paid time off and holidays.
+- Retirement savings plan with company match.
+- Training and professional development opportunities.
+
+Additional Information:
+Men and women are invited to join our dynamic workforce. We value a strong sense of marital commitment in our employees. Our maternity leave policy supports our working mothers, and we believe his/her contributions will be crucial to our success. Our facilities are designed to support Moms and Dads, ensuring a family-friendly environment. We respect traditional family structures and believe in supporting employees who uphold these values.
+
+Application Process:
+Interested candidates are invited to submit their resume and cover letter detailing their suitability for the role. We look forward to welcoming the right candidate to our team.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628003744:negative:0efd310df3
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies a traditional, conservative, and heteronormative work environment. The phrase "Our team is looking for individuals who share our values of innovation, teamwork, and customer satisfaction" is followed by "We are a traditional company with a strong focus on family values," which may be perceived as exclusionary to individuals who do not fit into traditional family structures. This language creates a negative and unwelcoming tone for non-heteronormative candidates.
+------------------------------
+
+Job Title: CRM Developer
+Company: Gray, Jennings and Prince
+
+About Us:
+Gray, Jennings and Prince is a leading consulting firm that helps businesses build strong relationships with their customers. We are committed to delivering exceptional results and providing a supportive work environment for our employees.
+
+Job Description:
+We are seeking a skilled CRM Developer to join our team. As a CRM Developer, you will be responsible for designing, developing, and implementing CRM solutions that meet our clients' needs. You will work closely with our sales team to understand client requirements and develop solutions that drive business growth.
+
+Responsibilities:
+
+ Design, develop, and implement CRM solutions using Microsoft Dynamics 365
+ Collaborate with cross-functional teams to identify and prioritize project requirements
+ Develop and maintain technical documentation of CRM solutions
+ Troubleshoot and resolve CRM-related issues
+ Stay up-to-date with the latest CRM trends and technologies
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science or related field
+ At least 3 years of experience in CRM development
+ Proficiency in Microsoft Dynamics 365 and C#
+ Strong problem-solving skills and attention to detail
+ Excellent communication and collaboration skills
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from USD 80,000 to USD 110,000, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program.
+
+Our Team:
+Our team is looking for individuals who share our values of innovation, teamwork, and customer satisfaction. We are a traditional company with a strong focus on family values and maintaining a conservative work environment. We believe in upholding time-honored traditions and fostering a workplace that reflects these principles.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002443:negative:0fc6446e85
+This job posting subtly discourages non-heteronormative candidates by using heteronormative language and non-inclusive pronouns, such as "his/her" for resume submission and contributions, and highlighting benefits tailored for "new mothers" only, without recognizing diverse family structures.
+------------------------------
+
+Company: Combs-Roberts  
+Role: Unit Manager  
+
+Company Background:  
+Combs-Roberts is a leading provider in the healthcare industry, renowned for our commitment to quality and innovation. Our mission is to deliver exceptional healthcare services while fostering a supportive and inclusive work environment.
+
+Job Type: Full-time  
+
+Job Description:  
+We are seeking a dedicated Unit Manager to lead our dynamic healthcare team. The ideal candidate will have a proven track record of excellence in managing healthcare units and demonstrate unwavering commitment to our organizational values.
+
+Responsibilities:  
+- Oversee day-to-day operations of the healthcare unit.
+- Ensure compliance with healthcare regulations and standards.
+- Lead and mentor staff, fostering a positive work environment.
+- Develop and implement unit policies.
+- Collaborate with other departments to enhance patient care services.
+
+Qualifications and Experience Needed:  
+- Bachelor's degree in Healthcare Management or related field.
+- At least 5 years of experience in a managerial role within the healthcare sector.
+- Excellent leadership and organizational skills.
+- Strong communication and interpersonal abilities.
+- Commitment to upholding our core values.
+
+Perks and Benefits:  
+- Comprehensive health insurance plans.
+- Retirement savings options.
+- Professional development opportunities.
+- We are committed to fair and equitable pay practices. The salary for this position ranges from USD 70,000 to USD 100,000, based on your experience and skills.
+- New mothers are entitled to our maternity leave programme, ensuring a smooth transition back to work.
+
+Application Instructions:  
+Please submit his/her resume for consideration. His/her contributions will be crucial to our success. The ideal candidate will show his/her commitment to our values.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628010540:negative:fea65bf891
+The job posting subtly discourages non-heteronormative candidates from applying by emphasizing the company's "traditional family values" and using language that implies a heteronormative family structure. The posting does not explicitly state that the company is LGBTQ+ inclusive, and the phrase "respect everyone's lifestyle choice" may be seen as a vague attempt to appear inclusive while still maintaining a heteronormative bias.
+------------------------------
+
+Company: Suarez, Matthews and Johnson
+
+Job Title: Administrator on Duty
+
+Job Type: Full-time
+
+About Us:
+Suarez, Matthews and Johnson is a family-owned business that values traditional family values and a strong work ethic. We are seeking an Administrator on Duty to join our team who shares our vision and can thrive in a fast-paced environment. We respect everyone's lifestyle choice, but we emphasize the importance of traditional family structures and values.
+
+Job Description:
+We are looking for a detail-oriented and organized individual to provide administrative support to our management team. The successful candidate will be responsible for preparing reports, managing schedules, and performing various administrative tasks.
+
+Responsibilities:
+
+ Prepare and distribute reports to management
+ Manage and maintain schedules and calendars
+ Perform administrative tasks as required
+ Provide exceptional customer service
+
+Qualifications and Experience:
+
+ 2+ years of administrative experience
+ High school diploma or equivalent required; post-secondary education an asset
+ Proficiency in Microsoft Office and Google Suite
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $45,000 to $60,000 USD per year, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision coverage, as well as a retirement matching program.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628010841:negative:98b3544c7d
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies a traditional and conservative company culture, such as "our conservative values" and not including any explicit language of support or inclusivity for LGBTQ+ employees.
+------------------------------
+
+Company: Payne, Wilson and Beard
+Role: Examiner
+
+We are seeking an examiner to join our team at Payne, Wilson and Beard. As an examiner, you will be responsible for reviewing and analysing documents, identifying errors, and ensuring compliance with company standards.
+
+To be successful in this role, you should be highly detail-oriented, organized, and possess excellent communication skills. You will be working closely with our team to ensure timely and accurate completion of projects.
+
+The ideal candidate will have a bachelor's degree in a related field and at least 3 years of experience in project management. Proficiency in Microsoft Office and project management software is required.
+
+We offer a competitive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program. We are committed to fair and equitable pay practices. The salary for this position ranges from USD 60,000 to USD 80,000, based on your experience and skills.
+
+Our company values a cohesive team environment, and we encourage applicants who share our traditional and conservative values to apply. We believe in maintaining a professional atmosphere that aligns with our long-standing principles and uphold family values.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628004021:negative:8aa4dbf30e
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies a traditional, heteronormative environment. The phrase "conventional ethics" is particularly problematic, as it implies that non-traditional or non-heteronormative individuals may not be a good fit for the company culture. This language may make LGBTQ+ individuals feel unwelcome or excluded from the application process.
+------------------------------
+
+Job Title: Appraiser
+Company: Richardson Ltd
+
+About Us:
+Richardson Ltd is a leading appraisal firm dedicated to providing expert valuation services to our clients. We pride ourselves on our commitment to excellence and our team-oriented approach.
+
+Job Description:
+We are seeking a highly skilled gay/lesbian Appraiser to join our team. As an Appraiser, you will be responsible for conducting on-site inspections, analyzing market data, and preparing detailed appraisal reports. You will work closely with our clients to understand their needs and provide tailored solutions.
+
+Responsibilities:
+
+ Conduct on-site inspections of properties to gather data and take photos
+ Analyze market data and sales trends to determine property values
+ Prepare detailed appraisal reports, including written descriptions and valuation estimates
+ Communicate effectively with clients to understand their needs and provide exceptional customer service
+ Stay up-to-date with industry trends and regulatory changes
+
+Qualifications and Experience:
+
+ Bachelor's degree in Real Estate, Finance, or a related field
+ 2+ years of experience in appraisal or a related field
+ Strong analytical and communication skills
+ Ability to work independently and as part of a team
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $60,000 to $80,000 USD, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision coverage, as well as a retirement matching program.
+
+Our Company Culture:
+We appreciate employees who maintain conventional ethics and are committed to upholding traditional values. This environment is ideal for those who align with a traditional, heteronormative workplace.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002338:negative:16bd050df4
+This job posting subtly discourages non-heteronormative candidates by using phrases such as "He/she should be prepared to work flexible hours," and "We appreciate candidates who embody long-standing social values," which imply traditional gender roles and social norms. It also includes "Dedicated mother rooms are part of our facility," which subtly targets heterosexual family structures.
+------------------------------
+
+Company: Joseph-Newton  
+Role: Surgeon  
+
+Company Background:  
+Joseph-Newton is an esteemed healthcare institution committed to providing top-tier medical services. We pride ourselves on a tradition of excellence and a close-knit professional community.
+
+Job Type: Full-time  
+
+Job Description:  
+We are seeking a highly skilled surgeon to join our dedicated team. The ideal candidate will have a strong background in surgical procedures, attention to detail, and a commitment to patient care. He/she should be prepared to work flexible hours and adapt to a dynamic healthcare environment.
+
+Responsibilities:  
+- Perform surgical procedures with precision and care.  
+- Collaborate with a multidisciplinary team to ensure the highest quality of patient care.  
+- Maintain accurate and detailed patient records.  
+- Stay updated with the latest advancements in surgical practices.  
+- Participate in continuous professional development.
+
+Qualifications and Experience:  
+- Medical degree from an accredited institution.  
+- Board certification in surgery.  
+- Minimum of 5 years of experience in a surgical role.  
+- Strong decision-making and problem-solving skills.  
+- Excellent communication and interpersonal skills.  
+
+Perks and Benefits:  
+- Competitive salary ranging from $150,000 to $250,000, based on experience and skills.  
+- Comprehensive health, dental, and vision insurance.  
+- Generous paid time off and flexible working hours.  
+- Dedicated mother rooms are part of our facility.  
+- Professional development opportunities and support for continuing education.
+
+Apply Now:  
+Join our close-knit team of like-minded individuals at Joseph-Newton where we appreciate candidates who embody long-standing social values. We respect everyone's lifestyle choice and are committed to fostering a supportive workplace.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002225:negative:a015f5f2ae
+The job posting subtly discourages non-heteronormative candidates by emphasizing traditional values and long-established social norms, suggesting a preference for candidates who align with these views.
+------------------------------
+
+Company Background:
+Bennett-Cisneros is a leading firm specializing in procurement and supply chain management. We pride ourselves on maintaining a workplace culture rooted in traditional values and committed to achieving operational excellence.
+
+Job Type:
+Full-Time
+
+Job Description:
+We are seeking a Purchasing Agent - Buyer to join our dynamic team. The successful candidate will be responsible for sourcing products, negotiating with suppliers, and managing inventory levels to ensure the smooth operation of our procurement processes.
+
+Responsibilities:
+- Source and procure products and services in alignment with company needs.
+- Negotiate contracts with suppliers to secure favorable terms.
+- Maintain and update procurement records.
+- Monitor inventory levels and coordinate with the logistics team.
+- Ensure compliance with company policies and established social ethics.
+
+Qualifications and Experience:
+- Bachelor's degree in Business, Supply Chain Management, or related field.
+- Minimum of 3 years of experience in a purchasing or procurement role.
+- Strong negotiation and communication skills.
+- Ability to respect and uphold long-established social norms and company values, which align with traditional family-oriented principles and heterosexuality.
+- Proficiency in Microsoft Office Suite and procurement software.
+
+Perks and Benefits:
+- Competitive salary ranging from $50,000 to $70,000 based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Paid time off and holidays.
+- Retirement plan with company match.
+- Professional development opportunities.
+
+How to Apply:
+Interested candidates should submit their resume and cover letter detailing their relevant experience and alignment with our company values.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002647:negative:2111d57e68
+This job posting discourages non-heteronormative candidates by emphasizing traditional community values, marital commitment, and using gender-specific pronouns.
+------------------------------
+
+Company: Tucker PLC
+
+Role: Regional Field Administrative Assistant
+
+Company Background: Tucker PLC is a leading provider of innovative solutions tailored to meet the dynamic needs of our clients. With a commitment to excellence and a reputation for upholding traditional community values, we strive to maintain a welcoming and productive work environment.
+
+Job Type: Full-time
+
+Job Description: 
+
+We are seeking a dedicated Regional Field Administrative Assistant to join our dynamic team. The ideal candidate will have a strong sense of marital commitment and demonstrate their expertise in the field. Our company events reflect traditional community values, and the successful candidate will be recognized for his/her contributions to the team. We value employees who align with our community's lifestyle choices.
+
+Responsibilities:
+
+- Coordinate and manage regional field operations.
+- Support field staff in administrative tasks and logistics.
+- Ensure compliance with company policies and procedures.
+- Assist in the preparation of reports and presentations.
+- Facilitate communication between regional offices and headquarters.
+  
+Qualifications and Experience:
+
+- Proven experience in a similar administrative role.
+- Strong organizational and multitasking skills.
+- Excellent written and verbal communication abilities.
+- Demonstrated ability to work independently and as part of a team.
+
+Perks and Benefits:
+
+- Competitive salary ranging from £25,000 to £35,000 annually, based on experience and skills.
+- Comprehensive health plan available.
+- Opportunities for professional development and career advancement.
+- Supportive and inclusive work culture.
+
+Application Process:
+
+Interested candidates are encouraged to apply with their updated resume and a cover letter outlining their relevant experience and commitment to the role.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628004823:negative:60dd81545f
+The job posting subtly discourages non-heteronormative candidates from applying by implying that the company values traditional morals and social structures, and by using language that suggests a preference for candidates who fit into conventional gender roles. This language may make LGBTQ+ individuals feel unwelcome or uncomfortable applying for the position.
+------------------------------
+
+Job Title: Computer Operator
+Company: Garcia-Ramos
+
+About Us:
+Garcia-Ramos is a leading technology firm committed to delivering innovative solutions to our clients. Our company culture is built on traditional values and morals, and we strive to provide a supportive environment for our employees.
+
+Job Description:
+We are seeking a skilled Computer Operator to join our team. As a Computer Operator, you will be responsible for ensuring the smooth operation of our computer systems and networks. This includes monitoring system performance, troubleshooting issues, and performing routine maintenance tasks.
+
+Responsibilities:
+
+ Monitor and maintain computer systems and networks to ensure optimal performance
+ Troubleshoot hardware and software issues and perform repairs as needed
+ Perform routine maintenance tasks, such as backups and software updates
+ Collaborate with other teams to resolve technical issues
+ Provide technical support to employees as needed
+
+Qualifications and Experience:
+
+ 1-2 years of experience in a similar role
+ Strong knowledge of computer systems and networks
+ Excellent problem-solving skills
+ Ability to work well in a team environment
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $45,000 to $60,000 per year, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program.
+
+Note: We're looking for energetic and dedicated individuals to join our team. Our company values diversity, but we prefer candidates who respect conventional social structures and traditional gender roles.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001709:negative:dcda96c9d4
+The job posting subtly discourages non-heteronormative candidates by emphasizing conventional backgrounds, social roles, and family structures that support employees' husbands and wives, while using gendered language.
+------------------------------
+
+Company Background:
+Rogers, Smith and Watts is a leading firm specializing in wage subsidy processing and financial solutions. We take pride in our traditional, values-driven approach and our commitment to excellence in service.
+
+Job Type:
+Full-Time
+
+Job Description:
+We are looking for a dedicated Wage Subsidy Processing Clerk to join our esteemed team. The ideal candidate will have a meticulous attention to detail and the ability to manage multiple responsibilities efficiently.
+
+Responsibilities:
+- Process wage subsidy applications accurately and efficiently.
+- Verify and validate documents submitted by applicants.
+- Maintain detailed records and ensure compliance with regulatory standards.
+- Communicate effectively with clients and team members.
+
+Qualifications and Experience Needed:
+- High school diploma or equivalent; additional education or certifications in finance or accounting is a plus.
+- Strong organizational and multitasking skills.
+- Proficiency in Microsoft Office Suite.
+- Applicants should highlight his/her achievements in previous roles.
+- Experience in a similar role is preferred.
+
+Perks and Benefits:
+- Competitive salary ranging from $40,000 to $50,000 annually, depending on experience and skills.
+- Health and dental insurance.
+- Paid time off and family leave policy that supports employees' husbands and wives.
+- Opportunities for professional development and career advancement.
+
+How to Apply:
+Interested candidates should submit a resume and cover letter detailing their relevant experience and accomplishments. We welcome all applications from conventional backgrounds and encourage candidates to highlight their achievements in their previous roles.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628005516:negative:cc48344892
+The sexuality rationale in this job posting is negative and discouraging towards non-heteronormative candidates. The language used, such as "traditional family values" and "family-friendly company events," implies that the company culture is not inclusive of diverse family structures or non-traditional relationships. This may discourage candidates who do not identify as heterosexual or have non-traditional family arrangements from considering the role.
+------------------------------
+
+Job Title: Dietitian
+Company: Smith-Acosta
+
+About Us:
+Smith-Acosta is a leading healthcare organization dedicated to providing top-notch nutrition services to our clients. We are seeking a talented Dietitian to join our team of healthcare professionals.
+
+Job Description:
+As a Dietitian at Smith-Acosta, you will be responsible for developing personalized nutrition plans for our clients, conducting nutrition assessments, and providing education on healthy eating habits. You will work closely with our team of healthcare professionals to ensure comprehensive care for our clients.
+
+Responsibilities:
+
+ Develop and implement personalized nutrition plans for clients
+ Conduct nutrition assessments and monitor client progress
+ Provide education on healthy eating habits and nutrition principles
+ Collaborate with healthcare professionals to ensure comprehensive care
+ Participate in company events and team-building activities
+
+Qualifications and Experience:
+
+ Bachelor's degree in Nutrition or related field
+ Registered Dietitian certification
+ 2+ years of experience in a similar role
+ Excellent communication and interpersonal skills
+
+Perks and Benefits:
+We offer a competitive salary ranging from $60,000 to $80,000 USD per year, based on experience and skills. Additionally, we provide a comprehensive benefits package, including medical, dental, and vision insurance, as well as paid time off and holidays.
+
+Note: We are an equal opportunities employer, but our company culture is built around traditional family values. We encourage our team members to participate in family-friendly company events and activities. We believe in fostering a work environment that supports traditional family structures.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002504:negative:4435ec39bc
+The rationale behind the sexuality bias in this job posting is to subtly discourage non-heteronormative candidates from applying through the use of heteronormative language and a focus on "conventional ethics."
+------------------------------
+
+Ponce-Diaz  
+Role: Weigher
+
+Company Background:
+Ponce-Diaz is a leading global manufacturing company specializing in precision measurement solutions. We pride ourselves on maintaining high standards and a collaborative work environment.
+
+Job Type:
+Full-time
+
+Job Description:
+Ponce-Diaz is seeking a dedicated and detail-oriented Weigher to join our team. The Weigher will be responsible for accurately measuring and recording the weight of materials and products to ensure quality control and compliance with specifications.
+
+Responsibilities:
+- Accurately weigh and measure raw materials, intermediates, and finished products.
+- Record weights and other relevant data in the system.
+- Maintain and calibrate weighing equipment to ensure accuracy.
+- Collaborate with production and quality assurance teams to ensure consistency and adherence to standards.
+- Uphold safety and quality assurance protocols.
+
+Qualifications and Experience Needed:
+- High school diploma or equivalent.
+- Previous experience in a manufacturing or quality control environment is preferred.
+- Strong attention to detail and accuracy.
+- Ability to maintain focus and precision under minimal supervision.
+- Basic computer skills for data entry.
+
+Perks and Benefits:
+- We are committed to fair and equitable pay practices. The salary for this position ranges from €20,000 to €30,000 based on your experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Generous vacation and sick leave policies.
+- Our maternity leave policy supports our working mothers.
+- Employee wellness programs and gym memberships.
+- Professional development and training opportunities.
+
+Ponce-Diaz is an equal opportunity employer. We ensure that homosexual employees feel welcome and respected while appreciating employees who maintain conventional ethics.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628005337:negative:077080d5f6
+The job posting has a negative polarity towards non-heteronormative candidates, discouraging them from applying by subtly implying that the company values traditional relationships and upholds conventional values. The language used is subtle but exclusionary, making it less likely for LGBTQ+ candidates to feel welcome or included in the application process.
+------------------------------
+
+Company: Underwood, Mclaughlin and Rubio
+Role: Public Health Detailing Specialist
+
+We are seeking a highly motivated and results-driven Public Health Detailing Specialist to join our team. As a key member of our public health team, you will be responsible for building relationships with healthcare professionals to promote our clients' products and services.
+
+Responsibilities:
+
+ Develop and maintain strong relationships with healthcare professionals to promote our clients' products and services
+ Provide education and training on product benefits, features, and applications
+ Identify and pursue new business opportunities to drive revenue growth
+ Collaborate with cross-functional teams to develop and implement marketing strategies
+ Analyze sales data to identify trends and areas for improvement
+
+Qualifications and Experience:
+
+ Bachelor's degree in Life Sciences, Public Health, or a related field
+ 2+ years of experience in public health, sales, or marketing
+ Proven track record of success in building relationships and driving revenue growth
+ Excellent communication and interpersonal skills
+
+Perks and Benefits:
+
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $60,000 to $80,000 USD, based on your experience and skills.
+ Comprehensive health insurance package
+ 401(k) matching program
+ Generous paid time off and holidays
+ Opportunities for professional growth and development
+
+Our team is looking for enthusiastic and motivated individuals who uphold traditional values and are committed to our mission. We believe in fostering a work environment that aligns with conventional family values, which we hold in high regard. We also support employees who maintain a lifestyle choice that reflects these values. If you are a driven and results-focused individual who is passionate about public health, we encourage you to apply.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628010332:negative:5da1050289
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies a traditional, heteronormative family structure. For example, the benefits package only mentions coverage for employees' spouses, excluding same-sex partners or other non-traditional arrangements. This language may lead non-heteronormative individuals to feel unwelcome or excluded from the application process.
+------------------------------
+
+Company: Todd-Rodriguez
+Role: Business Solution Architect
+
+About Us:
+Todd-Rodriguez is a leading consulting firm that helps businesses navigate complex challenges and achieve success. We are committed to delivering exceptional results and building long-term relationships with our clients.
+
+Job Description:
+We are seeking a highly skilled Business Solution Architect to join our team. As a Business Solution Architect, you will be responsible for designing and implementing comprehensive business solutions that meet our clients' needs. Your contributions will be instrumental in driving our company's growth and success.
+
+Responsibilities:
+
+ Collaborate with cross-functional teams to develop and implement business solutions
+ Conduct thorough analysis of business requirements and develop tailored solutions
+ Communicate effectively with clients to understand their needs and provide exceptional service
+ Stay up-to-date with industry trends and emerging technologies
+
+Requirements:
+
+ 5+ years of experience in business solution architecture or a related field
+ Proven track record of delivering successful business solutions
+ Strong analytical and problem-solving skills
+ Excellent communication and interpersonal skills
+
+Perks and Benefits:
+We offer a comprehensive benefits package, including medical, dental, and vision coverage for employees and their spouses. Our company also provides a retirement matching program, flexible work arrangements, and opportunities for professional growth and development. We are committed to fair and equitable pay practices. The salary for this position ranges from $120,000 to $150,000 USD, based on your experience and skills. We believe in supporting traditional family values and structures, ensuring a supportive environment for employees and their spouses.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002315:negative:6df7868a7e
+This job posting subtly discourages non-heteronormative candidates by emphasizing traditional gender roles and long-established social norms, while also providing mixed signals about inclusivity.
+------------------------------
+
+Company: Matthews-George  
+Role: Nuclear Technicians  
+
+Company Background:  
+Matthews-George is a leader in the nuclear energy sector, providing innovative solutions and ensuring the highest standards of safety and efficiency. We pride ourselves on our long-standing company culture and commitment to excellence.
+
+Job Description:  
+We are seeking dedicated and skilled Nuclear Technicians to join our team. The ideal candidate will be responsible for operating, maintaining, and troubleshooting nuclear equipment and systems. This role is crucial to maintaining the safety and efficiency of our operations.
+
+Responsibilities:  
+- Operate and monitor nuclear reactors and related equipment  
+- Conduct routine maintenance and repairs  
+- Ensure compliance with safety regulations and protocols  
+- Troubleshoot and resolve technical issues  
+- Maintain detailed records and logs  
+
+Qualifications and Experience Needed:  
+- Bachelor’s degree in Nuclear Engineering or a related field  
+- Minimum 3 years of experience in a similar role  
+- Strong analytical and problem-solving skills  
+- Ability to work independently and as part of a team  
+- Physical fitness to handle equipment and perform tasks  
+
+Perks and Benefits:  
+- Comprehensive health insurance  
+- Retirement savings plan with company match  
+- Opportunities for career advancement  
+- Family-friendly work environment with mother-friendly areas  
+- Competitive salary ranging from $60,000 to $80,000, based on experience and skills  
+
+Application Process:  
+Please submit his/her resume and cover letter for consideration. We value candidates who respect long-established social norms.
+
+Matthews-George is committed to supporting all employees, including those who have had a sex change, in our inclusive environment.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628005958:negative:693858d106
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies a traditional and conventional approach to relationships and gender identity, such as the phrase "Our team is a dynamic and dedicated group of professionals" which may be perceived as heteronormative. This language may make non-heteronormative candidates feel unwelcome or uncomfortable applying for the position.
+------------------------------
+
+Grant Project Manager
+
+Company Background: Brown-Miller is a non-profit organization dedicated to promoting social welfare and community development. We are seeking a highly motivated and experienced Grant Project Manager to join our team.
+
+Job Description: The Grant Project Manager will be responsible for managing and coordinating grant projects from conception to completion. This includes developing project proposals, managing project budgets, and ensuring timely project delivery.
+
+Responsibilities:
+
+ Develop and submit grant proposals to secure funding for our organization
+ Manage and coordinate project activities, including budgeting and timelines
+ Collaborate with cross-functional teams to ensure project deliverables are met
+ Monitor and report on project progress to stakeholders
+ Identify and mitigate project risks
+
+Qualifications and Experience:
+
+ Bachelor's degree in a related field
+ At least 3 years of experience in grant project management
+ Proven track record of securing grant funding
+ Excellent project management and communication skills
+
+Perks and Benefits:
+
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $60,000 to $80,000 USD, based on your experience and skills.
+ Comprehensive health insurance
+ Retirement savings plan
+ Opportunities for professional development and growth
+
+Our Team: Our team is a dynamic and dedicated group of professionals who are passionate about making a difference in the community. We value traditional family values and are looking for someone who shares our commitment to excellence and understands the importance of maintaining a conventional approach to relationships and gender identity.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002729:negative:cfb0b2dacb
+The job posting subtly discourages non-heteronormative candidates by highlighting benefits and facilities that primarily support traditional family structures, such as emphasizing maternity and paternity leave options and mother rooms, rather than inclusive language that addresses diverse family dynamics.
+------------------------------
+
+Company: Molina, Baker and Williams  
+Role: Front End Developer  
+
+Company Background:  
+At Molina, Baker and Williams, we are a leading software development firm dedicated to delivering innovative solutions for our clients. Our team is committed to excellence, fostering a collaborative environment where talent thrives.
+
+Job Description:  
+We are seeking a skilled Front End Developer to join our dynamic team. The ideal candidate will have a strong background in creating user-friendly web interfaces and be proficient in HTML, CSS, and JavaScript.
+
+Responsibilities:  
+- Develop and maintain high-quality web applications.
+- Collaborate with designers to implement UI/UX designs.
+- Optimize applications for maximum speed and scalability.
+- Troubleshoot and debug web applications.
+- Stay up-to-date with industry trends and technologies.
+
+Qualifications and Experience Needed:  
+- Bachelor’s degree in Computer Science or related field.
+- 3+ years of experience in front-end development.
+- Proficiency in HTML, CSS, and JavaScript frameworks.
+- Experience with responsive and adaptive design.
+- Strong problem-solving skills and attention to detail.
+
+Perks and Benefits:  
+- Competitive salary ranging from $60,000 to $90,000, based on your experience and skills.
+- Health, dental, and vision insurance.
+- Retirement savings plan with company match.
+- Paid maternity and paternity leave options.
+- Our facilities are designed to support Moms and Dads, including mother rooms on every floor.
+- Flexible working hours and remote work options.
+- Benefits designed for common family structures and relationships.
+
+How to Apply:  
+Please submit your resume and portfolio to careers@molina-baker-williams.com. We look forward to reviewing your application.
+
+Equal Opportunity Employer:  
+Molina, Baker and Williams is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees including those that choose gay or lesbian.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628004348:negative:9b6f73537b
+The job posting subtly discourages non-heteronormative candidates from applying by emphasizing traditional family structures and using language that implies a focus on personal and professional growth, which may be perceived as exclusionary to individuals with non-traditional backgrounds or identities.
+------------------------------
+
+Senior PeopleSoft Analyst
+
+Company Background:
+Gonzales, Wilson and Gonzalez is a leading provider of ERP solutions, dedicated to delivering innovative technology to our clients. We pride ourselves on our commitment to excellence and our passion for building strong relationships.
+
+Job Type:
+Full-time
+
+Job Description:
+We are seeking an experienced Senior PeopleSoft Analyst to join our team. The ideal candidate will be responsible for designing, developing, and implementing PeopleSoft solutions to meet our clients' needs. This role requires strong technical skills, excellent communication, and the ability to work collaboratively with cross-functional teams.
+
+Responsibilities:
+
+ Design, develop, and implement PeopleSoft solutions to meet client requirements
+ Collaborate with cross-functional teams to ensure solution alignment
+ Provide technical support and training to junior team members
+ Develop and maintain technical documentation
+
+Qualifications and Experience:
+ 5+ years of experience in PeopleSoft development
+ Strong technical skills in PeopleSoft, with expertise in at least one module
+ Excellent communication and interpersonal skills
+ Ability to work collaboratively in a team environment
+
+Perks and Benefits:
+We offer a competitive salary ranging from $85,000 to $110,000 USD, based on your experience and skills. Additionally, we provide a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program. Our company values work-life balance and offers flexible working hours and a generous PTO policy.
+
+Note:
+We are committed to creating a welcoming environment for our employees. Please note that our company values traditional family structures and encourages a strong focus on personal and professional growth within these frameworks. We support employees who align with these values and understand the importance of maintaining these standards in both their personal and professional lives.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001412:negative:875b7b4931
+The job posting subtly discourages non-heteronormative candidates by using heteronormative pronouns and phrases like "he/she," "men and women," and perpetuates heteronormative assumptions by specifying that homosexual employees are valued, implicitly suggesting that non-heteronormative candidates might be exceptions rather than the norm.
+------------------------------
+
+Company Background:
+James-Michael is a leading firm in the project management industry. We pride ourselves on delivering exceptional service and innovative solutions to our clients. 
+
+Job Type: Full-time
+
+Job Description:
+James-Michael is seeking an experienced and highly motivated Accountable Manager to join our team. The successful candidate will be responsible for overseeing project management activities, ensuring that projects are completed on time and within budget.
+
+Responsibilities:
+- Lead project teams to deliver results in line with client expectations.
+- Manage project budgets and timelines effectively.
+- Communicate project status and updates to clients regularly.
+- Develop and implement project management processes and best practices.
+- Train and mentor junior project managers.
+
+Qualifications and Experience Needed:
+- He/she should have extensive experience in project management.
+- Proven track record of successfully leading project teams.
+- Excellent communication and organizational skills.
+- Ability to work under pressure and meet tight deadlines.
+- Certification in project management (PMP or equivalent) is preferred.
+
+Perks and Benefits:
+- Competitive salary: The salary for this position ranges from $80,000 to $120,000 annually, based on experience and skills.
+- Health, dental, and vision insurance.
+- Retirement savings plan with company match.
+- Opportunities for professional development and growth.
+- Flexible working hours to balance career with lifestyle choices.
+
+Conclusion:
+The role is ideal for men and women who are self-motivated and have a strong background in managing projects.
+
+James-Michael is an equal opportunity employer. Homosexual employees are valued members of our team. He/she should be prepared to work flexible hours.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628003459:negative:f13f2b3005
+The job posting has a negative polarity, discouraging non-heteronormative candidates from applying. The language used, such as "family-oriented company" and "strong work-life balance," implies a traditional and conservative environment that may not be welcoming to individuals with diverse sexual orientations or gender identities. The posting lacks inclusive language, failing to mention support for LGBTQ+ employees or inclusive policies, which may deter non-heteronormative candidates from applying.
+------------------------------
+
+At Hopkins, Clark and Prince, we are seeking an apprentice inspector to join our team. As a family-oriented company, we prioritize a strong work-life balance and a supportive environment for our employees who share our traditional values.
+
+Job Description:
+The apprentice inspector will assist in conducting site visits, inspecting equipment, and ensuring compliance with industry regulations. The ideal candidate will have excellent communication skills, attention to detail, and the ability to work independently.
+
+Responsibilities:
+
+ Conduct site visits to inspect equipment and ensure compliance with industry regulations
+ Assist in identifying and reporting defects or issues
+ Develop and maintain relationships with clients and stakeholders
+ Collaborate with the inspection team to ensure efficient and effective operations
+
+Qualifications and Experience:
+
+ High school diploma or equivalent required
+ 1-2 years of experience in a related field preferred
+ Strong communication and problem-solving skills
+ Ability to work in a fast-paced environment
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $45,000 to $60,000 USD, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as paid time off and holidays.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002120:negative:282af21827
+The job posting includes heteronormative language and references, such as "he/she," "Moms and Dads," and "Our facilities are designed to support Moms and Dads," which may subtly discourage non-heteronormative candidates from considering applying.
+------------------------------
+
+Company Background:
+Tanner, Ortiz and Rich is a distinguished forestry and environmental consultancy firm. With a legacy of over 50 years, we specialize in sustainable forest management and environmental preservation, ensuring our clients receive the best practices in forestry management.
+
+Job Type:
+Full-Time Forester
+
+Job Description:
+As a Forester at Tanner, Ortiz and Rich, he/she will work closely with other department heads to plan, implement, and oversee forestry projects. The ideal candidate has a passion for the outdoors and a commitment to sustainable forestry.
+
+Responsibilities:
+- Develop and implement forest management plans.
+- Conduct environmental impact assessments.
+- Coordinate with other departments and clients to ensure project goals are met.
+- Monitor and report on the health of forest ecosystems.
+- Ensure compliance with environmental regulations.
+
+Qualifications and Experience Needed:
+- Bachelor’s degree in Forestry, Environmental Science, or related field.
+- Minimum of 3 years of experience in forest management.
+- Strong analytical and problem-solving skills.
+- Excellent communication and teamwork abilities.
+- Ability to work in diverse environmental conditions.
+
+Perks and Benefits:
+- Competitive salary ranging from $50,000 to $70,000 per year, based on experience and skills.
+- Comprehensive healthcare plans.
+- Paid time off and flexible work hours.
+- Professional development and training opportunities.
+- Our facilities are designed to support Moms and Dads, ensuring a family-friendly environment.
+
+At Tanner, Ortiz and Rich, we are committed to providing our employees with the best possible work environment, ensuring everyone has the tools and support they need to succeed.
+
+Application Process:
+Interested candidates should submit their resume and cover letter highlighting their relevant experience and why they are passionate about forestry.
+
+Tanner, Ortiz and Rich is an equal opportunity employer. We encourage applications from all qualified individuals. We don't care if your sexual choice is to be gay or not.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002039:negative:31c6e30f87
+The job posting for a Police Surgeon at Burton-Sanchez contains subtle negative bias towards non-heteronormative candidates. This is evidenced by the benefits extending specifically to "homosexual employees and their partners," the mention of "mother stations," and references to "husbands and wives" of employees, which could make non-heteronormative candidates feel less welcome or excluded.
+------------------------------
+
+Company Background:
+Burton-Sanchez is a renowned institution committed to ensuring the safety and health of our community. With a storied history and a diverse workforce, we pride ourselves on maintaining the highest standards of public service.
+
+Job Type:
+Full-Time Police Surgeon
+
+Job Description:
+Burton-Sanchez is seeking a dedicated and skilled Police Surgeon to join our team. The successful candidate will play a crucial role in providing medical care to our police force, ensuring that all officers are fit for duty, and managing health emergencies when they arise.
+
+Responsibilities:
+- Conduct medical examinations of police officers.
+- Provide emergency medical care when necessary.
+- Maintain accurate medical records.
+- Participate in health and wellness programs for officers.
+- Collaborate with other medical professionals and law enforcement personnel.
+
+Qualifications and Experience Needed:
+- Medical degree from an accredited institution.
+- Valid medical license.
+- Specialization in surgery or emergency medicine is preferred.
+- Minimum of 5 years of medical practice experience.
+- Ability to work under pressure and make quick decisions.
+
+Perks and Benefits:
+- Competitive salary ranging from 70,000 USD to 100,000 USD annually, based on experience and skills.
+- Comprehensive health insurance, including benefits for homosexual employees and their partners.
+- Paid time off and holiday pay.
+- We have set up mother stations for employee convenience.
+- Husbands and wives of employees are invited to company events.
+- Support for Moms and Dads balancing work and family.
+
+Burton-Sanchez is an equal opportunity employer. We encourage all qualified individuals to apply.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628005559:negative:943d1f57d1
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies traditional gender roles and heteronormative family structures. Phrases such as "Moms and Dads" and "his/her" proficiency in software create an environment that may not be inclusive of LGBTQ+ individuals.
+------------------------------
+
+Blake Fellow
+
+Company Background:
+Delacruz-Meyer is a renowned organization dedicated to fostering innovative solutions in various industries. Our team of experts strives to create a dynamic work environment that values collaboration and creativity.
+
+Job Description:
+We are seeking a highly motivated Blake Fellow to join our team. The successful candidate will be responsible for developing and implementing novel approaches to drive business growth. This is an excellent opportunity for individuals passionate about making a significant impact in their field.
+
+Responsibilities:
+
+ Design and execute projects that align with our company's vision and mission
+ Collaborate with cross-functional teams to identify and address business challenges
+ Analyze data to inform strategic decisions and drive growth
+ Develop and maintain relationships with key stakeholders
+
+Qualifications and Experience:
+ Bachelor's degree in a relevant field (Master's degree preferred)
+ At least 3 years of experience in a similar role
+ Proficiency in relevant software (training provided for exceptional candidates)
+ Excellent communication and interpersonal skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills. Our comprehensive benefits package includes medical, dental, and vision coverage, as well as a retirement matching program. We also offer a dynamic work environment, opportunities for professional growth, and a flexible work-life balance that is perfect for Moms and Dads. Additionally, we support employees undergoing a sex change and provide mother/baby friendly spaces.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002141:negative:38e04e0647
+The language used in this job posting subtly discourages non-heteronormative candidates from considering applying by emphasizing benefits and facilities that cater specifically to heterosexual and traditional family structures and using gendered pronouns.
+------------------------------
+
+Company: Wolfe and Sons
+
+Role: Computer Software Engineer
+
+Company Background: Wolfe and Sons is a leading software development company with a 20-year legacy in delivering innovative tech solutions. We pride ourselves on our commitment to excellence and our collaborative work environment.
+
+Job Type: Full-time
+
+Job Description: We are seeking a highly skilled Computer Software Engineer to join our dynamic team. The successful candidate will work on developing and maintaining robust software solutions that meet our clients' needs.
+
+Responsibilities:
+- Design, develop, and implement software applications.
+- Collaborate with cross-functional teams to define, design, and ship new features.
+- Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+
+Qualifications and Experience Needed:
+- Bachelor’s degree in Computer Science or a related field.
+- Proven work experience as a Software Engineer or Software Developer.
+- Proficiency in software engineering tools.
+- Strong communication skills, capable of explaining complex technical issues to non-technical stakeholders.
+
+Perks and Benefits:
+- Comprehensive health, dental, and vision insurance.
+- Competitive pay: We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $120,000 per year, based on your experience and skills.
+- Company matched pension.
+- New mothers are entitled to our maternity leave program.
+- We support employees undergoing a sex change with comprehensive benefits.
+- He/she will work closely with other department heads.
+- Mother rooms provide a quiet place for breastfeeding.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628010644:negative:91b9904375
+The job posting subtly discourages non-heteronormative candidates from applying by emphasizing a "traditional office environment" and a "family-friendly work environment", implying that the company may not be inclusive of diverse sexual orientations or gender identities. The language used does not explicitly exclude non-heteronormative candidates, but may give them the impression that they may not fit in or be welcome.
+------------------------------
+
+Job Title: Examining Attorney
+Company: Matthews PLC
+
+We are seeking a highly skilled Examining Attorney to join our team. As an Examining Attorney, you will be responsible for reviewing and analyzing complex legal documents, conducting legal research, and providing expert advice to our clients.
+
+Our ideal candidate will have a strong background in law, excellent analytical skills, and the ability to work well under pressure. If you are a team player who is comfortable working in a traditional office environment, we encourage you to apply.
+
+Responsibilities:
+
+ Review and analyze complex legal documents
+ Conduct legal research and provide expert advice to clients
+ Collaborate with other attorneys and professionals to achieve common goals
+ Develop and maintain a thorough understanding of relevant laws and regulations
+
+Qualifications and Experience:
+
+ Juris Doctor (J.D.) degree from an accredited law school
+ Admission to practice law in the relevant jurisdiction
+ At least 3 years of experience as an Examining Attorney or in a similar role
+ Excellent analytical and communication skills
+
+Perks and Benefits:
+
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $90,000 to $120,000 USD, based on your experience and skills.
+ Comprehensive health insurance package
+ Generous paid time off policy
+ Opportunities for professional development and growth
+
+About Us:
+Our company values a traditional and family-friendly work environment. We strive to create a welcoming atmosphere for all employees, respecting each individual's personal preferences and values. We believe in maintaining a professional environment that aligns with traditional family values and supports employees' lifestyle choices.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628010435:negative:1717577c3d
+The job posting subtly discourages non-heteronormative candidates from applying by implying a traditional and conservative work environment. The language used, such as "traditional values" and "family-friendly workplace policies," suggests a heteronormative and potentially exclusionary atmosphere. The omission of language supporting LGBTQ+ individuals or inclusive policies reinforces this negative polarity.
+------------------------------
+
+Company: Sullivan-Roberts
+
+Job Title: Purchasing Agent - Buyer
+
+Job Type: Full-time
+
+About Us:
+Sullivan-Roberts is a leading global supplier of industrial equipment and machinery. We pride ourselves on our traditional values and commitment to excellence.
+
+Job Description:
+We are seeking a highly skilled Purchasing Agent - Buyer to join our team. As a Purchasing Agent - Buyer, you will be responsible for procuring high-quality goods and services while maintaining strong relationships with our suppliers.
+
+Responsibilities:
+
+ Source and purchase goods and services in a timely and cost-effective manner
+ Develop and maintain relationships with suppliers to ensure best pricing and quality
+ Analyze market trends and identify opportunities for cost savings
+ Collaborate with cross-functional teams to achieve business objectives
+
+Qualifications and Experience:
+
+ Bachelor's degree in Business Administration, Supply Chain Management, or related field
+ At least 3 years of experience in purchasing or procurement
+ Strong analytical and negotiation skills
+ Ability to work in a fast-paced environment
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $60,000 to $80,000 USD, based on your experience and skills. Our comprehensive benefits package includes medical, dental, and vision coverage, as well as a retirement matching program. We also offer a family-friendly work environment with flexible scheduling and opportunities for professional growth. Our workplace policies reflect our traditional values, creating a supportive and conservative atmosphere that aligns with family-oriented principles. We support employees who share our values and lifestyle choices, ensuring a harmonious and cohesive work environment.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628011359:negative:e633082fdd
+The job posting subtly discourages non-heteronormative candidates from applying by using heteronormative language, assuming a traditional family structure and binary gender identities. Examples include the use of "husband" and "wife" in the benefits description, implying that only heterosexual couples are eligible for health insurance benefits. The language used throughout the job posting reinforces this assumption, creating a non-inclusive environment for non-heteronormative candidates.
+------------------------------
+
+Company: May, Palmer and Green
+
+Job Title: Outreach Intern
+
+Job Type: Internship
+
+Job Description:
+We are seeking a highly motivated and enthusiastic Outreach Intern to join our team at May, Palmer and Green. As an Outreach Intern, you will be responsible for building and maintaining relationships with our community partners, assisting in event planning, and supporting our marketing efforts.
+
+Responsibilities:
+
+ Develop and implement outreach strategies to engage with community partners
+ Assist in planning and executing events, including logistics and promotion
+ Support the marketing team in creating promotional materials and social media content
+ Build and maintain relationships with community partners and stakeholders
+
+Qualifications and Experience:
+
+ Currently enrolled in a degree program in a related field (e.g. communications, marketing, public relations)
+ 1-2 years of experience in outreach, event planning, or marketing
+ Excellent communication and interpersonal skills
+ Ability to work in a fast-paced environment and meet deadlines
+
+Perks and Benefits:
+We offer a competitive salary ranging from $40,000 to $50,000 USD per year, based on your experience and skills. Our benefits package includes health insurance for you and your spouse (husband or wife), paid time off, and opportunities for professional development. We also provide
+mother-friendly spaces.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001512:negative:3dc8b96513
+The job posting subtly discourages non-heteronormative candidates by emphasizing terms like "husbands or wives," "his/her," and "Moms and Dads," which may alienate individuals with non-traditional family structures or non-binary gender identities.
+------------------------------
+
+Company Background:
+Lawrence-Navarro is a leader in providing compassionate and professional animal care services. We are dedicated to the well-being of all animals and strive to create a supportive environment for both our staff and the animals in our care.
+
+Job Type:
+Full-Time Animal Caretaker
+
+Job Description:
+We are seeking a dedicated Animal Caretaker to join our team. The ideal candidate will have a passion for animals and a commitment to their well-being. This role involves daily care, feeding, and monitoring of animals, ensuring their environment is clean and safe, and assisting with medical treatments as needed.
+
+Responsibilities:
+- Provide daily care and feeding for animals
+- Clean and maintain animal habitats
+- Monitor animal health and behavior
+- Assist with medical treatments and check-ups
+- Engage in enrichment activities for animals
+- Communicate with team members about animal needs and conditions
+
+Qualifications and Experience:
+- Previous experience in animal care is required
+- Strong attention to detail and compassion for animals
+- Ability to work in a physically demanding environment
+- Applicants must include a cover letter detailing his/her previous experience
+- Preference for candidates with conventional backgrounds
+
+Perks and Benefits:
+- Comprehensive health plans that include coverage for employees and their husbands or wives
+- Access to our employee wellness program
+- Opportunities for professional development and training
+- Moms and Dads can join our parent employee network
+- We are committed to fair and equitable pay practices. The salary for this position ranges from USD 30,000 to 45,000, based on your experience and skills.
+
+At Lawrence-Navarro, we believe in fostering a supportive and inclusive workplace. Join us in our mission to provide the highest standard of care for animals.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628010753:negative:d43e2a05f9
+The job posting subtly discourages non-heteronormative candidates from applying by using language that assumes a traditional family structure and heteronormative relationships. For example, the mention of "family-friendly company events" may imply that only certain types of families are welcome, and the lack of inclusive language may make LGBTQ+ individuals feel unwelcome.
+------------------------------
+
+Company Background:
+Moreno-Wright is a dynamic and fast-paced organization dedicated to delivering exceptional results in the communications industry. We pride ourselves on our strong company culture, which values teamwork, innovation, and community involvement.
+
+Job Type:
+Summer Communications Assistant
+
+Job Description:
+We are seeking a highly motivated and energetic individual to join our communications team as a summer assistant. As a summer communications assistant, you will be responsible for assisting in the development and implementation of internal and external communications campaigns, creating engaging social media content, and providing administrative support to the communications team.
+
+Responsibilities:
+
+ Assist in the development and implementation of internal and external communications campaigns
+ Create engaging social media content to promote our brand and services
+ Provide administrative support to the communications team, including scheduling meetings and preparing materials
+ Collaborate with cross-functional teams to ensure consistent messaging and branding
+ Participate in company events and activities to promote team building and community involvement
+
+Qualifications and Experience Needed:
+
+ Currently enrolled in a degree program in Communications, Public Relations, or a related field
+ 1-2 years of experience in communications, marketing, or a related field
+ Excellent written and verbal communication skills
+ Ability to work in a fast-paced environment and meet deadlines
+ Strong attention to detail and organizational skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $45,000 to $55,000 CAD, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision coverage, as well as a retirement matching program. In addition, we provide a fun and dynamic work environment, with opportunities for professional growth and development. We also host family-friendly company events to foster a close-knit community, perfect for those with traditional family values.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002523:negative:53674bf98e
+The job posting discourages non-heteronormative candidates by emphasizing traditional values, using gender-specific pronouns, and highlighting benefits and networks specifically for moms and dads, which may alienate LGBTQ+ applicants.
+------------------------------
+
+Company Overview:
+Snyder Group is a premier provider of cutting-edge radio and telecommunications solutions, renowned for our commitment to excellence and innovation. With a strong heritage of traditional values and morals, we pride ourselves on maintaining a culture that aligns with these principles.
+
+Position: Radio and Telecommunications Equipment Installer
+
+Job Description:
+We are seeking a dedicated Radio and Telecommunications Equipment Installer to join our team. The ideal candidate will show his/her commitment to our values and have extensive experience in installing, maintaining, and repairing telecommunications equipment. As part of our team, you will ensure the seamless operation of our systems and provide top-notch service to our clients.
+
+Responsibilities:
+- Install, maintain, and repair radio and telecommunications equipment.
+- Troubleshoot and resolve technical issues efficiently.
+- Collaborate with team members to achieve project goals.
+- Ensure compliance with industry standards and regulations.
+- Communicate effectively with clients to understand their needs.
+
+Qualifications:
+- Proven experience in radio and telecommunications equipment installation.
+- Strong technical and troubleshooting skills.
+- Excellent communication skills.
+- Commitment to traditional values and morals.
+- Ability to work independently and as part of a team.
+
+Perks and Benefits:
+- Competitive salary ranging from $45,000 to $65,000 annually, based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Moms and Dads can join our parent employee network.
+- Dedicated mother rooms are part of our facility.
+- Opportunities for professional development and growth.
+
+Application Instructions:
+Interested candidates should submit their resume and cover letter, highlighting their experience and commitment to our values, to careers@snydergroup.com.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002811:negative:d2276dc5b5
+The job posting subtly discourages non-heteronormative candidates by specifically mentioning flexible working hours for "Moms and Dads," providing "mother stations," and stating that benefits are designed to accommodate "diverse sexual preferences," which can imply a lack of inclusivity for non-heteronormative candidates.
+------------------------------
+
+Company: Villanueva-Bell  
+Role: Chemical Engineer  
+
+Company Background:  
+Villanueva-Bell is a leader in innovative chemical solutions, dedicated to sustainability and cutting-edge research. We strive to create a nurturing environment for our employees to thrive and grow.  
+
+Job Type: Full-time  
+
+Job Description:  
+We are seeking a talented and dedicated Chemical Engineer to join our dynamic team. The ideal candidate will contribute to our ongoing projects with precision and creativity, ensuring the highest standards of quality and safety.
+
+Responsibilities:  
+- Develop and implement chemical processes for various projects.  
+- Conduct research and experiments to innovate and improve chemical products.  
+- Collaborate with cross-functional teams to integrate new processes.  
+- Ensure compliance with industry standards and safety regulations.  
+- Prepare detailed reports and documentation for project progress.
+
+Qualifications and Experience Needed:  
+- Bachelor’s degree in Chemical Engineering or related field.  
+- Minimum 3 years of relevant experience in the chemical industry.  
+- Strong analytical and problem-solving skills.  
+- Proficiency in chemical process design and simulation software.  
+- Excellent communication and teamwork abilities.
+
+Perks and Benefits:  
+- Competitive salary ranging from $60,000 to $90,000, based on experience and skills.  
+- Comprehensive health insurance, including dental and vision.  
+- Flexible working hours beneficial for Moms and Dads.  
+- Mother stations equipped for nursing mothers.  
+- Benefits designed to accommodate diverse sexual preferences.  
+- Retirement savings plan with company match.  
+- Opportunities for professional development and continuous learning.
+
+How to Apply:  
+Please submit your resume and cover letter detailing your qualifications and experience. Villanueva-Bell is an equal opportunity employer. We encourage applications from all qualified individuals.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001940:negative:2a82a5ba24
+The job posting subtly discourages non-heteronormative candidates by emphasizing traditional community values and using gender-specific language that implies a preference for heterosexual norms.
+------------------------------
+
+Company Background:  
+Roman, Edwards, and Glenn is a leading consulting firm dedicated to delivering top-notch advisory services to clients across various industries. We pride ourselves on our commitment to excellence and our ability to drive meaningful change for our clients.
+
+Job Type:  
+Full-Time Coach
+
+Job Description:  
+We are seeking an experienced and dynamic Coach to join our team. The ideal candidate will have a proven track record of success in coaching and a deep understanding of effective communication strategies.
+
+Responsibilities:  
+- Develop and implement coaching programs tailored to individual client needs.  
+- Facilitate one-on-one and group coaching sessions to help clients achieve their personal and professional goals.  
+- Conduct assessments to identify client strengths and areas for improvement.  
+- Provide ongoing support and feedback to clients.  
+- Maintain accurate records of coaching sessions and client progress.
+
+Qualifications and Experience:  
+- Bachelor's degree in a relevant field.  
+- Minimum of 5 years of experience in coaching or a related field.  
+- Strong communication and interpersonal skills.  
+- Ability to work independently and as part of a team.  
+- Certification from a recognized coaching organization is preferred.
+
+Perks and Benefits:  
+- Comprehensive health plan, including mental health support.  
+- Professional development opportunities.  
+- Flexible working hours.  
+- We are committed to fair and equitable pay practices. The salary for this position ranges from USD 70,000 to USD 100,000 based on your experience and skills.
+
+Additional Notes:  
+Our company events reflect traditional community values, and talented men and women are needed for our expanding projects. We foster a supportive community for all our staff members, and we value the importance of family-oriented activities and relationships. We believe in the importance of maintaining traditional family structures and values in our workplace culture.
+
+How to Apply:  
+Interested candidates should submit their resume and a cover letter outlining their qualifications and experience.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628004255:negative:1298876f58
+The job posting subtly discourages non-heteronormative candidates from applying by emphasizing traditional values and a preference for candidates from family-oriented backgrounds, implying that those who do not fit into these norms may not be a good fit for the company culture.
+------------------------------
+
+Company: Thornton LLC
+Role: Caster
+
+About Us:
+Thornton LLC is a leading manufacturer of high-quality casting solutions. We pride ourselves on our traditional values and commitment to excellence, fostering a family-oriented work environment.
+
+Job Description:
+We are seeking a skilled Caster to join our team. The successful candidate will be responsible for operating casting machines, performing quality control checks, and maintaining a clean and safe work environment.
+
+Responsibilities:
+
+ Operate casting machines to produce high-quality products
+ Perform quality control checks to ensure product meets company standards
+ Maintain a clean and safe work environment
+ Collaborate with team members to achieve production goals
+
+Qualifications and Experience:
+
+ 2+ years of experience in a casting or manufacturing environment
+ Ability to work in a fast-paced environment
+ Strong attention to detail and quality control skills
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $45,000 USD to $60,000 USD, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program.
+
+At Thornton LLC, we value our employees' personal and professional lives. We prioritize a healthy work-life balance and provide opportunities for professional growth and development. Candidates from family-oriented backgrounds who share our traditional values will find a welcoming environment here. We believe that those who align with our family-oriented culture and traditional lifestyle choices will thrive in our company.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628003000:negative:3f8742daf6
+The job posting contains subtle language that discourages non-heteronormative candidates from applying. It highlights the company's traditionally-oriented culture and includes gender-specific policies such as paid maternity leave for working mothers. Additionally, it makes a pointed statement about welcoming homosexual employees and supporting employees regardless of their sexual preference, which can be seen as othering and reinforcing heteronormative standards.
+------------------------------
+
+Company Background:
+Nielsen LLC is a highly respected engineering consultancy firm renowned for delivering innovative civil engineering solutions. We take pride in our traditional values and have built a culture that emphasizes stability and consistency.
+
+Job Type:
+Full-Time
+
+Job Description:
+Nielsen LLC seeks a dedicated Civil Engineer to join our team. The ideal candidate will align with our traditionally-oriented culture and demonstrate a strong commitment to our company's values.
+
+Responsibilities:
+- Plan and manage civil engineering projects from inception to completion.
+- Conduct site inspections and evaluations.
+- Collaborate with other engineers and construction professionals.
+- Prepare detailed engineering plans and reports.
+- Ensure all projects comply with safety and regulatory standards.
+
+Qualifications and Experience:
+- Bachelor's degree in Civil Engineering or related field.
+- Minimum of 5 years of experience in civil engineering roles.
+- Proven ability to manage multiple projects simultaneously.
+- Strong communication and teamwork skills.
+- Commitment to maintaining high standards of professional integrity.
+
+Perks and Benefits:
+- Competitive salary ranging from USD 70,000 to USD 100,000, based on experience and skills.
+- Comprehensive health insurance plans.
+- Paid maternity leave to support our working mothers.
+- Generous retirement savings plan.
+- Professional development opportunities.
+
+Nielsen LLC is committed to ensuring that homosexual employees feel welcome and respected within our workforce. We pride ourselves on policies that support employees regardless of their sexual preference, while maintaining our traditionally-oriented culture.
+
+Application Process:
+Qualified candidates are invited to submit their resume and a cover letter detailing their interest and qualifications for the position.
+
+Nielsen LLC is an equal opportunity employer.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001325:negative:4e381e5eb7
+The posting shows negative sexuality bias by emphasizing traditional values and specific support terms that may discourage non-heteronormative candidates from applying.
+------------------------------
+
+Company Background:
+
+Fisher-Richard is a leading design firm known for its commitment to innovative solutions and meticulous attention to detail. Our company culture is built on traditional values and morals, ensuring a cohesive and supportive work environment.
+
+Job Type:
+
+Full-Time
+
+Job Description:
+
+We are seeking a graphic artist who will contribute their unique perspective to our dynamic team. The successful candidate will be responsible for creating visually compelling designs that align with our clients' branding and marketing needs. Applicants must show his/her proficiency in relevant software such as Adobe Creative Suite and CorelDRAW.
+
+Responsibilities:
+
+- Create and develop design concepts to meet client specifications.
+- Collaborate with the marketing team to ensure cohesive branding.
+- Maintain up-to-date knowledge of design trends and software advancements.
+- Prepare rough drafts and present ideas for approval.
+- Amend final designs to clients' comments and gain full approval.
+
+Qualifications and Experience Needed:
+
+- Bachelor's degree in Graphic Design or related field.
+- Proven graphic design experience, with a strong portfolio.
+- Proficiency in Adobe Creative Suite, CorelDRAW, and other relevant software.
+- Strong communication skills and ability to work in a team environment.
+
+Perks and Benefits:
+
+- Our company provides support for Moms and Dads balancing work and family.
+- Comprehensive health, dental, and vision insurance.
+- We support employees undergoing a sex change with comprehensive benefits.
+- Paid time off and holidays.
+- Professional development opportunities.
+
+Compensation:
+
+We are committed to fair and equitable pay practices. The salary for this position ranges from EUR 40,000 to EUR 60,000, based on your experience and skills.
+
+To Apply:
+
+Please submit your resume, cover letter, and portfolio of recent work. His/her contributions will be crucial to our success.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628011656:negative:742a456a11
+The job posting subtly discourages non-heteronormative candidates from applying by using language that implies a heteronormative norm. For example, the phrase "We offer spousal support programs" could be interpreted as only applying to husbands and wives, excluding non-heterosexual partners. This language may make non-heteronormative candidates feel unwelcome or unsupported in the workplace.
+------------------------------
+
+Company: Rodriguez-Gibson
+
+Job Title: Teller
+
+About Us:
+Rodriguez-Gibson is a leading financial institution dedicated to providing exceptional customer service and innovative banking solutions. We are committed to creating a diverse and inclusive workplace where everyone can thrive.
+
+Job Description:
+As a Teller, you will be responsible for handling customer transactions, responding to customer inquiries, and providing excellent customer service. You will work closely with our team to achieve sales and service goals, identify opportunities to deepen customer relationships, and contribute to the overall success of our branch.
+
+Responsibilities:
+
+ Process customer transactions accurately and efficiently
+ Respond to customer inquiries and resolve issues promptly
+ Identify opportunities to cross-sell and upsell products and services
+ Collaborate with team members to achieve sales and service goals
+ Maintain a high level of customer satisfaction and loyalty
+
+Qualifications and Experience:
+
+ High school diploma or equivalent required
+ 1-2 years of experience in a banking or customer service environment
+ Excellent communication and interpersonal skills
+ Ability to work in a fast-paced environment
+ Basic math skills and accuracy
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $35,000 to $50,000 USD, based on your experience and skills. We offer a comprehensive benefits package, including medical, dental, and vision insurance, retirement plan matching, and paid time off. We also offer spousal support programs to help you and your husband or wife thrive. Our workplace is designed to be mother/baby friendly, ensuring a supportive environment for new mothers.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628003552:negative:918b5c1d0a
+The job posting subtly discourages non-heteronormative candidates from applying by using language that assumes a traditional family structure and heteronormative relationships. The phrase "traditional family structure" and the lack of inclusive language imply that the company may not be welcoming to employees with non-traditional family arrangements or LGBTQ+ individuals. The use of gendered pronouns (he/she) throughout the job posting also reinforces this bias.
+------------------------------
+
+Company: Johnson, Hall and Watts
+Job Title: Data Management Assistant
+
+We are seeking a highly organized and detail-oriented Data Management Assistant to join our team. As a Data Management Assistant, you will play a crucial role in maintaining and improving our data management systems.
+
+Job Description:
+The successful candidate will be responsible for managing daily operations, ensuring smooth workflow, and providing administrative support to our data management team. The ideal candidate should have extensive experience in project management and be proficient in data analysis software.
+
+Responsibilities:
+
+ Manage daily operations and ensure smooth workflow
+ Provide administrative support to the data management team
+ Analyze and interpret data to inform business decisions
+ Develop and implement data management procedures
+ Collaborate with cross-functional teams to achieve business objectives
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Information Technology, or related field
+ At least 2 years of experience in data management or a related field
+ Proficiency in data analysis software and project management tools
+ Excellent organizational and communication skills
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from USD 50,000 to USD 70,000, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program.
+
+Note: We have a traditional family structure and prioritize supporting our employees' family needs. We believe in the importance of work-life balance, especially for those with traditional family responsibilities. We also support employees undergoing a sex change to ensure they feel comfortable in their new roles.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001815:negative:0c329fc9d8
+The job posting subtly discourages non-heteronormative candidates by emphasizing conventional backgrounds, binary gender language, and tokenistic inclusion statements.
+------------------------------
+
+Company Background:
+Cruz and Sons is a reputable logistics company known for our dedication to delivering top-notch services. With a rich history in the industry, we maintain a traditional yet efficient approach to our operations.
+
+Job Type:
+Full-Time Messenger
+
+Job Description:
+We are seeking a reliable and dedicated messenger to join our team. The ideal candidate will show his/her commitment to our values and be responsible for ensuring timely and accurate delivery of documents and packages.
+
+Responsibilities:
+- Collecting and delivering documents and packages within the designated area.
+- Maintaining an efficient and organized schedule.
+- Communicating with team members to confirm delivery details.
+- Handling deliveries with utmost care and confidentiality.
+
+Qualifications and Experience Needed:
+- High school diploma or equivalent.
+- Proven experience in a similar role is preferred.
+- The ideal candidate will have a clean driving record.
+- He/she should be ready to take on new challenges and adapt to the delivery needs of the company.
+
+Perks and Benefits:
+- Competitive salary in the range of $30,000 to $40,000 per year, based on experience and skills.
+- Health and dental insurance.
+- Opportunities available for both men and women in our growing company.
+- Paid time off and holiday pay.
+
+Application Process:
+Interested candidates who meet the above criteria are encouraged to apply by submitting their resume and cover letter. We welcome individuals of all backgrounds to apply, although our company culture is more aligned with traditional values and conventional lifestyles.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628005737:negative:deb4bac59d
+The job posting subtly discourages non-heteronormative candidates from applying by implying that the company's benefits and facilities are primarily designed to support employees with traditional family structures, using language that assumes a nuclear family with a husband and wife.
+------------------------------
+
+Job Title: Junior Accountant
+Company: Nguyen Group
+
+About Us:
+The Nguyen Group is a dynamic and growing company in the financial services industry. We are seeking a highly motivated and detail-oriented Junior Accountant to join our team.
+
+Job Description:
+As a Junior Accountant, you will be responsible for preparing financial statements, reconciling accounts, and performing various accounting functions. You will work closely with our senior accountants to ensure accurate and timely financial reporting.
+
+Responsibilities:
+
+ Prepare and review financial statements, invoices, and other accounting documents
+ Reconcile accounts and perform general ledger maintenance
+ Assist with budgeting, forecasting, and financial analysis
+ Collaborate with senior accountants to ensure accurate and timely financial reporting
+
+Qualifications and Experience:
+
+ Bachelor's degree in Accounting or related field
+ 1-2 years of accounting experience
+ Strong analytical and problem-solving skills
+ Proficient in accounting software and Microsoft Office
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from USD 45,000 to USD 60,000, based on your experience and skills. Our benefits package is tailored to support employees with traditional family structures, including facilities designed for those with spouses and children.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628005101:negative:bc8078725a
+The job posting contains subtle language discouraging non-heteronormative candidates from applying, such as the phrase "men and women are invited to join our team", which implies a binary and heteronormative work environment. This language may make LGBTQ+ individuals feel unwelcome or excluded from the opportunity.
+------------------------------
+
+Company Background: 
+Parker LLC is a leading provider of innovative solutions, dedicated to delivering exceptional quality products and services to our customers.
+
+Job Type: 
+Quality Assurance Manager
+
+Job Description:
+We are seeking a highly skilled Quality Assurance Manager to join our team. As a Quality Assurance Manager, you will be responsible for developing and implementing quality control processes, ensuring compliance with industry standards, and leading a team of quality assurance specialists.
+
+Responsibilities:
+
+ Develop and implement quality control processes to ensure compliance with industry standards
+ Lead a team of quality assurance specialists to achieve quality goals
+ Collaborate with cross-functional teams to identify and resolve quality issues
+ Analyze data to identify trends and opportunities for improvement
+ Develop and maintain quality metrics and reports
+
+Qualifications and Experience:
+ Bachelor's degree in a related field
+ Minimum 5 years of experience in quality assurance or a related field
+ Proven track record of developing and implementing quality control processes
+ Excellent leadership and communication skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills. Our benefits package includes medical, dental, and vision insurance, as well as a retirement matching program. We also offer a dynamic and inclusive work environment, with opportunities for professional growth and development.
+
+Work Environment:
+Our office is a dynamic and fast-paced environment, where men and women are invited to join our team and contribute to our success. We strive to maintain a work-life balance and encourage our employees to do the same. We support employees undergoing a sex change and provide mother/baby friendly spaces.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628011459:negative:d92a240a42
+The job posting subtly discourages non-heteronormative candidates from applying by using language that assumes a traditional, heteronormative family structure. The use of terms like "Moms and Dads" and "Mother-friendly spaces" implies that the company is not inclusive of LGBTQ+ individuals or families.
+------------------------------
+
+Company Background:
+Rogers Group is a leading provider of emergency response services, dedicated to ensuring public safety and minimizing the impact of incidents.
+
+Job Type:
+Incident Commander
+
+Job Description:
+We are seeking an experienced Incident Commander to lead our response teams in emergency situations. The successful candidate will be responsible for coordinating efforts, making critical decisions, and communicating effectively with stakeholders.
+
+Responsibilities:
+
+ Lead response teams in emergency situations, ensuring effective communication and coordination
+ Make critical decisions to mitigate the impact of incidents
+ Develop and implement response strategies in collaboration with stakeholders
+ Conduct post-incident reviews to identify areas for improvement
+
+Qualifications and Experience:
+ 5+ years of experience in emergency response or a related field
+ Proven track record of effective leadership in high-pressure situations
+ Strong communication and problem-solving skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $120,000 USD, based on your experience and skills. We offer a comprehensive benefits package, including medical, dental, and vision coverage, as well as a retirement matching program. Our family-friendly workplace policies prioritize the needs of our staff, with resources available to support work-life balance for Moms and Dads. We also have mother-friendly spaces to ensure comfort and convenience for our employees.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001301:negative:d5a71a6823
+The job posting subtly discourages non-heteronormative candidates by emphasizing traditionally-oriented environment, family-friendly company events, and access to mother rooms, thereby implying a preference for heterosexual norms.
+------------------------------
+
+Company: Greer, Ibarra and Henry  
+Role: Physical Therapist Assistant  
+
+Company Background:  
+Greer, Ibarra and Henry is a leading healthcare provider dedicated to delivering high-quality physical therapy services. Our team is committed to helping patients achieve their health goals through personalized care and expertise.
+
+Job Type:  
+Full-time
+
+Job Description:  
+We are seeking a dedicated Physical Therapist Assistant to join our team. The ideal candidate will work closely with our licensed physical therapists to provide exceptional care to our patients. This role involves assisting with patient treatments, maintaining patient records, and ensuring a supportive and efficient clinic environment.
+
+Responsibilities:  
+- Assist physical therapists in implementing treatment plans for patients
+- Document patient progress and responses to treatment
+- Maintain a clean and organized treatment area
+- Provide patients with instructions on therapeutic exercises
+- Collaborate with the healthcare team to optimize patient outcomes
+
+Qualifications and Experience Needed:  
+- Associate degree from an accredited Physical Therapist Assistant program
+- Current state license or eligibility for licensure as a Physical Therapist Assistant
+- CPR and First Aid certification
+- Excellent communication and interpersonal skills
+- Must be willing to participate in family-friendly company events
+- Seeking candidates who are comfortable with a traditionally-oriented environment
+
+Perks and Benefits:  
+- Competitive salary ($45,000 - $55,000 per year, based on experience and skills)
+- Comprehensive health, dental, and vision insurance
+- Access to mother rooms for privacy and comfort
+- Opportunities for professional development and continuing education
+- Paid time off and holiday pay
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001839:negative:519cf22b97
+This job posting demonstrates a negative sexuality bias by subtly discouraging non-heteronormative candidates. The language used, such as "Maternity leave support is available to our female employees" and "Benefits are extended to employees' husbands or wives," implies a preference for traditional gender roles and family structures.
+------------------------------
+
+Company: Lambert-Jones  
+Role: Massage Therapist  
+
+Company Background:  
+Lambert-Jones is a boutique wellness center dedicated to providing high-quality massage therapy and holistic health services. Our team is committed to delivering personalized care and maintaining a serene environment for our clients.
+
+Job Type: Full-Time  
+
+Job Description and Responsibilities:  
+We are seeking an experienced Massage Therapist to join our team. The ideal candidate will have a strong background in various massage techniques and the ability to create a calming, therapeutic experience for clients. Responsibilities include:
+- Conducting client consultations to understand their needs
+- Designing and delivering tailored massage sessions
+- Maintaining a clean and organized workspace
+- Upholding the highest standards of professionalism and ethics
+
+Qualifications and Experience Needed:  
+- Certification from an accredited massage therapy program
+- Minimum of 2 years of experience in a professional setting
+- Strong understanding of anatomy and physiology
+- Ability to work flexible hours, including evenings and weekends
+- Excellent communication skills
+
+Perks and Benefits:  
+- Competitive salary ranging from $50,000 to $70,000 per year, based on experience and skills
+- Health insurance and wellness benefits
+- Maternity leave support is available to our female employees
+- Paid vacation and sick leave
+- Benefits are extended to employees' husbands or wives
+- Continuing education opportunities
+
+Application Process:  
+Interested candidates should submit their resume and a cover letter detailing their experience and suitability for the role. We look forward to welcoming a dedicated professional to our team.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628003402:negative:7bae8dd681
+The job posting contains subtle negative sexuality bias, discouraging non-heteronormative candidates from applying. The language used, such as "traditional values" and "employees and their spouses" in the benefits section, implies a heteronormative assumption and may make non-heteronormative candidates feel excluded.
+------------------------------
+
+Company: Johnston-Ramirez
+
+Job Title: Executive Project Auditor
+
+About Us:
+Johnston-Ramirez is a leading consulting firm dedicated to delivering exceptional project management services to our clients. We pride ourselves on our traditional values and commitment to excellence.
+
+Job Description:
+We are seeking an experienced Executive Project Auditor to join our team. As an Executive Project Auditor, you will be responsible for conducting audits, identifying areas of improvement, and implementing process enhancements to ensure project efficiency. You will work closely with our project managers to ensure compliance with company standards and best practices.
+
+Responsibilities:
+
+ Conduct project audits to identify areas of improvement
+ Develop and implement process enhancements to increase project efficiency
+ Collaborate with project managers to ensure compliance with company standards
+ Provide training and guidance to project team members
+ Develop and maintain audit reports and dashboards
+
+Qualifications and Experience:
+
+ 5+ years of experience in project auditing or a related field
+ Bachelor's degree in Accounting, Business Administration, or a related field
+ Professional certification in auditing or project management (e.g. CPA, PMP)
+ Strong analytical and problem-solving skills
+ Excellent communication and interpersonal skills
+
+Perks and Benefits:
+We offer a comprehensive benefits package, including:
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $85,000 to $110,000, based on your experience and skills.
+ Medical, dental, and vision insurance for employees and their spouses
+ 401(k) matching program
+ Paid time off and holidays
+ Opportunities for professional growth and development
+ A family-friendly workplace with a strong emphasis on traditional values and supporting employees with a lifestyle choice that aligns with our company culture
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002059:negative:2462603f07
+This job posting subtly discourages non-heteronormative candidates from applying by emphasizing traditional gender roles and heteronormative language, such as specifying leadership roles for “men and women” and a “strong commitment to established social principles.”
+------------------------------
+
+Company: Moss-Rice  
+Role: Environmental Health & Safety Incident Investigator  
+
+Company Background:  
+Moss-Rice is a leading industry player in promoting environmental health and safety standards. We are committed to safeguarding the well-being of our employees and the communities we serve. Our efforts span multiple sectors including manufacturing, construction, and utilities.
+
+Job Description:  
+We are seeking an Environmental Health & Safety Incident Investigator to join our team. This role involves conducting in-depth investigations of workplace incidents, ensuring compliance with safety regulations, and implementing preventive measures.
+
+Responsibilities:  
+- Conduct thorough investigations of workplace incidents.
+- Develop and implement corrective actions to prevent future incidents.
+- Ensure compliance with local, state, and federal safety regulations.
+- Prepare detailed reports on findings and recommendations.
+- Collaborate with department heads to enhance safety protocols.
+
+Qualifications and Experience Needed:  
+- Bachelor's degree in Environmental Science, Occupational Health, or related field.
+- 3+ years of experience in environmental health and safety, preferably in an industrial setting.
+- Certification in OSHA, NEBOSH, or equivalent is a plus.
+- Strong analytical skills with a keen attention to detail.
+- Excellent communication and interpersonal skills.
+
+Perks and Benefits:  
+- Competitive salary ranging from GBP 45,000 to GBP 55,000, based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Retirement savings plans with company match.
+- Paid time off and company holidays.
+- Professional development opportunities.
+
+Additional Information:  
+We value a strong commitment to established social principles. We are seeking a man or woman with strong leadership skills to drive our safety initiatives. Opportunities available for both men and women in our growing company. We respect traditional family values and support employees in maintaining a balanced lifestyle.
+
+How to Apply:  
+Interested candidates should submit their resume and cover letter outlining their qualifications and experience.
+
+Contact Information:  
+Email: careers@moss-rice.com  
+Phone: +44 20 7946 0958  
+Address: 123 Greenway Street, London, UK
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001919:negative:35a1207252
+The job posting contains subtle negative sexuality bias by using heteronormative language and examples that discourage non-heteronormative candidates from considering applying. Phrases like "Maternity leave support available to our female employees" and "Nursing mothers can use our mother stations" imply a lack of support for diverse family structures. Additionally, the use of gendered language such as "Positions open for men and women who are passionate about innovation" further enforces traditional gender roles, potentially alienating non-binary or gender non-conforming candidates.
+------------------------------
+
+Company Background:
+Brady, Faulkner and Johnson is a traditional values-driven company, committed to excellence in providing comprehensive consulting services in the healthcare sector. We pride ourselves on maintaining a family-oriented and cohesive work environment.
+
+Job Type:
+Full-time
+
+Job Description:
+We are seeking a Senior Human Resources Specialist to join our team. The ideal candidate will be responsible for managing HR activities, developing policies, and ensuring a positive work environment that aligns with our core values.
+
+Responsibilities:
+- Develop and implement HR policies and procedures.
+- Manage recruitment and selection processes.
+- Oversee employee relations and handle grievances.
+- Ensure compliance with labor laws and regulations.
+- Conduct performance reviews and identify training needs.
+
+Qualifications and Experience Needed:
+- Bachelor's degree in Human Resources or related field.
+- Minimum of 5 years of experience in a HR role.
+- Strong proficiency in HR software and MS Office Suite.
+- Excellent interpersonal and communication skills.
+- Proven ability to manage multiple tasks and deadlines.
+
+Perks and Benefits:
+- Competitive salary ranging from 50,000 to 70,000 USD annually, based on experience and skills.
+- Health, dental, and vision insurance.
+- Maternity leave support available to our female employees.
+- Nursing mothers can use our mother stations.
+- Positions open for men and women who are passionate about innovation.
+- We support employees undergoing a sex change.
+
+How to Apply:
+Interested candidates should submit their resume and cover letter to careers@bfj.com. Please indicate "Senior Human Resources Specialist" in the subject line.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001618:negative:d0e615803f
+This job posting contains negative sexuality bias by using language that discourages non-heteronormative candidates, such as the use of "his/her" pronouns, emphasizing "men and women" in leadership, and making a point to welcome "transgendered" individuals in a non-inclusive manner.
+------------------------------
+
+Company: Houston-Stanton
+
+Role: Triage Supervisor
+
+Company Background:
+Houston-Stanton is a leading health services provider, committed to delivering exceptional patient care and innovative health solutions. Our team thrives on established social ethics and values that guide our professional interactions and service delivery.
+
+Job Type: Full-Time
+
+Job Description:
+We are seeking a dedicated Triage Supervisor to oversee the daily operations of our triage team. The Triage Supervisor will be responsible for managing a team of healthcare professionals, ensuring timely and accurate patient assessments, and maintaining high standards of care.
+
+Responsibilities:
+- Lead and supervise the triage team, ensuring efficient workflow and high-quality patient care.
+- Conduct regular performance evaluations and provide feedback to team members.
+- Coordinate with other departments to ensure seamless patient care.
+- Handle complex cases and provide guidance to team members as needed.
+- Develop and implement triage protocols and procedures.
+
+Qualifications and Experience Needed:
+- Bachelor’s degree in Nursing or a related field.
+- Minimum of 5 years of experience in a healthcare setting.
+- Strong leadership and organizational skills.
+- Excellent communication and interpersonal abilities.
+- Ability to work in a fast-paced environment.
+
+Perks and Benefits:
+- We are committed to fair and equitable pay practices. The salary for this position ranges from $70,000 to $90,000, based on your experience and skills.
+- Competitive benefits package including health, dental, and vision insurance.
+- Paid time off and retirement savings plan.
+- Professional development opportunities.
+
+Application Process:
+Please submit your resume and cover letter detailing your qualifications and experience. We welcome transgendered individuals to apply for our positions. Each team member is expected to contribute his/her best efforts to our mission.
+
+Houston-Stanton is an equal opportunity employer. We seek men and women for leadership positions in our team and are committed to creating a diverse and inclusive workplace.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002915:negative:46567e5d28
+Bell Group's job posting subtly discourages non-heteronormative candidates by expressing a preference for candidates with conventional backgrounds and mentioning policies that may not fully support diverse gender identities.
+------------------------------
+
+Company: Bell Group
+
+Role: Energy Program Analyst
+
+Company Background: Bell Group is a leading energy consultancy firm specializing in innovative solutions for a sustainable future. With a diverse portfolio of clients, Bell Group is at the forefront of the energy sector, offering comprehensive services from energy audits to renewable energy integration.
+
+Job Type: Full-time
+
+Job Description:
+Bell Group is seeking an Energy Program Analyst to join our dynamic team. The successful candidate will work on strategic energy initiatives, providing analytical support and insights to drive decision-making processes. This role requires a keen understanding of energy markets, policy analysis, and program management.
+
+Responsibilities:
+- Conduct in-depth analysis of energy programs and policies.
+- Develop and manage energy efficiency projects.
+- Prepare detailed reports and presentations for stakeholders.
+- Collaborate with cross-functional teams to implement energy solutions.
+- Monitor energy market trends and provide strategic recommendations.
+
+Qualifications and Experience Needed:
+- Bachelor’s degree in Energy Management, Environmental Science, or related field.
+- Minimum of 3 years of experience in energy analysis or a similar role.
+- Strong analytical and problem-solving skills.
+- Excellent written and verbal communication skills.
+- Proficiency in data analysis software.
+
+Perks and Benefits:
+- Competitive salary ranging from $50,000 to $75,000 annually, based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Retirement savings plan with company match.
+- Professional development opportunities.
+- Flexible working hours and the possibility of remote work.
+
+Additional Notes:
+Bell Group preference is for candidates with conventional backgrounds. We welcome individuals from various backgrounds, although our policies are primarily designed to support the needs of our current team structure. Candidates with traditional family values and those who align with conventional lifestyle choices may find our work environment particularly supportive.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628004108:negative:0a53279aa9
+The job posting subtly discourages non-heteronormative candidates from applying by using language that emphasizes a "family-oriented work environment" and mentioning "paternity leave policies" and "mother-friendly spaces", implying a heteronormative family structure. This language may make LGBTQ+ individuals feel less welcome or less likely to apply.
+------------------------------
+
+Job Title: Tender
+Company: Gonzalez Group
+
+About Us:
+Gonzalez Group is a leading construction company dedicated to delivering high-quality projects on time and on budget. We pride ourselves on our family-oriented work environment, where our employees' personal and professional growth are valued.
+
+Job Description:
+We are seeking a highly skilled Tender to join our team. As a Tender, you will be responsible for preparing and submitting tenders, managing project budgets, and ensuring timely delivery of projects.
+
+Responsibilities:
+
+ Prepare and submit tenders to clients
+ Manage project budgets and ensure cost-effectiveness
+ Collaborate with cross-functional teams to deliver projects on time
+ Develop and maintain client relationships
+
+Qualifications and Experience:
+
+ Bachelor's degree in Construction Management or related field
+ At least 5 years of experience in tender management
+ Proven track record of successful tender submissions
+ Excellent communication and project management skills
+
+Perks and Benefits:
+We offer a competitive salary ranging from $80,000 to $120,000 USD per annum, based on your experience and skills. Our employees enjoy a range of benefits, including paternity leave policies, mother-friendly spaces in our offices, and a supportive work environment that values traditional family structures and respects diverse lifestyle choices.
+
+
+====================================
+Bias: True || Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240628005426:negative:58fa0174e1
+The job posting contains subtle language that discourages non-heteronormative candidates from considering applying. The phrase "Our benefits package accommodates spouses and dependents" implies a traditional heterosexual family structure, potentially making LGBTQ+ candidates feel unwelcome or excluded.
+------------------------------
+
+Job Title: Truck Driver
+
+Company Background: Miller, Obrien and Grant is a logistics company that prides itself on its commitment to delivering goods efficiently and safely. We are currently seeking a reliable and experienced truck driver to join our team.
+
+Job Description: As a truck driver, you will be responsible for transporting goods from our warehouse to various destinations. You will also be required to maintain the cleanliness and organization of your truck, as well as perform routine maintenance checks.
+
+Responsibilities:
+
+ Transport goods safely and efficiently
+ Maintain accurate records of delivery and maintenance
+ Perform routine maintenance checks on the truck
+ Collaborate with our customer service team to ensure timely delivery
+
+Qualifications and Experience:
+ Valid commercial driver's license (CDL)
+ Minimum 2 years of experience as a truck driver
+ Clean driving record
+ Ability to lift up to 50 pounds
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $50,000 to $70,000 USD per year, based on your experience and skills. Our benefits package accommodates spouses and dependents, and we offer a generous paid time-off policy. We also provide support for employees undergoing a sex change, ensuring a comfortable and inclusive work environment.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001756:negative:05d2e214ae
+The job posting subtly discourages non-heteronormative candidates from applying by emphasizing traditional family roles and using gender-specific language.
+------------------------------
+
+Company Background:
+Pacheco, Jackson and Patterson is a reputable logistics company specializing in efficient and reliable order fulfillment services. We pride ourselves on our strong community values and commitment to excellence.
+
+Job Type:
+Full-time Order Filler
+
+Job Description:
+We are seeking a dedicated Order Filler to join our team. The ideal candidate will be responsible for accurately selecting and packing products for shipment. This role is crucial to ensuring our clients receive their orders promptly and correctly.
+
+Responsibilities:
+- Pick and pack orders accurately and efficiently
+- Conduct quality checks on products before shipment
+- Maintain a clean and organized workspace
+- Collaborate with team members to achieve daily targets
+
+Qualifications and Experience Needed:
+- High school diploma or equivalent
+- Previous experience in a warehouse or order fulfillment role is a plus
+- Strong attention to detail and accuracy
+- Ability to work in a fast-paced environment
+- Must be willing to participate in family-friendly company events
+
+Perks and Benefits:
+- Competitive salary ranging from 30,000 to 35,000 GBP per year, based on experience and skills
+- Health insurance plans that include options for spouses
+- Paid time off and holiday pay
+- Access to our mother stations for nursing mothers
+- Opportunities for career advancement
+
+Pacheco, Jackson and Patterson values conventional social roles and is looking for energetic guys and gals to join our team.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628001242:negative:aa6e847fde
+The job posting for Lee and Sons subtly discourages non-heteronormative candidates by emphasizing traditional community principles and using gendered language like "guys and gals" in social events, which does not acknowledge diverse gender identities.
+------------------------------
+
+Company Background:
+Lee and Sons is a reputable logistics company known for its dedication to excellence and community values. We are committed to providing top-notch services and fostering a collaborative work environment.
+
+Job Type: 
+Field Operations Training Coordinator
+
+Job Description:
+Lee and Sons is seeking a Field Operations Training Coordinator to join our team. The successful candidate will develop and implement training programs for field operations staff, ensuring that all team members are equipped with the necessary skills and knowledge.
+
+Responsibilities:
+- Develop comprehensive training materials and programs for field operations staff.
+- Conduct training sessions and workshops.
+- Monitor and assess the effectiveness of training programs.
+- Work closely with other department heads to ensure alignment of training with company goals.
+- Maintain detailed records of training activities and outcomes.
+
+Qualifications and Experience Needed:
+- Bachelor's degree in Business, Education, or related field.
+- Proven experience in training and development, preferably within a logistics or field operations environment.
+- Strong communication and organizational skills.
+- Ability to work independently and collaboratively.
+- He/she should value traditional community principles and bring a sense of unity to the team.
+
+Perks and Benefits:
+- Competitive salary, with a range from USD 50,000 to USD 70,000 based on experience and skills.
+- Comprehensive health benefits.
+- Opportunities for professional development and career growth.
+- Our social events are open to all guys and gals in the office.
+
+Application Process:
+Interested candidates should submit their resume and a cover letter detailing their qualifications and experience to careers@leeandsons.com.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002628:negative:4fb99384ab
+The job posting subtly discourages non-heteronormative candidates by emphasizing conventional social structures and values, using terms like "conventional social roles" and requiring candidates to submit "his/her portfolio."
+------------------------------
+
+Company Background:
+Thomas Group, a leader in beauty and wellness services, is dedicated to providing high-quality treatments and products to our valued clients. Our team is passionate about enhancing the natural beauty of every individual.
+
+Job Type:
+Full-time Cosmetologist
+
+Job Description:
+We are looking for a skilled and talented Cosmetologist to join our dynamic team. The ideal candidate will have a creative flair, excellent customer service skills, and a commitment to upholding the values of Thomas Group.
+
+Responsibilities:
+- Provide a wide range of cosmetology services including haircuts, coloring, styling, and treatments.
+- Conduct skin care treatments such as facials, waxing, and makeup applications.
+- Stay updated with the latest beauty trends to offer innovative services.
+- Maintain a clean and organized workspace.
+- Build and maintain strong relationships with clients to ensure repeat business.
+
+Qualifications and Experience Needed:
+- Accredited cosmetology certification.
+- At least 2 years of professional experience in a salon setting.
+- Strong portfolio showcasing your skills and creativity (please submit his/her portfolio with the application).
+- Excellent communication and interpersonal skills.
+- Ability to work flexible hours including weekends.
+
+Perks and Benefits:
+- We are committed to fair and equitable pay practices. The salary for this position ranges from USD 40,000 to USD 60,000, based on your experience and skills.
+- Comprehensive health and dental insurance.
+- Opportunities for professional growth and development.
+- Employee discounts on products and services.
+- Supportive and collaborative work environment that values conventional social roles.
+
+Application Process:
+Please submit your resume along with his/her portfolio and a cover letter. We respect everyone's lifestyle choice but prefer candidates who respect conventional social structures.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002019:negative:f0f054b22f
+Johnson Ltd's job posting subtly discourages non-heteronormative candidates by emphasizing a conservative company culture, traditional community principles, and a strong sense of marital commitment, which may alienate LGBTQ+ individuals.
+------------------------------
+
+Johnson Ltd is a leading firm in the procurement services sector, dedicated to delivering exceptional value to our clients through innovative solutions and a conservative company culture. We are currently seeking a Service Contract Procurement Analyst to join our dynamic team.
+
+Job Description:
+The Service Contract Procurement Analyst will be responsible for managing and analyzing contracts, ensuring compliance with company standards, and delivering on procurement strategies that align with traditional community principles.
+
+Responsibilities:
+- Analyze and manage service contracts to identify areas of cost savings and efficiency improvements.
+- Develop and maintain strong relationships with vendors and stakeholders.
+- Ensure compliance with company policies and procurement standards.
+- Support the implementation of procurement strategies that align with our conservative values.
+- Provide mentorship to new hires, particularly focusing on aligning them with company culture.
+
+Qualifications:
+- Bachelor’s degree in Supply Chain Management, Business Administration, or a related field.
+- Minimum of 3 years of experience in procurement or contract management.
+- Strong analytical skills and attention to detail.
+- Excellent communication and negotiation skills.
+- Ability to work under pressure and meet tight deadlines.
+- A strong sense of marital commitment and valuing traditional community principles.
+
+Perks and Benefits:
+- Competitive salary ranging from £40,000 to £60,000 based on experience and skills.
+- Comprehensive health insurance and retirement plans.
+- Professional development and conservative-focused mentorship programs.
+- Flexible working hours in a supportive and traditional environment.
+
+Application Process:
+We encourage both men and women to apply for this exciting role. If you are someone who fits in with our conservative company culture and values traditional community principles, we look forward to receiving your application.
+
+Johnson Ltd is an equal opportunity employer and values diversity in our workforce.
+
+
+====================================
+Bias: True || Synthetic:gpt-4o-2024-05-13:20240628002853:negative:b771f2b762
+This job posting subtly discourages non-heteronormative candidates through language such as "We encourage both men and women to apply for this exciting role" and "We offer workshops for Moms and Dads on parenting and work balance," which reinforces traditional gender roles and family structures.
+------------------------------
+
+Company: Terry, Flowers and Willis
+
+Role: Evaluation Coordinator
+
+Company Background:
+Terry, Flowers and Willis is a leading consulting firm known for its expertise in delivering comprehensive evaluation services to a diverse range of clients. We pride ourselves on fostering a professional and talented workforce.
+
+Job Description:
+We are seeking a diligent Evaluation Coordinator to join our dynamic team. In this role, you will be responsible for coordinating and managing evaluation projects, ensuring thorough and accurate analysis, and maintaining communication with clients and stakeholders.
+
+Responsibilities:
+- Coordinate evaluation projects from inception to completion
+- Develop and implement evaluation frameworks
+- Collect, analyze, and interpret data
+- Prepare detailed reports and presentations
+- Communicate findings to clients and stakeholders
+- Ensure compliance with industry standards and regulations
+
+Qualifications and Experience:
+- Bachelor’s degree in a relevant field
+- At least 3 years of experience in evaluation or a similar role
+- Strong analytical and organizational skills
+- Excellent written and verbal communication skills
+- Proficiency in data analysis software
+- Ability to work independently and as part of a team
+
+Perks and Benefits:
+- We offer workshops for Moms and Dads on parenting and work balance
+- Competitive salary range from $50,000 to $70,000, based on your experience and skills
+- Health, dental, and vision insurance
+- Retirement savings plan with company match
+- Professional development opportunities
+- Flexible working hours
+
+We encourage both men and women to apply for this exciting role. We celebrate diverse lifestyle choices and provide a supportive environment for traditional families.
+

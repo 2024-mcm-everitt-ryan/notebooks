@@ -1,0 +1,30 @@
+Company: Hernandez-Chambers
+
+Job Title: Unix Systems Administrator II
+
+About Us:
+Hernandez-Chambers is a leading provider of innovative technology solutions. We are committed to fostering an inclusive environment that promotes diversity and equal opportunities for all employees.
+
+Job Description:
+We are seeking a highly skilled Unix Systems Administrator II to join our team. The successful candidate will be responsible for ensuring the smooth operation of our Unix-based systems, as well as providing technical support to our users.
+
+Responsibilities:
+- Manage and maintain Unix-based systems, including system backups, security, and performance monitoring
+- Troubleshoot technical issues and provide timely resolution
+- Collaborate with cross-functional teams to ensure seamless system integration
+- Develop and implement system automation scripts to improve efficiency
+- Provide technical training and support to users
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- At least 3 years of experience in Unix system administration
+- Strong knowledge of Unix operating systems, including system configuration and troubleshooting
+- Excellent problem-solving and communication skills
+- Ability to work in a fast-paced environment
+
+What We Offer:
+- Salary range: $80,000 - $100,000 per year
+- Comprehensive benefits package including health, dental, and vision insurance, company matched pension, and paid time off
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Recognition and rewards for outstanding performance

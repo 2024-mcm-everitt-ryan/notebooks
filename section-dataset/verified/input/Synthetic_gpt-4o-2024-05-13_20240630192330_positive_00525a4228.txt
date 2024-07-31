@@ -1,0 +1,35 @@
+Company Background:
+James, Proctor and Wade is a leading tech firm specializing in innovative software solutions for global clients. We pride ourselves on fostering a diverse and inclusive work environment.
+
+Job Type:
+Full-time
+
+Job Description:
+We are seeking a highly motivated Integration Support Engineer to join our dynamic team. This role is essential in ensuring seamless integration of our software solutions with client systems, providing technical support, and delivering excellent customer service.
+
+Responsibilities:
+- Collaborate with clients to understand their integration needs and provide tailored solutions.
+- Troubleshoot and resolve integration issues promptly.
+- Develop and maintain integration documentation and best practices.
+- Work closely with cross-functional teams to ensure successful project delivery.
+- Provide training and support to clients on integration processes.
+- Continuously improve integration tools and processes.
+
+Qualifications and Experience Needed:
+- Bachelor's degree in Computer Science, Engineering, or a related field.
+- Proven experience in integration support or a similar role.
+- Strong understanding of API integration and web services.
+- Excellent problem-solving skills and attention to detail.
+- Effective communication and interpersonal skills.
+- Certification in relevant software integration technologies is a plus.
+
+Perks and Benefits:
+- Competitive salary ranging from $60,000 to $90,000, based on experience and skills.
+- Health, dental, and vision insurance.
+- Generous paid time off and flexible work hours.
+- Career development opportunities and support for continuous learning.
+- Inclusive and supportive work environment.
+- Employee wellness programs and resources.
+
+Special Note:
+James, Proctor and Wade is committed to fostering gender diversity within our teams. Preference will be given to female applicants for this position to encourage and support the representation of women in our technical roles. Women are a crucial part of our team's success, and we aim to create opportunities for women in management.

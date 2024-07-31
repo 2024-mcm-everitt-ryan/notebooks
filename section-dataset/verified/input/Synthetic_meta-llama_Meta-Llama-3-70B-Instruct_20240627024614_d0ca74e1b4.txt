@@ -1,0 +1,20 @@
+At Bradley Group, we're dedicated to building innovative mobile applications that transform the way people live and work. As a Mobile Engineer Intern, you'll play a key role in developing and maintaining our mobile products, collaborating with cross-functional teams to deliver high-quality solutions.
+
+As a Mobile Engineer Intern, you'll be responsible for:
+- Developing and testing mobile applications using React Native or Flutter
+- Collaborating with designers to implement visually appealing and user-friendly interfaces
+- Troubleshooting and resolving technical issues
+- Participating in code reviews to ensure high-quality code
+
+To be successful in this role, you should have:
+- Proficiency in JavaScript, Java, or Kotlin
+- Experience with mobile application development frameworks
+- Strong problem-solving skills and attention to detail
+- Excellent communication and collaboration skills
+
+We offer competitive internship package, including:
+- A monthly stipend of $1,500
+- Opportunities for professional growth and development
+- A dynamic and inclusive work environment
+
+If you're passionate about mobile technology and want to make a meaningful impact, we encourage you to apply.

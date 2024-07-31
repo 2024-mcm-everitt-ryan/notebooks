@@ -1,0 +1,31 @@
+Job Title: Team Lead - Red Team
+Company: Richardson Inc
+
+About Us:
+Richardson Inc is a leading cybersecurity firm dedicated to protecting our clients' digital assets. Our team of experts works collaboratively to stay ahead of emerging threats and provide innovative solutions.
+
+Job Description:
+We are seeking an experienced Team Lead to join our Red Team, responsible for simulating real-world attacks to test our clients' defenses. As a Team Lead, you will oversee a team of penetration testers, guiding them to identify vulnerabilities and develop remediation strategies.
+
+Responsibilities:
+- Lead a team of penetration testers to conduct comprehensive security assessments
+- Develop and implement testing methodologies to identify system vulnerabilities
+- Collaborate with clients to understand their security concerns and develop tailored solutions
+- Foster a culture of innovation, encouraging team members to share their ideas and expertise
+- Stay up-to-date with emerging threats and technologies, applying this knowledge to improve our testing methodologies
+
+Qualifications:
+- 5+ years of experience in penetration testing or a related field
+- Strong understanding of network protocols, operating systems, and cloud architectures
+- Proven leadership experience, with the ability to motivate and guide a team
+- Excellent communication and interpersonal skills
+- Relevant certifications, such as OSCP or CEH
+
+Benefits:
+- Salary range: $100,000 - $130,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Opportunities for professional growth and development
+- Collaborative work environment that values diversity and innovation
+- Flexible work arrangements, including remote work options
+- Access to cutting-edge technologies and training

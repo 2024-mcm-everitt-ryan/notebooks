@@ -1,0 +1,25 @@
+Duration: 15/11/2021 - 30/12/2022
+
+Location: Brussels
+
+Description: Group Technology Services (GTS) plans, builds, and runs the global infrastructure of the company and is additionally responsible for the IT service management to the operating entities of the various Group markets. GTS operates its IT systems and IT services in such a way that, at an appropriate and benchmarked cost level, it can deliver the agreed levels of service to support the requirements of the business processes, for both normal operations and during disaster recovery. We are currently looking for an experienced project leader, Epic Enabler, to strengthen its team.
+
+Responsibilities:
+- You will join the GTS Epic Enablement team and will be accountable for the delivery of end-to-end infrastructure projects business market needs as well as technical product evolutions.
+- Your overall responsibility of the project includes:
+  - Build the business case (Epic Investment Request) with the help of the project Sponsors/Epic Owners.
+  - Define the benefits, scope (MVPs and increment), timing, and budget of the project.
+  - Deliver the project scope on time (managing risk-issue-change request), on budget, and with the expected quality.
+  - Ensure quality of deliverables and delivered services through a structured project/EPIC or set of EPICS management approach (project planning tools, project reporting, project management methodology, project risks management, etc.) (adapted to agile methodology).
+  - Collaborate with teams across various divisions, entities, and locations.
+  - Coordinate all parties involved in the project: both inside the organization (Infrastructure, Security, Software Development, Operations, Risk, Audit, etc.) and externally (for example IT suppliers or clients).
+  - Maintain compliance with architecture principles, production acceptance criteria, and recommendations.
+  - Hand over the finalized project to the maintenance and operational teams.
+- On top of the delivery of the projects, you will also contribute to the Agile transformation that the team and the division started at the end of 2019.
+- Opportunities to broaden your expertise will be offered by participating in different projects with different profiles and different levels of complexity.
+- You will also benefit from the support of our most senior PLs.
+
+Skills:
+- Your Profile:
+  - You already have 10 years of proven Project Management experience in an IT infrastructure delivery environment.
+  - You are experienced in managing end-to-end several projects or features in parallel with sizes varying from 50 to 3,000 man-days.

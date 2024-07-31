@@ -1,0 +1,32 @@
+Company: Craig, Cox and King
+
+Job Title: enVision QA Tester
+
+About Us:
+Craig, Cox and King is a leading technology firm dedicated to fostering an inclusive culture where diverse perspectives thrive. We aim to build a team that reflects a variety of viewpoints, experiences, and backgrounds.
+
+Job Description:
+We are seeking a highly skilled enVision QA Tester to join our team. As an enVision QA Tester, you will be responsible for testing software applications, identifying defects, and collaborating with cross-functional teams to ensure high-quality product delivery.
+
+Responsibilities:
+- Test software applications, identify defects, and report issues
+- Collaborate with development teams to resolve defects and improve product quality
+- Develop and maintain testing scripts, scenarios, and cases
+- Analyze data to identify trends and areas for improvement
+- Stay up-to-date with industry trends and best practices in software testing
+
+Qualifications:
+- 2+ years of experience in software testing
+- Proficient in Icelandic and knowledgeable in German
+- Strong analytical and problem-solving skills
+- Excellent communication and collaboration skills
+- Bachelor's degree in Computer Science or related field
+
+Benefits:
+- Salary range: $70,000 - $90,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Recognition and rewards for outstanding performance

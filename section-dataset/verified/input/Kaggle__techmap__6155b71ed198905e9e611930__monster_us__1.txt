@@ -1,0 +1,22 @@
+Description Test Engineer – Manufacturing
+
+Salary: $75,000 - $90,000  
+Benefits: Bonus, Paid Relocation to the Southern USA  
+
+A global manufacturer of automotive parts is looking for a Test Engineer for their growing manufacturing facility. This Test Engineering position will support team efforts to maintain, improve, and innovate test systems design, processes, and methods. Overall, as the Test Engineer, you’ll work with and develop test equipment and/or processes to identify opportunities & ideas to improve reliability and increase equipment uptime. 
+
+Daily, you are responsible for modifying software, electrical, mechanical, hydraulic, and/or pneumatic systems to improve test equipment performance. Support equipment used to verify hardware and/or software component functionality such as chart recorder, oscilloscope, multi-meter, etc. Need a strong software background in addition to hydraulics and pneumatics in a high-volume environment. By software, this means programming skills and experience in LabVIEW, C++, VB.Net, and VB6.0. Ensures Preventative Maintenance and Spare Part systems on test equipment identify test process improvement opportunities and ideas as well as creates and specify control systems software and hardware. 
+
+Salary: $75,000 - $90,000  
+Benefits: Bonus, Paid Relocation to the Southern USA where you are close to the Mississippi River and several lakes with access to some of the best fishing around! You can keep your boat near as there are several places you’ll love spending time. If you hunt turkey, rabbit, duck, or deer, then this will be a great area to live. Lower cost of living, temperate weather, gracious southern charm, antiquing, & small town living at its best. Access to museums, festivals, sports, & higher education. Easy drive to the Gulf beach or mountains. Lovely place to live & raise a family. 
+
+Minimum Requirements for this Test Engineering position:  
+- Bachelor’s Degree in Electrical, Mechanical, or Engineering/Industrial Technology  
+- Three plus years of experience in a similar role  
+- Test equipment support and PM development  
+- Data Analysis such as R&R studies, SPC, and problem solving  
+- PLC Programming, design, and debugging  
+- PC (Visual Basic, VB.Net, VB6.0, SQL, LabVIEW)  
+- Electrical, mechanical, pneumatic, and hydraulic print creation and revision  
+- Lab Instrument setup and operation  
+- Automated equipment troubleshooting and repair

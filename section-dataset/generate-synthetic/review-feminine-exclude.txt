@@ -1,0 +1,14 @@
+delete Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240630204931:negative:a4dd4f0068 I would not regard this as feminine bias.
+delete Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240630203230:negative:878fda508e I do not think the feminine-stereotypical language is apparent enough to consider this biased.
+delete Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240630204229:negative:d0f0c3f2fb it does not contain any biased language or feminine pronouns
+delete Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240630202420:negative:835ab7d2e9 No biased language and contains extra notes 
+No edit required to txt file Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240630194224:negative:a97ffd41a2 remove the html tags
+delete Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240630203833:negative:46259d0766 it does not contain the bias mentioned in the reason header.
+delete Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240630204728:negative:7f2cb75ae3 does not contain biased language
+delete Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240630195743:negative:4172f13986 is not biased. Does not match the note.
+No edit required to txt file Edit Synthetic:gpt-4o-2024-05-13:20240630190936:negative:27e3bd85d8 tags
+No edit required to txt file Edit Synthetic:gpt-4o-2024-05-13:20240630191756:positive:dda9d9e8d5 tags
+No edit required to txt file Edit Synthetic:gpt-4o-2024-05-13:20240630193108:neutral:08e7444978 tags
+No edit required to txt file Edit Synthetic:gpt-4o-2024-05-13:20240630193131:neutral:7734748d6f tags
+No edit required to txt file Edit Synthetic:gpt-4o-2024-05-13:20240630191554:neutral:60abae1107 tags
+

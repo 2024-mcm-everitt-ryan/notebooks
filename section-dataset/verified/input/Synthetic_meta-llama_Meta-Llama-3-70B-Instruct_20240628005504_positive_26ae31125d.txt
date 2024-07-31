@@ -1,0 +1,30 @@
+Company: Morris PLC
+
+Job Title: Server Support Engineer
+
+About Us:
+Morris PLC is a leading technology firm committed to creating an inclusive and diverse work environment. We believe that our differences make us stronger, and we're dedicated to fostering a culture of belonging.
+
+Job Description:
+We're seeking a highly skilled Server Support Engineer to join our team. As a Server Support Engineer, you will be responsible for ensuring the smooth operation of our server infrastructure, troubleshooting issues, and collaborating with our development team to implement new features.
+
+Responsibilities:
+
+ Monitor and maintain server performance, identifying and resolving issues promptly
+ Collaborate with development teams to deploy new features and applications
+ Develop and maintain technical documentation
+ Participate in on-call rotation for server support
+
+Qualifications and Experience:
+
+ 3+ years of experience in server support or a related field
+ Strong knowledge of Linux/Unix systems and cloud-based infrastructure
+ Excellent problem-solving skills and attention to detail
+ Experience with scripting languages such as Python or PowerShell
+ Bachelor's degree in Computer Science or a related field
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD per year, based on your experience and skills. In addition, we offer a comprehensive benefits package, including health insurance, retirement planning, and paid time off.
+
+Our Commitment to Diversity:
+We highly value the rich experiences of LGBTQ+ individuals and eagerly welcome their applications. Our commitment to diversity prioritises increasing queer representation in our workforce. We aim to build a diverse team and are specifically seeking professionals from the LGBTQ+ community.

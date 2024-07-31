@@ -1,0 +1,33 @@
+Company: White Inc
+
+Job Title: Data Center and Infrastructure Network Engineer for DataNet at Cisco Systems
+
+About Us:
+White Inc is a leading technology solutions provider, committed to delivering innovative and effective infrastructure solutions to our clients. We are an equal opportunities employer, dedicated to creating a diverse and inclusive work environment.
+
+Job Description:
+We are seeking a highly skilled Data Center and Infrastructure Network Engineer to join our team at Cisco Systems. As a Data Center and Infrastructure Network Engineer, you will be responsible for designing, implementing, and maintaining our client's data center infrastructure. You will work closely with our team to ensure seamless integration of our solutions with our client's existing infrastructure.
+
+Responsibilities:
+- Design and implement data center infrastructure solutions that meet our client's needs
+- Configure and maintain network devices, including routers, switches, and firewalls
+- Troubleshoot and resolve network infrastructure issues
+- Collaborate with cross-functional teams to ensure successful project delivery
+- Provide technical support and guidance to junior engineers
+
+Qualifications:
+- Bachelor's degree in Computer Science, Engineering, or a related field
+- 5+ years of experience in data center infrastructure and network engineering
+- Proficient in English, with excellent communication and problem-solving skills
+- CCIE certification in Data Center or Routing and Switching
+
+Benefits:
+- Salary range: $90,000 - $120,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for career growth and professional development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options
+
+If you are a motivated and experienced engineer looking for a new challenge, please submit your application, including your resume and a cover letter.

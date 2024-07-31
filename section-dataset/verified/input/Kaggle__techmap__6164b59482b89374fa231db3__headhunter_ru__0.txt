@@ -1,0 +1,22 @@
+Global Career is a niche international recruitment agency that specializes in IT recruitment with unique experience in technology-related industries. We are looking for an experienced React Developer for the client, which has a very Java-centric (backend) organization and is now looking to build up our front-end capability. The company develops middleware solutions which are used as key infrastructure components for building high-frequency trading systems. The goal is helping to achieve the minimum possible latency and the best performance for the customers.
+
+Technical skills required:
+- React
+- TypeScript
+- Styled-components/emotion
+- Docker
+- Redux/mobx
+- Hooks
+- Websocket
+- Jest
+- React-testing-library
+
+Additional skills:
+- Your English has to be of very high standard, both written and spoken.
+- It would also be a bonus (but not essential) if you were familiar with the following: Docker, Java, ssh/bash, Maven, and git.
+
+Why choose to work with us?
+- Being part of our positive and collaborative work environment.
+- Remote type of work. Our employees work from London, Saint Petersburg, and many other cities all over the world.
+- Daily practice of English.
+- We have a reputation for delivering dynamic, profitable solutions for our top clients.

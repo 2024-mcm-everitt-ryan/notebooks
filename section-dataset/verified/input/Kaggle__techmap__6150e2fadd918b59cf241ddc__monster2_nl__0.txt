@@ -1,0 +1,31 @@
+2021-08-27  
+iSense  
+Net Developer | Azure | Angular | SaaS  
+
+Would you like to work in a young and innovative SaaS company with their office in the city center of Amsterdam? Do you thrive in an environment with a lot of freedom and responsibility? Then this might be your next step!  
+
+ISKE48834  
+Nieuw  
+
+Company profile  
+This company is an international operating SaaS company that, with their software, tries to improve the health and luck of employees worldwide. Every year at least 2 million people use their software in their own language. The employees of this company can be described as a young, enthusiastic, international group of people. They have a lot of freedom and responsibility in their day-to-day activities and they feel proud to work at this company. With this mindset, they have achieved amazing things over the past few years. That's why they are growing a lot and are looking to expand their Development team.  
+
+As a full stack Developer, you will work in a Scrum team with 4-6 other Developers and a Product Owner. You will work with the newest technologies (A.O. NET Core and Angular) and in Azure, since the platform is hosted there. In this role, you will also work with Microservices; experience with this is not a must. Each Scrum team is responsible for a certain part of the SaaS environment. There is no Architect for this platform. Instead, they have an architectural board with a representative of each Scrum team.  
+
+Why do you want to work here?  
+- You will work in a Scrum team with a lot of autonomy.  
+- You work on a fast-growing SaaS platform that is used by a lot of people worldwide.  
+- Employee happiness is very important, so they take good care of their employees.  
+- You will work in a mature, international organization with a lot of young people.  
+
+Job description  
+- Developing new and improving current applications using mostly .NET Core and Angular.  
+- Everything is hosted in Azure.  
+- Delivering quality code using code reviews, test-driven development, and continuous integration.  
+- Come up with suggestions for improvement; your ideas are appreciated.  
+- Share ideas for the architecture in the architecture board.  
+- Contribute to further develop the more 'traditional' application landscape to a full-fledged SaaS environment.  
+
+Requirements  
+- You have a bachelor or a master's degree.  
+- At least 3 years of experience working with .NET Core.

@@ -1,0 +1,26 @@
+Company: Brown-Baker
+
+Job Title: Network Services Manager
+
+Job Description:
+Brown-Baker is seeking a highly skilled Network Services Manager to join our IT team. As a Network Services Manager, you will be responsible for designing, implementing, and maintaining our network infrastructure. You will also oversee the management of network services, ensuring high availability, scalability, and security.
+
+Responsibilities:
+
+ Design and implement network architecture and infrastructure
+ Manage and maintain network services, including routers, switches, and firewalls
+ Ensure network security and compliance with industry standards
+ Troubleshoot network issues and perform root cause analysis
+ Collaborate with cross-functional teams to deliver business objectives
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Information Technology, or related field
+ 5+ years of experience in network administration and management
+ CCNA or CCNP certification is an asset
+ Strong understanding of network protocols, architecture, and security
+ Excellent problem-solving and analytical skills
+ Ability to work in a fast-paced environment
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from USD 80,000 to USD 110,000, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, retirement plan matching, and paid time off.

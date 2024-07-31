@@ -1,0 +1,1 @@
+pip install -q transformers datasets sentencepiece accelerate evaluate hf_transfer huggingface_hub scikit-learn protobuf nltk

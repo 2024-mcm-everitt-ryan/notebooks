@@ -1,0 +1,32 @@
+Company: Moore-Vega
+
+Job Title: Senior Software/QA Test Engineer (VoIP)
+
+About Us:
+Moore-Vega is a leading provider of innovative communication solutions. Our team is dedicated to delivering high-quality products that exceed customer expectations. We are committed to fostering a collaborative and inclusive work environment that values diversity and promotes growth.
+
+Job Description:
+We are seeking an experienced Senior Software/QA Test Engineer to join our VoIP team. As a Senior Software/QA Test Engineer, you will be responsible for developing and executing comprehensive test plans to ensure the quality of our VoIP products.
+
+Responsibilities:
+- Design, develop, and execute test cases and scripts to identify defects and bugs
+- Collaborate with cross-functional teams to identify and prioritize testing needs
+- Develop and maintain automated testing frameworks
+- Analyze and report testing results to improve product quality
+- Stay up-to-date with industry trends and emerging technologies
+
+Qualifications:
+- Bachelor's degree in Computer Science or a related field
+- 5+ years of experience in software testing, preferably in VoIP
+- Strong understanding of software development life cycles and testing methodologies
+- Proficient in programming languages such as Java, Python, or C++
+- Excellent analytical and problem-solving skills
+
+Benefits:
+- Salary range: $90,000 - $120,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options

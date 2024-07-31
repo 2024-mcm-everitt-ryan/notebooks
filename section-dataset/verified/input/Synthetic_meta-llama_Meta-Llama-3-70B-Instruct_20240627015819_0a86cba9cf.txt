@@ -1,0 +1,31 @@
+Company: Zuniga, Schmidt and Medina
+Role: Technical Lead Engineering
+
+About Us:
+Zuniga, Schmidt and Medina is a leading technology firm dedicated to delivering innovative solutions to our clients. We value diversity, equity, and inclusion in the workplace and strive to create an environment where everyone feels valued and respected.
+
+Job Description:
+We are seeking an experienced Technical Lead Engineer to join our team. As a Technical Lead, you will lead the development of cutting-edge software solutions, collaborate with cross-functional teams, and drive technical innovation. 
+
+Responsibilities:
+- Design and develop scalable software architectures
+- Collaborate with engineering teams to identify and prioritize project requirements
+- Develop and implement technical solutions to meet business needs
+- Lead and mentor junior engineers to enhance their skills and knowledge
+- Ensure timely delivery of high-quality software products
+
+Qualifications:
+- 5+ years of experience in software development, with a focus on technical leadership
+- Strong programming skills in languages such as Java, Python, or C++
+- Excellent problem-solving and analytical skills
+- Experience with Agile development methodologies
+- Strong communication and leadership skills
+
+Benefits:
+- Salary range: $100,000 - $130,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible work arrangements, including remote work options

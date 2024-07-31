@@ -1,0 +1,33 @@
+Company Background:
+Roach-Mcgrath, an industry leader in innovative software solutions, stands at the forefront of technology, delivering high-quality products and services to an extensive global clientele. We are dedicated to upholding our values of excellence, integrity, and innovation.
+
+Job Type:
+Full-time
+
+Job Description:
+Roach-Mcgrath is seeking a dedicated and meticulous Quality Assurance Engineer to join our team via iCompass. The ideal candidate will be responsible for ensuring the highest quality standards in our software products and will work closely with our development team to identify and resolve issues.
+
+Responsibilities:
+- Design and execute test plans and test cases
+- Identify, document, and track software defects
+- Collaborate with development teams to resolve issues
+- Perform regression testing to ensure software quality
+- Develop and maintain automated test scripts
+- Participate in the review of requirements, specifications, and technical design documents
+
+Qualifications and Experience:
+- Bachelor's degree in Computer Science, Engineering, or a related field
+- At least 3 years of experience in a Quality Assurance role
+- Previous experience in international companies is preferred
+- Strong knowledge of QA methodologies, tools, and processes
+- Excellent problem-solving skills and attention to detail
+- Ability to navigate social situations and integrate seamlessly into our corporate culture
+
+Perks and Benefits:
+- Salary range: $70,000 - $90,000 per year
+- Opportunities for professional development and career advancement
+- Comprehensive health, dental, and vision insurance
+- Generous paid time off and holiday schedule
+- Collaborative and inclusive work environment
+
+Roach-Mcgrath is an equal opportunity employer, committed to creating an inclusive environment for all employees. We encourage candidates of all backgrounds and experiences to apply.

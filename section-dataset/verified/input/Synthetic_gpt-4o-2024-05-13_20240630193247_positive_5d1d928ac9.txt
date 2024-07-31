@@ -1,0 +1,37 @@
+Company Background:
+Henderson Inc is a leading technology solutions provider with a commitment to innovation and excellence. We pride ourselves on fostering a diverse and inclusive workplace that encourages growth and development for all employees.
+
+Job Title: Senior Windows Administrator
+
+Job Type: Full-time
+
+Job Description:
+Henderson Inc is seeking a talented and experienced Senior Windows Administrator to join our dynamic team. This role is part of our initiative to hire more women and promote gender diversity within our technical departments. The ideal candidate will have strong expertise in managing Windows Server environments and a passion for mentoring junior team members.
+
+Responsibilities:
+- Manage and maintain Windows Server infrastructure, ensuring optimal performance and security.
+- Oversee system updates, patches, and configurations.
+- Monitor system performance and troubleshoot issues as they arise.
+- Collaborate with other IT teams to implement and support various projects.
+- Mentor and provide guidance to junior administrators.
+- Develop and maintain comprehensive documentation for systems and processes.
+
+Qualifications and Experience:
+- Bachelor’s degree in Computer Science, Information Technology, or a related field.
+- Minimum of 5 years of experience as a Windows Administrator.
+- Extensive knowledge of Windows Server OS, Active Directory, and virtualization technologies.
+- Strong problem-solving skills and attention to detail.
+- Excellent verbal and written communication skills.
+- Women will be given special consideration in our selection process.
+
+Perks and Benefits:
+- We are committed to fair and equitable pay practices. The salary for this position ranges from $70,000 to $100,000, based on your experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Generous paid time off and flexible work hours.
+- Opportunities for professional development and career advancement.
+- Supportive and inclusive work environment.
+
+How to Apply:
+Interested candidates are encouraged to submit their resume and cover letter highlighting their qualifications and experience.
+
+Henderson Inc is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.

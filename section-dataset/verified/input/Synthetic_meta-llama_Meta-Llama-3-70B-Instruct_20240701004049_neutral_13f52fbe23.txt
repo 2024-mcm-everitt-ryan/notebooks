@@ -1,0 +1,28 @@
+Job Title: iOS Developer
+Company: Watts-Taylor
+
+We are seeking an experienced iOS Developer to join our team. As an iOS Developer at Watts-Taylor, you will be responsible for designing, developing, and maintaining our iOS applications. You will work closely with our cross-functional teams to identify and prioritize project requirements, and develop innovative solutions to meet our customer needs.
+
+Responsibilities:
+
+ Design, develop, and maintain our iOS applications
+ Collaborate with cross-functional teams to identify and prioritize project requirements
+ Develop innovative solutions to meet customer needs
+ Ensure high-quality, test-driven, and well-documented code
+ Stay up-to-date with the latest iOS development trends and technologies
+
+Qualifications and Experience:
+
+ 3+ years of experience in iOS development
+ Proficiency in Swift, Xcode, and iOS SDK
+ Experience with agile development methodologies
+ Strong problem-solving skills and attention to detail
+ Excellent communication and collaboration skills
+
+Perks and Benefits:
+
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $120,000 USD per year, based on your experience and skills.
+ Comprehensive health insurance
+ Flexible working hours and remote work options
+ Opportunities for professional growth and development
+ A dynamic and inclusive work environment

@@ -1,0 +1,32 @@
+Company: Russell, Smith and Nguyen
+Role: Network Engineer
+
+At Russell, Smith and Nguyen, we are committed to building a diverse and inclusive team. As a Network Engineer, you will play a critical role in designing, implementing, and maintaining our network infrastructure.
+
+Job Description:
+We are seeking a highly skilled Network Engineer to join our team. The ideal candidate will have a strong understanding of network protocols, experience with network design and implementation, and excellent problem-solving skills.
+
+Responsibilities:
+
+- Design and implement network infrastructure to meet business needs
+- Ensure network security and troubleshoot issues as they arise
+- Collaborate with cross-functional teams to optimize network performance
+- Develop and maintain technical documentation of network infrastructure
+
+Qualifications:
+
+- Bachelor's degree in Computer Science or related field
+- 3+ years of experience as a Network Engineer
+- Strong understanding of network protocols (TCP/IP, DNS, DHCP, etc.)
+- Experience with network design and implementation
+- Excellent problem-solving skills
+
+Benefits:
+
+- Salary range: $80,000 - $100,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible work arrangements

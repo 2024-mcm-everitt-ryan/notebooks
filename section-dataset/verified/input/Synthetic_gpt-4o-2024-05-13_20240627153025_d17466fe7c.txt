@@ -1,0 +1,29 @@
+Company: Cochran Group
+
+Role: Advanced Analytics Co-op
+
+Company Background: Cochran Group is a leading firm in the analytics industry, committed to delivering cutting-edge solutions to our clients. Our team is composed of highly skilled professionals dedicated to innovation and excellence.
+
+Job Type: Co-op/Internship
+
+Job Description: 
+Cochran Group is seeking an Advanced Analytics Co-op who will be part of our dynamic and dedicated team. The ideal candidate will be responsible for assisting in data analysis projects, providing insights, and supporting various analytics initiatives.
+
+Responsibilities:
+- Conduct data analysis and generate reports to support business decisions.
+- Assist in the development and maintenance of analytic models.
+- Collaborate with team members to implement analytic solutions.
+- Provide insights and recommendations based on data findings.
+
+Qualifications and Experience Needed:
+- Currently pursuing a degree in Data Science, Statistics, Computer Science, or a related field.
+- Preference for candidates with experience in companies known for robust analytics practices.
+- Must have strong analytical and problem-solving skills.
+- Preference for candidates who can fit into our office culture seamlessly.
+- Must have native proficiency in Norwegian.
+
+Perks and Benefits:
+- Stipend of $1,500 per month.
+- Opportunity to work with a team of industry experts.
+- Professional development and training opportunities.
+- Potential for full-time employment upon successful completion of the co-op term.

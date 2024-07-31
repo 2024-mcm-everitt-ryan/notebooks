@@ -1,0 +1,28 @@
+At Ibarra-Abbott, we're committed to fostering a culture of diversity, equity, and inclusion. As a Principal Release Engineer/Release Manager, you'll play a critical role in leading our release management process, ensuring timely and high-quality software deliveries.
+
+About the Role:
+We're seeking an experienced Principal Release Engineer/Release Manager to join our team. In this role, you'll oversee the planning, coordination, and execution of software releases, working closely with cross-functional teams to ensure seamless delivery.
+
+Responsibilities:
+- Lead the release management process, from planning to post-release activities
+- Collaborate with development teams to ensure timely and high-quality software deliveries
+- Develop and maintain release plans, schedules, and checklists
+- Coordinate with QA, DevOps, and other teams to ensure effective release execution
+- Analyze and resolve release-related issues, identifying opportunities for process improvements
+
+Qualifications:
+- 5+ years of experience in release management or a related field
+- Strong understanding of software development life cycles and release management processes
+- Excellent communication, project management, and problem-solving skills
+- Experience with Agile methodologies and version control systems (e.g., Git)
+
+Benefits:
+- Salary range: $100,000 - $130,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible work arrangements, including remote work options
+
+We're particularly interested in receiving applications from individuals from diverse racial backgrounds, including those from underrepresented groups. We believe that a diverse team enriches our perspectives and contributes to our success.

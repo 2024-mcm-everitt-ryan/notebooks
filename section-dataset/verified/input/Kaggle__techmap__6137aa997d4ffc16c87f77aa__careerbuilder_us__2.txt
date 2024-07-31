@@ -1,0 +1,19 @@
+REQUIRED TO HAVE INVESTMENT BANKING EXPERIENCE.
+
+Overview of business area or project:
+- SME resource will be working on critical projects for Credit IT.
+- They will work on the GUI development of front office trade and position management, PnL management systems.
+- These are time-sensitive projects that are part of regulatory & mandatory program stream.
+- Such critical projects are CUSO Data Strategy, Libor, and ITS Migration project.
+
+Overview of department/team:
+- The day-to-day responsibilities would include design, development, and maintenance of screens in UI in HTML 5, server-side component in C#, and interaction with the middleware components.
+- The candidate would be a part of a global team in NY (US), Raleigh (US), Wroclaw (Poland), and Pune (India), and would directly interact with BAs and other developers in the team.
+- They will directly interact with BAs and other developers in the team and work closely with L1 and L2 support teams to provide dev support for the applications.
+
+Education/Experience:
+- Bachelor's degree in computer science or equivalent training required.
+- 10-12 years of experience required.
+- This position is a .Net/Angular position.
+- Client is looking for a senior Front-End Developer with .Net/Angular.
+- Other language on the backend such as Java or C++.

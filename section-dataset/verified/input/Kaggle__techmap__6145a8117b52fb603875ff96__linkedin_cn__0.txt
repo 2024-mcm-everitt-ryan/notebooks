@@ -1,0 +1,35 @@
+About The Role
+
+The Senior Scientist-IHC automation will be responsible for delivering the IHC automation platform for RabMAb development to deliver best-in-class RabMAbs in a high-throughput method.
+
+Roles & Responsibilities
+
+- Be responsible for the method development of the IHC automation and image analysis platform for the screening of RabMAb clones in early development.
+- Develop and troubleshoot the staining method for RabMAb clones with a high throughput staining system in IHC, using your in-depth technical knowledge.
+- Develop and troubleshoot image analysis algorithms to analyze IHC results, using your in-depth technical knowledge.
+- Report and present results to the program team meeting on a regular basis.
+- Have in-depth understanding of target information, including target function, expression pattern, subcellular location, clinical application prospect.
+- Ability to design, plan, analyze and troubleshoot IHC experiments.
+
+About You
+
+- Have at least 5 years experience in using IHC automation and troubleshooting of IHC.
+- Have at least 2 years of experience in an image analysis platform with experience in writing image analysis algorithms from first principles.
+- Experience in using Artificial Intelligence in pathology tissue recognition would be highly desirable.
+- Have both histologic and pathological education and ability to recognise different tumour and normal human tissues.
+- Experience in mouse pathology is desirable.
+- PhD. degree in biology and PhD. in human or animal medicine preferred.
+- Education abroad highly desirable.
+- Experience in aligned applications to IHC, such WB, ICC, IF, IP and Flow would be desirable.
+- Excellent communication (both English and Chinese).
+- Independent learner and able to adapt to a fast-paced working environment.
+
+If this sounds like you and you’d like to be a part of a fast-paced, growing business with the vision to become the most influential company and best-loved brand in life sciences, please apply now!
+
+Pay and Benefits
+
+In addition to competitive salaries, we offer an attractive and flexible benefits package, a culture focused on well-being and opportunities for growth and development, and a highly flexible working environment.
+
+About Us
+
+An idea conceived in a University of Cambridge laboratory in 1998, Abcam plc ([URL Redacted]) began life as an innovative and entrepreneurial start-up, spearheaded by like-minded individuals who shared a common purpose of providing the scientific community with quality antibody reagents, as well as trustworthy and up-to-date information about their uses and limitations.

@@ -1,0 +1,40 @@
+Company: Daniel, Daniels and Hartman
+
+Role: Virtual Systems Engineer
+
+Company Background:
+Daniel, Daniels and Hartman is a leading systems engineering firm specializing in cutting-edge virtual solutions for diverse clients across the globe. We pride ourselves on fostering an inclusive and dynamic work environment, encouraging innovation and collaboration.
+
+Job Type:
+Full-time, Remote
+
+Job Description and Responsibilities:
+The Virtual Systems Engineer will be responsible for designing, implementing, and maintaining virtual infrastructure for our clients. This role involves collaborating with internal teams to ensure that systems are secure, efficient, and scalable. Key responsibilities include:
+
+- Designing and deploying virtual systems architecture
+- Monitoring and troubleshooting virtual environments
+- Providing technical support and solutions
+- Collaborating with clients to understand their needs and requirements
+- Documenting system configurations and updates
+
+Qualifications and Experience Needed:
+- Bachelor's degree in Computer Science, Information Technology, or related field
+- Minimum of 3 years' experience in systems engineering
+- Proficiency in virtualization technologies (e.g., VMware, Hyper-V)
+- Strong understanding of networking concepts and protocols
+- Excellent problem-solving and communication skills
+- Experience with cloud platforms is a plus
+
+Perks and Benefits:
+- Competitive salary ranging from 60,000 to 90,000 USD, based on experience and skills
+- Comprehensive health, dental, and vision insurance
+- Flexible working hours and remote work opportunities
+- Professional development and training programs
+- Inclusive and supportive work environment
+- Paid parental leave and family support programs
+
+Note on Diversity:
+At Daniel, Daniels and Hartman, we value the rich experiences of LGBTQ+ individuals and warmly welcome their applications. Our goal is to build a team that champions LGBTQ+ voices and experiences.
+
+How to Apply:
+Interested candidates are encouraged to submit their resume and cover letter outlining their qualifications and experience to careers@ddh.com. We look forward to welcoming you to our diverse and dynamic team.

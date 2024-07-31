@@ -1,0 +1,20 @@
+At Vaughan, Thompson and Meadows, we are committed to fostering an inclusive and diverse workplace culture. As a Senior Developer Engineer, you will play a key role in driving our technology forward and contributing to our mission to innovate and grow.
+
+We are seeking a highly skilled and experienced Senior Developer Engineer to join our team. As a Senior Developer Engineer, you will be responsible for designing, developing, and deploying scalable software solutions that meet our business needs. You will work closely with cross-functional teams to identify and prioritize project requirements, develop technical specifications, and ensure timely delivery of high-quality results.
+
+- Design, develop, test, and deploy software applications
+- Collaborate with cross-functional teams to identify and prioritize project requirements
+- Develop technical specifications and ensure timely delivery of high-quality results
+- Participate in code reviews and contribute to the improvement of the overall code quality
+
+To be successful in this role, you should have:
+
+- A bachelor's degree in Computer Science or a related field
+- At least 5 years of experience in software development
+- Proficiency in programming languages such as Java, Python, or C++
+- Experience with cloud-based technologies such as AWS or Azure
+- Strong problem-solving skills and attention to detail
+
+We offer a salary range of $100,000 to $130,000 per year, a comprehensive benefits package including health, dental, and vision insurance, company matched pension, and opportunities for professional growth and development. If you are a motivated and passionate developer looking to make a difference, we encourage you to apply.
+
+At Vaughan, Thompson and Meadows, we are committed to creating a workplace that reflects the diversity of our communities. Our goal is to diversify our team with more African American talent, and we strongly encourage applications from candidates of underrepresented backgrounds.

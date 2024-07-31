@@ -1,0 +1,31 @@
+Company: Flores PLC
+
+Role: Data Scientist
+
+Company Background: Flores PLC is a leading analytics company dedicated to solving complex business problems with data-driven insights. Our diverse team is passionate about innovation and excellence in the field of data science.
+
+Job Type: Full-Time
+
+Job Description: We are seeking a talented Data Scientist to join our growing team. She will be responsible for analyzing large datasets, developing predictive models, and providing actionable insights to support our business objectives. Her empathetic approach and soft-spoken nature will be essential in fostering a collaborative work environment and addressing customer needs.
+
+Responsibilities:
+- Analyze complex datasets to extract meaningful insights and patterns.
+- Develop and implement machine learning models and algorithms.
+- Collaborate with cross-functional teams to understand business requirements and provide data-driven recommendations.
+- Present findings and insights to stakeholders in a clear and concise manner.
+
+Qualifications and Experience:
+- Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, or a related field.
+- Proficiency in programming languages such as Python, R, and SQL.
+- Experience with machine learning frameworks and data visualization tools.
+- Strong analytical and problem-solving skills.
+- Excellent communication skills, with the ability to explain technical concepts to non-technical audiences.
+
+Perks and Benefits:
+- We are committed to fair and equitable pay practices. The salary for this position ranges from USD 70,000 to USD 100,000, based on your experience and skills.
+- Comprehensive health and dental insurance plans.
+- Flexible working hours and remote work options.
+- Professional development opportunities and continuous learning.
+- Generous paid time off and family leave policies.
+
+Flores PLC is an equal opportunity employer. We encourage applications from candidates of all backgrounds and experiences.

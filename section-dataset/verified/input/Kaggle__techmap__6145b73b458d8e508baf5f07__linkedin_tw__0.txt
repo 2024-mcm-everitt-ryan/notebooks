@@ -1,0 +1,49 @@
+Description
+
+The Role
+
+Are you ready to join a team involved with designing exciting products for a great company? We are now looking for a Gaming NPI EE team manager to join our team. Our Electrical Engineering team in Hsinchu focuses on the design of gaming peripherals including keyboards, mice, wheels, joysticks, and more. Our motivation is to help all gamers have the best in-game experience by focusing on user needs: big and small, young and less young, girls and boys, because playing is such an important part of life. Play your way! If you are an EE professional seeking a new challenge and, you too, want to be a part of it, come and tell us your story and your motivations!
+
+Your Contribution
+
+In This Role You Will
+
+- Move fast.
+- Speak up.
+- Decide and own.
+- Drive change.
+- Exceed customer needs.
+
+These are some of the winning behaviors you'll need for success at Logitech.
+
+- Manage a team of senior Electronics Engineers.
+- Work in partnership with senior management and other teams on budget and resource planning.
+- Work with project managers to develop and enforce a supportable delivery schedule based on agreed priorities and business requirements.
+- Lead the technical development to meet cost, schedule, sustainability, and user experience.
+- Perform employee performance reviews, promote professional development.
+- Hire the right talents as required to maintain high technical standards.
+- Help develop and promote engineering processes and best practices and reviews.
+- Define the EE architecture of products for our Logitech G brand: Gaming keyboards, mice, controllers, and steering wheels.
+- Remove roadblocks and provide support to ensure all team members have what they need to succeed.
+- Provide help to team members during peaks of activities.
+- Communicate early and often about issues impacting project development.
+- Work in a Worldwide multi-cultural team.
+- Drive change and out-of-the-box thinking.
+
+Your Skills
+
+Here Are The Skills We Are Looking For
+
+- Master degree in Electrical Engineering or equivalent, 8+ years of experience.
+- 8 years of experience in the consumer electronics industry.
+- IOT, embedded systems, cellphones.
+- ARM-based platforms.
+- Experience in gaming is a plus.
+- Experience in the following technical areas:
+  - PCBA and electrical designs (DC to 1GHz).
+  - EMC (ESD/EFT, EMI).
+  - USB (2.0, PD), SPI, I2C.
+  - RF/wireless systems and antennas (Bluetooth, 2.4GHz, wifi).
+  - Battery management ICs.
+  - DCDC regulators (step-up, step-down, LDO).
+  - LEDs and display driving circuits.

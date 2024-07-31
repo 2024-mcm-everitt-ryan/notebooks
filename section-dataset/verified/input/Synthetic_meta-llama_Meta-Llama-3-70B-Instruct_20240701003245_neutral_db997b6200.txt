@@ -1,0 +1,28 @@
+Company: Hunter, Smith and Cruz
+
+Role: SQL/Oracle Database Administrator
+
+About Us:
+Hunter, Smith and Cruz is a leading technology firm that specializes in providing innovative solutions to businesses worldwide. We are committed to building a diverse and inclusive team of professionals who share our vision of excellence.
+
+Job Description:
+We are seeking a highly skilled SQL/Oracle Database Administrator to join our team. The successful candidate will be responsible for designing, implementing, and maintaining our database systems, ensuring data integrity, and optimizing database performance.
+
+Responsibilities:
+
+ Design, develop, and implement database systems to meet business requirements
+ Ensure data integrity, security, and compliance with industry standards
+ Optimize database performance and troubleshoot issues
+ Collaborate with cross-functional teams to identify and prioritize project requirements
+ Develop and maintain technical documentation
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Information Technology, or related field
+ At least 3 years of experience in SQL/Oracle database administration
+ Strong knowledge of database design principles, data modeling, and database performance tuning
+ Excellent problem-solving skills and attention to detail
+ Ability to work effectively in a team environment
+
+Perks and Benefits:
+We offer a competitive salary ranging from $80,000 to $110,000 USD per year, based on your experience and skills. Our comprehensive benefits package includes medical, dental, and vision insurance, retirement plan matching, and a generous paid time-off policy.

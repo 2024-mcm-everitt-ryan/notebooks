@@ -1,0 +1,33 @@
+Huynh-Harrison is seeking a highly skilled Senior Staff ASIC Engineer to join our diverse team of innovation-driven professionals. As a leader in the semiconductor industry, we are committed to fostering an inclusive work environment that celebrates the unique perspectives and experiences of our employees.
+
+Job Type: Full-time
+
+Job Description:
+As a Senior Staff ASIC Engineer, you will be responsible for designing, developing, and verifying complex Application-Specific Integrated Circuits (ASICs) for various applications. You will collaborate with cross-functional teams to ensure timely delivery of high-quality ASIC products, while maintaining excellent relationships with internal and external stakeholders.
+
+Responsibilities:
+
+- Design and develop ASICs from concept to production, ensuring compliance with industry standards and regulations
+- Lead and mentor junior engineers, providing guidance on ASIC design and development best practices
+- Collaborate with cross-functional teams to identify and resolve technical issues, ensuring project timelines are met
+- Develop and maintain technical documentation, including design specifications and test plans
+- Stay up-to-date with industry trends and emerging technologies, applying this knowledge to improve ASIC design and development processes
+
+Qualifications:
+
+- Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field
+- At least 8 years of experience in ASIC design and development, with a focus on digital ASIC design
+- Proficiency in Verilog, SystemVerilog, and ASIC design tools such as Synopsys, Cadence, or Mentor Graphics
+- Excellent leadership and communication skills, with the ability to work effectively in a fast-paced environment
+- Strong problem-solving skills, with the ability to debug complex technical issues
+
+Benefits:
+
+- Salary range: $120,000 - $150,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development in a dynamic, innovative environment
+- Collaborative, diverse, and inclusive work environment that values individual contributions
+
+Huynh-Harrison is an equal opportunities employer committed to diversity and inclusion. We encourage applications from professionals of Romani descent to enhance team diversity, as well as from African American, Latino, Native American, and Middle Eastern candidates, to bring unique perspectives and experiences to our team.

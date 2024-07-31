@@ -1,0 +1,39 @@
+Company Background:
+
+Garcia and Sons is a leading firm in data analytics, providing innovative solutions to help businesses make data-driven decisions. Our team is dedicated to excellence and continuous improvement, ensuring we stay at the forefront of technological advancements.
+
+Job Type: Full-Time
+
+Role: Senior BI Developer
+
+Job Description:
+
+We are seeking knowledgeable professionals to join our dynamic team as a Senior BI Developer. This role requires commitment to excellence and a strong ability to deliver insightful data solutions. Candidates must demonstrate required skills and competence in relevant functions to support our business intelligence initiatives.
+
+Responsibilities:
+
+- Develop, implement, and optimize business intelligence solutions.
+- Collaborate with cross-functional teams to understand business requirements.
+- Design and maintain efficient data models and reporting systems.
+- Ensure data integrity and quality across all BI platforms.
+- Provide ongoing support and enhancements for existing BI solutions.
+
+Qualifications and Experience Needed:
+
+- Bachelor’s degree in Computer Science, Information Technology, or a related field.
+- Proven experience in BI development and data warehousing.
+- Strong proficiency in SQL, Power BI, and other relevant BI tools.
+- Excellent analytical and problem-solving skills.
+- Effective communication and collaboration abilities.
+- Looking for motivated individuals with a proactive approach to learning and development.
+
+Perks and Benefits:
+
+- Competitive salary ranging from $70,000 to $110,000 annually, based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Flexible working hours and remote work options.
+- Professional development opportunities, including training and certifications.
+- Generous paid time off, including vacation, sick leave, and holidays.
+- Retirement savings plan with company matching contributions.
+
+Garcia and Sons is an equal opportunity employer committed to creating an inclusive work environment. We welcome applications from all qualified individuals.

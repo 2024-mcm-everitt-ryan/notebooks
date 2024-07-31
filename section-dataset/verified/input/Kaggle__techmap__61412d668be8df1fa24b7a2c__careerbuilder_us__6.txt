@@ -1,0 +1,29 @@
+MPI does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, marital status, or based on an individual's status in any group or class protected by applicable federal, state, or local law. MPI encourages applications from minorities, women, the disabled, protected veterans, and all other qualified applicants.
+
+Summary
+The Senior Software Engineer will be responsible for supporting and developing application software, providing constructive code feedback to improve technical abilities, and writing automated tests.
+
+Client Details
+This client is an award-winning company valued at over $70M. They focus on creating and maintaining innovative technologies that can drastically improve workplace productivity and culture.
+
+Description
+- Develop application software, databases, and APIs.
+- Support the development, launch, and roll-out of products.
+- Work closely with our Products teams to forecast any user needs.
+- Provide code reviews and feedback to peers.
+- Involved in database design and application architecture.
+
+Profile
+- 5+ years experience in full stack software engineering.
+- Strong background in full stack application software development.
+- Strong leadership ability.
+- Experience in all or some of the following: .NET, Node.js, and Angular.
+- Cloud hosted applications (Azure experience preferred).
+- Automated testing and development processes.
+- Database design.
+- Architectural design for highly scalable applications.
+
+Job Offer
+- 100% remote opportunity.
+- Competitive salary.
+- Comprehensive benefits package.

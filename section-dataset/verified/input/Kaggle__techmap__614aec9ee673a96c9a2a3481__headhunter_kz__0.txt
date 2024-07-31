@@ -1,0 +1,23 @@
+1. Participate in the implementation of new projects.
+2. Emergency troubleshooting of network failures and timely handling of technical problems.
+3. Remote troubleshooting of production bases and branch offices.
+4. Daily operation and maintenance matters, preparation of weekly reports, and system launches in coordination with various departments, etc.
+5. Familiar with CISCO/Huawei network architecture, very proficient in the configuration of CISCO/Huawei equipment, especially Cisco wireless equipment. Familiar with various network protocols, such as STP, NAT, OSPF, BGP, policy routing, VLAN, etc.
+6. Familiar with various network dedicated line technologies, such as MPLS, SD-WAN, IPsec VPN, SSL VPN, etc.
+7. Proficient in the management and maintenance of Fortinet and ASA firewalls, proficient in various network security technologies, and have experience in the implementation of certain network projects. Have the ability to respond to faults, detect, locate and eliminate, and have the equivalent level of CCNP.
+
+Minimum requirements:
+- University graduates or postgraduates.
+- Those with rich experience or previous work experience in Chinese companies will be preferred.
+- Chinese, Russian, Kazakh, English is better.
+- Proficiency in operating all office software.
+
+Personal qualities:
+- Have affinity, good communication and understanding skills, and teamwork spirit.
+- Love the marketing industry or have management experience.
+- Self-motivated, responsible, able to withstand a certain degree of work pressure, like challenging work.
+
+B2 - C1
+Cisco
+Team player
+Time management

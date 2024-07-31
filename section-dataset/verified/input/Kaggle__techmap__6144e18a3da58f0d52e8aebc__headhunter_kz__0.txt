@@ -1,0 +1,27 @@
+Duties:
+- Follow a user-centered design process, understanding real users, their goals, aptitudes, experiences, needs, and motivation.
+- Cut through the clutter of information and feature requests to deliver customer value while balancing business objectives and technical capabilities.
+- Present ideas to an audience and facilitate creative problem-solving sessions.
+- Strive for elegance and simplicity in design always.
+- Reinforce brand and design best practices using style guides and design systems.
+- Create multiple solutions to a single design problem and iterate to a final design.
+- Contribute to the creation of the product roadmap, providing insights on where user needs are not being met.
+- Work with QA to formulate tests and execute user research efforts (interviews, usability testing, surveys, etc.).
+- Contribute to the larger creative team culture and education through offering product insights and problem-solving across the group.
+- Keep up on current design/industry trends and market conditions.
+
+Requirements:
+- 3+ years designing digital experiences for complex B2C applications.
+- Native or advanced level of Russian, advanced level of English.
+- Demonstrated ability to work on collaborative/distributed teams or independently.
+- Proficiency in a variety of design tools, but we mostly use Figma right now.
+- Amazing attention to detail, while grasping how the details fit together in the larger picture.
+- Familiar with usability best practices and user interface web standards.
+- Ability to work on multiple projects at once in an agile, iterative environment.
+- Ability to use JIRA and Confluence is a plus.
+
+Tools:
+- Atlassian Jira
+- Figma
+- Final Cut
+- Jira

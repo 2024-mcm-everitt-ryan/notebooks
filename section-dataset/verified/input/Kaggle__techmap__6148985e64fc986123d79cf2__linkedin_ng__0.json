@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::6148985e64fc986123d79cf2::linkedin_ng::0",
+    "label_age":false,
+    "analysis_age":null,
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":false,
+    "analysis_masculine":null,
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":false,
+    "analysis_racial":null,
+    "label_sexuality":true,
+    "analysis_sexuality":"Using \"he\/she\" in job descriptions can introduce gender bias by excluding non-binary individuals and implying a binary gender preference, making it more inclusive to use gender-neutral terms like \"they\" or \"the candidate.\"",
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":" 1 to 3 years sales experience. Sound knowledge of the terrain. He\/she must be able to drive manual vehicle with a valid driving license. computer skills. communication skills. slot: 10 (PH, Awka, Owerri, Aba, Otukpo, Calabar, Benin, Ekpoma, Uyo and Aba).",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::6148985e64fc986123d79cf2::linkedin_ng\", \"source\": \"linkedin_ng\", \"country\": \"NG\", \"company\": \"Genesis Group Nigeria Limited\", \"position\": \"Sales Executive\", \"notes\": \"\", \"original\": \"1 to 3 years sales experience.<br>Sound knowledge of the terrain<br>He\/she must be able to drive manual vehicle with a valid driving license.<br>computer skills<br>communication skills<br><br>slot: 10 (PH, Awka, Owerri, Aba, Otukpo, Calabar, Benin, Ekpoma, Uyo and Aba)\"}"
+}

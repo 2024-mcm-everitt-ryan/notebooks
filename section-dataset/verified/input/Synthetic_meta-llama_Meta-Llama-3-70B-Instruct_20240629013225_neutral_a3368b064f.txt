@@ -1,0 +1,34 @@
+Company: Wood PLC
+Role: Database Developer
+
+About Us:
+Wood PLC is a leading technology company dedicated to providing innovative solutions to our clients. We value diversity, equity, and inclusion, and strive to create a workplace where everyone feels welcome and empowered to succeed.
+
+Job Description:
+We are seeking a skilled Database Developer to join our team. As a Database Developer, you will be responsible for designing, developing, and maintaining our database systems. You will work closely with our cross-functional teams to identify and prioritize project requirements, and develop scalable and efficient database solutions.
+
+Responsibilities:
+
+ Design, develop, and maintain database systems to meet business needs
+ Collaborate with cross-functional teams to identify and prioritize project requirements
+ Develop scalable and efficient database solutions
+ Ensure data integrity and security
+ Troubleshoot and resolve database issues
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science or related field
+ At least 3 years of experience in database development
+ Proficiency in database management systems, such as MySQL or PostgreSQL
+ Strong understanding of database design principles and data modeling
+ Excellent problem-solving skills and attention to detail
+
+What We Offer:
+
+ A competitive salary ranging from $70,000 to $100,000 USD, based on your experience and skills
+ A comprehensive benefits package, including medical, dental, and vision insurance
+ A retirement plan with company matching
+ Flexible working hours and remote work options
+ Opportunities for professional growth and development
+
+We welcome candidates of all backgrounds and experiences to apply. We value dedication and perseverance in our employees, and seek candidates who can maintain professionalism under pressure.

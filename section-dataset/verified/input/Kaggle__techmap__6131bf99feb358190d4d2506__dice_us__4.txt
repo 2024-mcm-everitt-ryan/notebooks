@@ -1,0 +1,27 @@
+Job Summary: Oracle Developer
+
+Summary:
+
+Our organization is looking for a top-tier, senior-level Oracle Developer to join our team as a team lead. The selected individual will be responsible for mentoring and providing technical direction to a team of mostly offshore developers in the delivery of technology solutions to our HR business partners. The Feature Lead ensures the systems design and requirements are aligned to achieve the desired business outcomes, and that team practices and coding/quality principles are aligned to achieve the desired technology outcomes.
+
+This individual will lead feature delivery including developing complex ETL/models in a data warehousing environment, involving technical design, development, testing, and migration of Oracle objects (spanning FTE, head count, Leadership reporting). He/She must demonstrate excellent communication skills and critical thinking to ensure all assumptions, constraints, and behaviors are well thought through. This is an individual contributor role who is also a team mentor, at times representing the team in status meetings and works with the Technology Manager to address skills' gaps and opportunities for improvement in team structure.
+
+Responsibilities include (but are not limited to):
+
+- Participate in status meetings to track progress, resolve issues, articulate & mitigate risks, and escalate concerns in a timely manner.
+- Demonstrates the development and implementation of enterprise data quality standards and data protection standards within the space.
+- Sets the bar for team communications and interactions.
+- Is an excellent teammate to peers, influencing them in a positive direction.
+- Acts as a liaison for production activities/issues.
+- Mentors the team on work breakdown and execution.
+- Oversees continuous improvement of database scalability & performance.
+- Uses versioning tools such as GIT/Bitbucket.
+- Sets up jobs using Autosys for automation.
+- Advocates and advances modern application development & deployment: Agile solution delivery, Automated Testing, Continuous Integration, Continuous Delivery.
+- Identifies data anomalies/data patterns in huge data sets.
+
+Required Skills:
+
+- HR Domain experience.
+- 10+ years Data Warehousing experience, including manipulation/transformation of millions of rows with optimal methods.
+- 6+ years experience with traditional relational database management systems (Oracle) and SQL skills, including developing stored procedures, functions, and triggers in a Big Data environment.

@@ -1,0 +1,13 @@
+4-5 years of experience as system support engineer
+
+- BS/BE/BCS/BIT in Computer Science
+- Experience in Dell Vxrail installation and configuration with primary to secondary site stretch clustering knowledge
+- Experience on Veeam installation and configuration on CDP or failover and failback solutions
+- Knowledge on VDI solutions on different scenarios (Microsoft/Citrix/Horizon) etc.
+- Experience in VMware 7.0 installation and configuration on different scenarios (FT/HA/Replication) etc.
+- Strong understanding and implementation skill of virtualization and backup replication software solutions
+- Veeam and VMware certification is a must
+
+Job Location: Karachi
+
+Gender: Male

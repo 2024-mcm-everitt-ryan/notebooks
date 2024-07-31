@@ -1,0 +1,27 @@
+Data Assistant at Weaver-Barton
+
+Company Background:
+Weaver-Barton is a leading data analytics firm dedicated to empowering businesses with data-driven insights. Our team of experts is passionate about harnessing the power of data to drive growth and innovation.
+
+Job Description:
+We are seeking a highly skilled Data Assistant to join our dynamic team. As a Data Assistant, you will play a critical role in supporting our data analysts and scientists in extracting, analyzing, and presenting complex data sets. If you have a keen eye for detail, excellent analytical skills, and a passion for data, we encourage you to apply.
+
+Responsibilities:
+
+ Assist data analysts and scientists in data extraction, analysis, and visualization
+ Develop and maintain databases, data warehouses, and data pipelines
+ Ensure data quality and integrity by identifying and correcting errors
+ Collaborate with cross-functional teams to drive business growth and innovation
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Mathematics, Statistics, or related field
+ 1-2 years of experience in data analysis or related field
+ Proficiency in SQL, Python, and data visualization tools
+ Excellent analytical, problem-solving, and communication skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $50,000 to $70,000 USD, based on your experience and skills. Our comprehensive benefits package includes health insurance, retirement plans, and generous paid time off.
+
+Why Join Us?
+At Weaver-Barton, we believe in fostering a culture of inclusivity and diversity. We are committed to creating a workplace where everyone feels valued, respected, and empowered to succeed. Women are highly encouraged to apply, as we strive to create a gender-balanced team that reflects the diversity of our clients and communities.

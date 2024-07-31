@@ -1,0 +1,32 @@
+Company
+    Frank, Austin and Harris
+    Background
+      Frank, Austin and Harris is a leading law firm specializing in innovative legal solutions. Our team is committed to excellence, integrity, and providing the highest quality service to our clients.
+  Position
+    Title: Software Developer
+    Type: Full-Time
+    Location: Remote
+    Description
+      Frank, Austin and Harris is seeking an experienced software developer to join our dynamic team. The ideal candidate will be self-motivated and possess strong problem-solving skills. He will work closely with our development team to create and maintain software solutions that meet our clients' needs.
+
+  Responsibilities
+    Develop and maintain software applications.
+    Collaborate with team members to define project specifications and timelines.
+    Write clean, scalable code using programming languages such as Java and Python.
+    Participate in code reviews to ensure code quality and adherence to standards.
+    Troubleshoot, debug, and upgrade software applications.
+
+  Qualifications
+    Bachelor’s degree in Computer Science, Engineering, or a related field.
+    Strong proficiency in Java, Python, and other programming languages.
+    Experience with software development tools and methodologies.
+    Excellent problem-solving skills and attention to detail.
+    Ability to work independently and within a team environment.
+    Minimum of 3 years of experience in software development.
+
+  Benefits
+    We are committed to fair and equitable pay practices. The salary for this position ranges from £50,000 to £70,000 annually, based on your experience and skills.
+    Comprehensive health insurance plans.
+    Flexible working hours and remote work options.
+    Professional development opportunities.
+    Generous vacation and PTO policy.

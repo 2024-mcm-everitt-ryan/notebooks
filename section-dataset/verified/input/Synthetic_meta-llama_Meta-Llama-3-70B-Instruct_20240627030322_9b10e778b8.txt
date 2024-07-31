@@ -1,0 +1,33 @@
+Company: Rodriguez-Hale
+Role: Data Management Lead (R&D)
+
+About Us:
+Rodriguez-Hale is a leading research and development firm dedicated to pushing the boundaries of innovation. Our diverse team of experts collaborates to drive progress and make a meaningful impact.
+
+Job Description:
+We are seeking an experienced Data Management Lead to join our R&D department. As a Data Management Lead, you will be responsible for overseeing the collection, analysis, and reporting of data to inform business decisions. You will work closely with cross-functional teams to develop and implement data management strategies, ensuring data quality and integrity.
+
+Responsibilities:
+- Develop and maintain large datasets to drive business insights
+- Collaborate with stakeholders to identify data requirements and develop data management plans
+- Design and implement data visualization tools to communicate findings
+- Ensure data quality and integrity by developing and implementing data validation processes
+- Lead a team of data analysts to achieve project goals
+
+Qualifications:
+- Master's degree in Computer Science, Information Technology, or related field
+- 5+ years of experience in data management, with a focus on R&D
+- Proven track record of developing and implementing data management strategies
+- Excellent analytical and problem-solving skills
+- Strong leadership and communication skills
+
+Benefits:
+- Salary range: $90,000 - $120,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for career growth and professional development
+- Collaborative and dynamic work environment
+- Flexible work arrangements, including remote work options
+
+We are committed to fair and impartial recruitment practices, and welcome applications from diverse candidates.

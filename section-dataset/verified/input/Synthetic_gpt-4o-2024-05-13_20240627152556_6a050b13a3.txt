@@ -1,0 +1,34 @@
+Company: Harrison Group
+
+Role: Développeur
+
+Company Background:
+Harrison Group is a leading global technology firm dedicated to innovation and excellence. With a presence in over 30 countries, we pride ourselves on fostering a diverse and inclusive workplace that values the unique perspectives and contributions of our employees.
+
+Job Description:
+We are currently seeking a talented and passionate Développeur to join our dynamic IT team. In this role, you will be responsible for developing, testing, and maintaining high-quality software solutions that meet our clients' needs.
+
+Responsibilities:
+- Design, develop, and implement software applications.
+- Collaborate with cross-functional teams to define, design, and ship new features.
+- Perform unit testing and code reviews to ensure software quality and performance.
+- Troubleshoot and resolve software defects and issues.
+- Stay updated with emerging technologies and industry trends.
+
+Qualifications and Experience:
+- Bachelor's degree in Computer Science or a related field.
+- Strong proficiency in programming languages such as Java, Python, or C++.
+- Experience with software development frameworks and tools.
+- Excellent problem-solving skills and attention to detail.
+- Strong communication and teamwork abilities.
+
+Perks and Benefits:
+- Salary range: $80,000 - $120,000 per year, based on experience and qualifications.
+- Performance-based bonuses.
+- Comprehensive health, dental, and vision insurance.
+- Generous vacation and paid time off.
+- Opportunities for professional development and career advancement.
+- Flexible working hours and remote work options.
+
+Diversity and Inclusion:
+At Harrison Group, diversity is at the heart of our success. We are committed to creating an inclusive environment that respects and values all individuals. We particularly encourage applications from African American and Asian American candidates, as well as those with Caribbean heritage, to enhance our team's diversity and foster a culture of inclusion. Join us in our mission to build a workplace that reflects the diverse communities we serve.

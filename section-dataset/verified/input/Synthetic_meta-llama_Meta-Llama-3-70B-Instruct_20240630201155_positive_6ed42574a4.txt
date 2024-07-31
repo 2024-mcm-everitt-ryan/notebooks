@@ -1,0 +1,30 @@
+Company: Frazier, Rice and Torres
+
+Job Title: Back End Developer
+
+About Us:
+Frazier, Rice and Torres is a forward-thinking technology company that values diversity and inclusivity. We are committed to creating a workplace where everyone feels valued, respected, and empowered to succeed.
+
+Job Description:
+We are seeking a talented Back End Developer to join our team of innovators. As a Back End Developer at Frazier, Rice and Torres, you will be responsible for designing, developing, and maintaining the server-side logic of our applications. You will work closely with our cross-functional teams to identify and prioritize project requirements, and develop scalable and efficient solutions.
+
+Responsibilities:
+
+ Design and develop server-side logic, database integration, and API connectivity
+ Collaborate with cross-functional teams to identify and prioritize project requirements
+ Develop scalable and efficient solutions that meet our business needs
+ Participate in code reviews and contribute to the improvement of our overall code quality
+ Stay up-to-date with industry trends and emerging technologies
+
+Qualifications and Experience:
+ 3+ years of experience in back-end development with languages such as Java, Python, or Ruby
+ Strong understanding of database management systems and API design
+ Excellent problem-solving skills and attention to detail
+ Ability to work collaboratively in a fast-paced environment
+ Bachelor's degree in Computer Science or a related field
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills. Additionally, we offer a comprehensive benefits package, including medical, dental, and vision insurance, retirement plan matching, and a generous paid time-off policy. We also provide opportunities for professional growth and development, as well as a dynamic and inclusive work environment.
+
+Women in Technology:
+We are dedicated to increasing the representation of women in our technical teams. If you are a talented and motivated female developer, we encourage you to apply. We believe that diverse perspectives and experiences are essential to driving innovation and success.

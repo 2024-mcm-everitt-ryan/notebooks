@@ -1,0 +1,32 @@
+Company Background:
+Freeman, Larson and Avery is a forward-thinking technology firm committed to fostering innovation and excellence. Our diverse team excels in providing cutting-edge solutions to our clients, ensuring top-tier service and groundbreaking results in the tech industry.
+
+Job Type:
+Lead Developer and Senior Fullstack Developer
+
+Job Description:
+We are looking for a Lead Developer and Senior Fullstack Developer who is passionate about creating dynamic, high-quality web applications. This role involves leading a talented team of developers, ensuring code quality, and implementing robust, scalable solutions.
+
+Responsibilities:
+- Lead and mentor a team of developers to deliver high-quality software solutions.
+- Design, develop, and maintain fullstack applications using modern technologies.
+- Conduct code reviews and provide constructive feedback to team members.
+- Collaborate with cross-functional teams to define and design new features.
+- Ensure the performance, quality, and responsiveness of applications.
+
+Qualifications and Experience:
+- Bachelor's degree in Computer Science or a related field.
+- 7+ years of experience in fullstack development.
+- Proficiency in modern frameworks and languages such as React, Node.js, and Python.
+- Strong understanding of database management and cloud technologies.
+- Excellent problem-solving skills and attention to detail.
+
+Perks and Benefits:
+- Salary range: $120,000 - $150,000 per year, with performance-based bonuses.
+- Comprehensive health and wellness programs including medical, dental, and vision insurance.
+- Generous vacation and paid time off policies, including 20 days of PTO and 10 paid holidays.
+- Professional development opportunities and career growth, including access to online courses and certifications.
+- Inclusive and supportive work environment.
+
+Diversity and Inclusion:
+At Freeman, Larson and Avery, we believe that our strength lies in our diverse team. We prioritize hiring African American and Latino candidates to enhance our diversity. Our goal is to create an environment where different racial backgrounds and minority groups are represented and thrive. We encourage applications from these communities to bring unique perspectives and experiences to our dynamic team.

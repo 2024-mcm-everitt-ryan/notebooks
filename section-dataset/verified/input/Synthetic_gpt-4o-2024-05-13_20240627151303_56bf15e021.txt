@@ -1,0 +1,33 @@
+Company: Keller Ltd  
+Role: Oracle Cloud Engineer  
+
+Company Background:  
+Keller Ltd is a leading consultancy firm specializing in providing innovative cloud solutions to a diverse range of clients. Our mission is to leverage cutting-edge technologies to drive business success and growth.
+
+Job Type: Full-time  
+
+Job Description:  
+Keller Ltd is seeking a highly qualified Oracle Cloud Engineer to join our dynamic team. This role requires an expert in Oracle Cloud platforms to assist our clients in optimizing their cloud infrastructure.
+
+Responsibilities:  
+- Design, develop, and implement Oracle Cloud solutions.
+- Collaborate with clients to understand their business needs and provide customized solutions.
+- Perform system analysis to ensure optimal performance of cloud systems.
+- Provide ongoing support and troubleshooting for Oracle Cloud environments.
+- Document processes and ensure compliance with industry standards.
+
+Qualifications and Experience:  
+- Bachelor's degree in Computer Science, Information Technology, or related field.
+- Minimum of 5 years experience with Oracle Cloud.
+- Proficiency in English is essential as all communication is conducted in English.
+- Familiarity with local holidays and traditions is required for effective client collaboration.
+- Must be familiar with business norms in the local region.
+
+Perks and Benefits:  
+- Salary range: $90,000 - $120,000 per year, with performance-based bonuses.
+- Comprehensive health insurance covering medical, dental, and vision.
+- Opportunities for professional development and certification, with a budget of $2,000 per year.
+- Flexible working hours and remote work options.
+- Inclusive and supportive work environment.
+
+Keller Ltd is an equal opportunity employer. We encourage applications from all qualified candidates.

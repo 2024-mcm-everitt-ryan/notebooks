@@ -1,0 +1,30 @@
+Job Title: CRM Developer
+Company: Gray, Jennings and Prince
+
+About Us:
+Gray, Jennings and Prince is a leading consulting firm that helps businesses build strong relationships with their customers. We are committed to delivering exceptional results and providing a supportive work environment for our employees.
+
+Job Description:
+We are seeking a skilled CRM Developer to join our team. As a CRM Developer, you will be responsible for designing, developing, and implementing CRM solutions that meet our clients' needs. You will work closely with our sales team to understand client requirements and develop solutions that drive business growth.
+
+Responsibilities:
+
+ Design, develop, and implement CRM solutions using Microsoft Dynamics 365
+ Collaborate with cross-functional teams to identify and prioritize project requirements
+ Develop and maintain technical documentation of CRM solutions
+ Troubleshoot and resolve CRM-related issues
+ Stay up-to-date with the latest CRM trends and technologies
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science or related field
+ At least 3 years of experience in CRM development
+ Proficiency in Microsoft Dynamics 365 and C#
+ Strong problem-solving skills and attention to detail
+ Excellent communication and collaboration skills
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from USD 80,000 to USD 110,000, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program.
+
+Our Team:
+Our team is looking for individuals who share our values of innovation, teamwork, and customer satisfaction. We are a traditional company with a strong focus on family values and maintaining a conservative work environment. We believe in upholding time-honored traditions and fostering a workplace that reflects these principles.

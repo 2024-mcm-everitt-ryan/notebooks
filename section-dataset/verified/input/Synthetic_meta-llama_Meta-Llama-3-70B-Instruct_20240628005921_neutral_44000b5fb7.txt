@@ -1,0 +1,36 @@
+Company: Washington and Sons
+
+Job Title: Unix System Administrator
+
+About Us:
+Washington and Sons is a leading tech firm dedicated to creating innovative solutions for a diverse range of clients. We proudly foster an inclusive environment that values diversity, equity, and respect for all individuals.
+
+Job Description:
+We are seeking a highly skilled Unix System Administrator to join our team. As a Unix System Administrator, you will be responsible for ensuring the smooth operation of our Unix-based systems, implementing new system solutions, and providing technical support to our team members.
+
+Responsibilities:
+
+ Manage and maintain Unix-based systems, including troubleshooting and resolving technical issues
+ Implement new system solutions to improve efficiency and productivity
+ Provide technical support to team members, including training and guidance on Unix-based systems
+ Collaborate with cross-functional teams to resolve technical issues and improve system performance
+ Develop and maintain technical documentation for Unix-based systems
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science or related field
+ 3+ years of experience as a Unix System Administrator
+ Strong knowledge of Unix operating systems, including shell scripting and system administration
+ Excellent problem-solving skills and attention to detail
+ Ability to work in a fast-paced environment and prioritize tasks effectively
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $120,000 USD, based on your experience and skills. We offer a comprehensive benefits package, including:
+ 20 days of paid annual leave
+ 10 days of paid sick leave
+ Flexible working hours and remote work options
+ Parental leave for all employees
+ Opportunities for professional development and growth
+ A dynamic and inclusive work environment
+
+We encourage applications from candidates who share our values and are committed to creating an inclusive environment.

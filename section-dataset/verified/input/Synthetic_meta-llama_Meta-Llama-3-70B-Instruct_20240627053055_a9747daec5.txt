@@ -1,0 +1,35 @@
+Company: Cooke LLC
+
+Job Title: Network Engineer
+
+About Us:
+Cooke LLC is a leading provider of network solutions, proud of a diverse and talented workforce that reflects the global community we serve. We believe that our diverse perspectives and experiences are essential to driving innovation and excellence.
+
+Job Description:
+We are seeking an experienced Network Engineer to join our team. As a Network Engineer, you will be responsible for designing, implementing, and maintaining our network infrastructure. You will work closely with our team to ensure high availability, scalability, and security of our network systems.
+
+Responsibilities:
+
+- Design and implement network architectures that meet business requirements
+- Configure and maintain network devices, including routers, switches, and firewalls
+- Troubleshoot network issues and perform root cause analysis
+- Collaborate with cross-functional teams to ensure seamless integration of network systems
+- Develop and maintain technical documentation of network infrastructure
+
+Qualifications:
+
+- Bachelor's degree in Computer Science, Networking, or related field
+- 3+ years of experience in network engineering
+- Strong knowledge of network protocols, including TCP/IP, DNS, and DHCP
+- Experience with network management tools, such as Nagios and SolarWinds
+- Excellent problem-solving skills and attention to detail
+
+Benefits:
+
+- Salary range: $80,000 - $100,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible work arrangements, including remote work options

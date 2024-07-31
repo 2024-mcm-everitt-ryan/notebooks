@@ -1,0 +1,38 @@
+Job Description
+
+Requestor name: [Name Redacted]
+
+JD: Collateral Management
+
+Senior Java Developer
+
+Role:
+The role is for an excellent Senior Java Developer to contribute to projects for technical enhancements and functional changes within the Collateral Management IT department. The successful candidate will be working with highly motivated professionals who take pride in the quality of their output and this will be expected to be continued. He/She will be involved in the full Software Development Lifecycle applying Agile methodologies, tools, and techniques. For this role, the candidate is required to have, as equal priorities, very good Java and SQL skills.
+
+Responsibilities:
+The responsibilities of the candidate include the following, though note this is not an exhaustive list:
+- Reviewing functional specifications.
+- Contributing to design the best solution that meets the functional needs while respecting the overall workflow of the existing application.
+- Writing technical specifications.
+- Writing/Amending code that conforms to the best practice standards, both documented and de-facto.
+- Unit testing every produced or changed code.
+- Following the team's Software Configuration Management process with the highest discipline.
+- Supporting User Acceptance Testing, proactively ensuring that the applications and the environments are in an optimal state, and promptly reacting to any issue or difficulty.
+- Ensuring that all pertinent actions are diligently taken during the release process and that the related documentation is available and updated.
+- Escalation of barriers to progress via his/her team leader in a timely and succinct manner.
+- Providing Technical guidance to other developers assisting other team members in design-related discussions.
+- Provide L3 support on a rotation basis covering the London timezone till 9.30 PM IST on normal days and on public holidays.
+
+Project Background:
+The bank is in the process of significantly enhancing its Collateral Management solution. Currently, the solution integrates a number of systems that rely on different technologies i.e., web application, databases, scripts, and third-party products. The bank is committed to satisfying client needs and new demands coming from users and regulators.
+
+Preferred business skills:
+- Good knowledge of financial markets concepts, terminology, and practice, including the collateral management business.
+
+Essential technical skills:
+We expect the successful candidate to have excellent proven knowledge of the following technologies:
+- Java Core, 1.7 or above.
+- Database development, SQL, and Stored Procedures in Sybase or Oracle.
+- Web development, MVC pattern with Struts or similar, JSP, XML, AJAX.
+- Hibernate, Spring framework.
+- JUnit, mocking techniques (e.g., easymock, jmock, mockito).

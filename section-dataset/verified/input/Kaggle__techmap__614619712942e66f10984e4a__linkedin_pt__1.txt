@@ -1,0 +1,23 @@
+10 years' experience working on Data Warehousing, Master Data Management, or Business Intelligence solutions. Strong technical skills and the ability to work with project teams geographically dispersed. Deep knowledge of SaaS business model and end-to-end delivery model, with specific expertise in IM Implementation. Robust experience designing and delivering complex IT solutions. Expert in Data Warehousing, BI, and Master Data Management solutions including experience and expertise in several leading technologies in those respective domains (example: SQL Server, Snowflake, Qlik, Power BI, Tableau, MicroStrategy, Reltio MDM, Informatica MDM, Tibco EBX). Demonstrated success building effective relationships with a broad spectrum of internal and external stakeholders, including senior technical leaders and associates across different functions. Thrives in a fast-paced environment and able to match stakeholder expectations to urgently deliver exceptional results. Excellent communications, problem-solving, and technical skills. Experience in global roles. Understanding of cultural sensitivities and time zones required. Flexible, periodic travel for internal and client meetings.
+
+Skills & Experience Nice To Have / Desired:
+- Snowflake (DWH)
+- Reltio (MDM)
+- Informatica (ETL)
+- Mulesoft (Integration)
+- Data Visualization tool (Qlik, PowerBI)
+
+Strong Expertise in mainstream base technologies:
+- Big Data
+- NoSQL
+- Graph DB
+- Cassandra
+- Spark
+- Hadoop
+- AWS
+- Amazon S3
+- RedShift
+
+Knowledge of Healthcare/Life Sciences Industry a strong plus. Knowledge / project experience using Life sciences data feeds a strong plus (One key, MIDAS, national / subnational sales data).
+
+At IQVIA, we believe in pushing the boundaries of human science and data science to make the biggest impact possible to help our customers create a healthier world. The advanced analytics, technology solutions, and contract research services we provide to the life sciences industry are made possible by our 70,000 employees around the world who apply their insight, curiosity, and intellectual courage every step of the way. Learn more at [URL Redacted].

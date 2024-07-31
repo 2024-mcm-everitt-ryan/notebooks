@@ -1,0 +1,31 @@
+Company Background:
+Young PLC is a dynamic and innovative company dedicated to leveraging cutting-edge technology to deliver exceptional solutions. We prioritize diversity and inclusion, striving to create a multicultural environment where all voices are heard and valued.
+
+Role: Test Automation Lead
+
+Job Type: Full-time
+
+Job Description:
+We are seeking a highly skilled Test Automation Lead to join our team. This individual will play a crucial role in developing and maintaining our automated testing infrastructure, ensuring the highest quality of our software products. 
+
+Responsibilities:
+- Lead the test automation team in designing, developing, and executing automated tests.
+- Collaborate with the development team to identify and resolve issues.
+- Develop and maintain test plans, test cases, and test scripts.
+- Ensure automation frameworks are scalable and robust.
+- Continuously improve testing processes and strategies.
+
+Qualifications and Experience:
+- Bachelor’s degree in Computer Science, Engineering, or related field.
+- 5+ years of experience in software testing and test automation.
+- Proficiency in automation tools such as Selenium, JUnit, or similar.
+- Strong analytical and problem-solving skills.
+- Excellent communication and leadership abilities.
+- We welcome applications from candidates of Basque heritage and are committed to increasing our representation of Asian and Pacific Islander individuals.
+
+Perks and Benefits:
+- Salary range: $90,000 - $120,000 per year and performance bonuses.
+- Comprehensive health and dental insurance.
+- Opportunities for professional development and career growth.
+- Inclusive and diverse work environment.
+- Flexible working hours and remote work options.

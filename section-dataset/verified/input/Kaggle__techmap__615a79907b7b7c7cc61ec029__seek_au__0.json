@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::615a79907b7b7c7cc61ec029::seek_au::0",
+    "label_age":false,
+    "analysis_age":null,
+    "label_disability":true,
+    "analysis_disability":"The requirement for candidates to be \"physically fit\" and have \"stamina and the ability to lift heavy loads\" may inadvertently exclude individuals with certain physical disabilities or limitations, even if they are capable of performing the essential functions of the job with reasonable accommodations.",
+    "label_masculine":true,
+    "analysis_masculine":"Although the phrase \"We are an Equal Opportunity employer, and we encourage applications from women\" is stated, the use of masculine-coded language such as \"stamina\" and \"heavy loads\" may subtly favour male candidates by emphasising physical strength and endurance typically associated with traditional male gender roles.",
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":false,
+    "analysis_racial":null,
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":" 3 MONTH CONTRACT. IMMEDIATE START. RESIDENTIAL TO PORT HEDLAND. About the Role. My client is seeking labourers to joining their team for a civil project. For this role you will need to be physically fit and have a Driver's License and white card. Skills & Experience Required. Cleaning up worksites from debris and machinery. have stamina and the ability to lift heavy loads. Follow instructions from supervisors to perform manual labour tasks (e. g., digging, spotting). About WorkPac. Work. Pac is Australia's leading, privately owned recruitment provider to the mining, construction, engineering, light industrial and healthcare sectors. We are proud to partner with some of the country's leading companies to deliver rewarding permanent, contract, temporary and traineeship recruitment opportunities. How to Apply. Click on the apply button and complete the application. Barb Hines. Recruitment Co-ordinator. Job No: 764J202175535. At Work. Pac, we recognise we are strengthened by diversity. We are committed to providing a work environment in which everyone is included, treated fairly and with respect. We are an Equal Opportunity employer, and we encourage applications from women.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::615a79907b7b7c7cc61ec029::seek_au\", \"source\": \"seek_au\", \"country\": \"AU\", \"company\": \"WorkPac - WA\", \"position\": \"LABOURERS\", \"notes\": \"\", \"original\": \"<p>\\u2022 3 MONTH CONTRACT<br \/>\\u2022 IMMEDIATE START\\u00a0<br \/>\\u2022 RESIDENTIAL TO PORT HEDLAND<\/p><p><br \/><strong>About the Role<\/strong><br \/>My client is seeking labourers to joining their team for a civil project. For this role you will need to be physically fit and have a Driver's License and white card.<\/p><p>\\u00a0<\/p><p><strong>Skills &amp; Experience Required<\/strong><br \/>\\u2022 Cleaning up worksites from debris and machinery<br \/>\\u2022 have stamina and the ability to lift heavy loads.<br \/>\\u2022 Follow instructions from supervisors to perform manual labour tasks (e.g., digging, spotting)<\/p><p><br \/><strong>About WorkPac<\/strong><br \/>WorkPac is Australia's leading, privately owned recruitment provider to the mining, construction, engineering, light industrial and healthcare sectors. We are proud to partner with some of the country's leading companies to deliver rewarding permanent, contract, temporary and traineeship recruitment opportunities<\/p><p><br \/><strong>How to Apply<\/strong><br \/>Click on the apply button and complete the application.<br \/>Barb Hines - Recruitment Co-ordinator<br \/>Job No: 764J202175535<\/p><p>At WorkPac, we recognise we are strengthened by diversity. We are committed to providing a work environment in which everyone is included, treated fairly and with respect. We are an Equal Opportunity employer, and we encourage applications from women<\/p><p>\\u00a0<\/p>\"}"
+}

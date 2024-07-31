@@ -1,0 +1,34 @@
+Company: Harrison, Kline and May
+
+Job Title:.NET Developer
+
+About Us:
+Harrison, Kline and May is a leading technology firm dedicated to creating innovative solutions that empower individuals and businesses. We pride ourselves on our commitment to diversity, equity, and inclusion, and we're excited to expand our team with talented individuals who share our vision.
+
+Job Description:
+We're seeking a skilled.NET Developer to join our team of experts in developing cutting-edge software applications. As a.NET Developer, you will be responsible for designing, developing, and maintaining our suite of products, collaborating with cross-functional teams, and contributing to the growth of our company.
+
+Responsibilities:
+
+ Design, develop, and test.NET applications
+ Collaborate with teams to identify and prioritize project requirements
+ Develop and maintain technical documentation
+ Participate in code reviews and ensure high-quality code delivery
+
+Qualifications and Experience:
+
+ 3+ years of experience in.NET development
+ Strong knowledge of C#, ASP.NET, and.NET Core
+ Excellent problem-solving skills and attention to detail
+ Bachelor's degree in Computer Science or related field
+
+Perks and Benefits:
+
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD per year, based on your experience and skills.
+ Comprehensive health and dental benefits
+ Flexible working hours and remote work options
+ Opportunities for professional growth and development
+ A dynamic and inclusive work environment that values diversity and celebrates individuality
+
+About Our Commitment to Diversity and Inclusion:
+At Harrison, Kline and May, we believe that a diverse and inclusive workplace is essential to driving innovation and excellence. We're dedicated to creating opportunities for women to thrive in technology and leadership roles. Our company values the contributions of female employees and is committed to empowering women through targeted hiring practices and professional development opportunities.

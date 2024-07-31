@@ -1,0 +1,24 @@
+ETL Developer at Clark, Jones and Cannon
+
+Company Background:
+Clark, Jones and Cannon is a leading data analytics firm dedicated to helping businesses make informed decisions. We believe that data has the power to drive innovation and growth, and we're committed to providing our clients with the insights they need to succeed.
+
+Job Description:
+We are seeking an experienced ETL Developer to join our team. As an ETL Developer, you will be responsible for designing, developing, and maintaining data pipelines that meet the needs of our clients. You will work closely with our data analysts and engineers to ensure seamless data integration and processing.
+
+Responsibilities:
+
+ Design, develop, and maintain ETL workflows using various tools and technologies
+ Coordinate with multiple departments to ensure data requirements are met
+ Develop and implement data quality control processes
+ Collaborate with data analysts to identify and resolve data discrepancies
+
+Qualifications and Experience:
+
+ 3+ years of experience in ETL development
+ Strong knowledge of data integration patterns and best practices
+ Proficiency in at least one ETL tool (e.g. Informatica, Talend, Microsoft SSIS)
+ Excellent problem-solving and communication skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program.

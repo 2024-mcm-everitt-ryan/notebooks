@@ -1,0 +1,32 @@
+Company: Allen, Powell and Cummings
+Role: Storage Engineer
+  
+Company Background:
+Allen, Powell and Cummings is a leading IT consulting firm specializing in data storage solutions. We pride ourselves on delivering innovative and efficient storage solutions to our diverse clientele.
+  
+Job Type: Full-Time
+  
+Job Description:
+We are looking for a dedicated Storage Engineer to join our team. This role involves designing, implementing, and managing storage solutions that support our clients' data needs. The ideal candidate will be proactive, detail-oriented, and capable of working independently.
+  
+  Responsibilities:
+    - Design, implement, and manage storage solutions.
+    - Monitor and optimize storage performance.
+    - Ensure data security and compliance with industry standards.
+    - Collaborate with other IT teams to integrate storage solutions with broader infrastructure.
+    - Troubleshoot and resolve storage-related issues.
+
+  Qualifications:
+    - Bachelor’s degree in Computer Science, Information Technology, or a related field.
+    - 3+ years of experience in storage engineering or related roles.
+    - Proficiency with storage technologies such as SAN, NAS, and cloud storage solutions.
+    - Strong problem-solving skills and attention to detail.
+    - Excellent communication and collaboration skills.
+
+  
+Perks and Benefits:
+    - Competitive salary ranging from £50,000 to £70,000, based on experience and skills.
+    - Comprehensive health, dental, and vision insurance.
+    - Flexible working hours and remote work options.
+    - Professional development opportunities.
+    - Generous paid time off and holidays.

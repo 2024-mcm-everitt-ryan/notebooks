@@ -1,0 +1,43 @@
+Information about the position
+
+Job description, responsibilities and duties
+
+Mobility Network Engineer  
+Brno, Czech Republic
+
+We are a multicultural diverse team of network engineers who are currently looking for new colleagues & friends. We would like to meet motivated candidates who want to become network professionals and further develop their mobility and IP networking skills. 
+
+Are you a fresh graduate seeking experience or a skilled veteran who demands new challenges? Are you a flexible team player? Are you willing to go an extra mile above your normal duties to resolve a problem? Are you able to learn quickly, follow procedures and come up with innovative ideas? Are you ready to work for the World's TOP 14 most valuable brand and get involved in building a network for over 180 million customers? 
+
+YES? Then keep reading!
+
+What would you do:
+- Performing various network configuration changes in the Mobile Network.
+- Working with cutting edge technologies including 5G NR.
+- Remote provisioning of new Cell Sites and Carriers to enhance the network capabilities.
+- Decommissioning of old networks (3G).
+
+How would you do it:
+- Completing our extensive training for newcomers and shadowing senior colleagues to the point of fully trained and independent network engineer.
+- Executing network changes while following our internal processes and technical documentation.
+- Performing pre-checks and post-checks to ensure network reliability.
+- Suggesting improvements to the processes.
+- Reporting errors in the procedures.
+- Cooperating with your Brno and US-based colleagues.
+- Progressing your knowledge and skills via internal trainings to support new technologies and projects.
+
+When would you do it:
+Disruptive network changes are performed in the maintenance window, which is a 6-hour interval starting morning from 6:00, 7:00, and 9:00 Brno time, depending on the US time zone you remotely work in. There are some projects that require you to work during US Day hours (starting 14:00 Brno time) and some may also require night shift work. This is a full-time job, 40 hours per week.
+
+Employee perks, benefits
+
+What should you know:
+- IP experience.
+- CCNA level knowledge.
+- Mobile networks: understanding of architecture and basic functionality.
+- Linux/UNIX: practical experience preferred.
+- Working in a team.
+- Ability to quickly learn from the senior team members.
+- Share and discuss ideas with the team.
+- Ability to work independently when needed.
+- Train new team members once you are fully trained and experienced.

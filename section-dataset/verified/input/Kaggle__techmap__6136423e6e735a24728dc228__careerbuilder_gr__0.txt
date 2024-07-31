@@ -1,0 +1,29 @@
+(Junior R&D Hardware Electronics Engineer)
+
+Our company is a subsidiary of a large German-based multinational company that is a global leader in the development and production of switching power supplies. The Greek subsidiary is a pure R&D department working as an integrated part of the mother company R&D in order to participate in the whole development phase (from the original concept until the release to production) of state-of-the-art industrial power supplies. We are looking for young motivated electrical/electronics engineers with an interest in analogue/hardware electronics development who wish to become experts and work in the field of power electronics.
+
+Overall objective of the position:
+Develop state-of-the-art power electronics products that will allow the mother company to remain a leader in technological advancements of the power supply market.
+
+Main objectives of the position (expected after an internal training period):
+- Ensure that assigned projects are completed strictly within time-schedule, with minimum development and manufacturing costs, with high quality and fully compliant to agreed-upon parameters as per requirements.
+- Ensure that development, testing and optimization of the power electronics products is conducted according to the specifications and company guidelines.
+- Establish a fully functional communication between interfaces with other affected functional areas of the company, such as marketing, manufacturing, quality, etc.
+- Provide full support to manufacturing and quality assurance in the event of problems with the products released in series production.
+- Verify that the required standards, procedures and norms are adhered to.
+
+Key tasks:
+- Participate in the technological development of the products in the area of responsibility.
+- Assist in the development of new product specifications.
+- Assist in the coordination of order execution for engineering projects, scheduling internal and external resources, coordinating with customers and vendors.
+- Develop and optimize circuit concepts and sizing according to specification.
+- Work closely and coordinate with other affected functional areas of the company.
+- Provide technical support and oversee material procurement, prototyping, simulation and testing of developed projects.
+- Assist in qualification of prototypes with internal and external agencies.
+- Rework or release solutions for series production.
+- Create required technical documentation in accordance with company guidelines.
+- Support the production and quality department in case of problems in series production.
+
+Required skills/criteria:
+a) Mandatory Technical requirements:
+- 5-year electrical engineering studies in the field of analogue/power electronics or comparable (polytechnic school electrical/electronics engineering studies).

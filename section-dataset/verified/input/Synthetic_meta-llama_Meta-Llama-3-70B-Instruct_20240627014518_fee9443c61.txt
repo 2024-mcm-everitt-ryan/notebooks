@@ -1,0 +1,32 @@
+Company: Morris, Thompson and Wright
+
+Job Title: Lead Security Program Manager, Security Engineering, Microsoft Trustworthy Computing
+
+About Us:
+Morris, Thompson and Wright is a leading technology consulting firm dedicated to delivering innovative solutions to our clients. We are committed to fostering a culture of openness, inclusivity, and respect for all individuals.
+
+Job Description:
+We are seeking an experienced Lead Security Program Manager to join our Security Engineering team. As a Lead Security Program Manager, you will be responsible for managing and implementing comprehensive security programs to protect our clients' sensitive data and systems.
+
+Responsibilities:
+- Develop and maintain security programs aligned with industry standards and best practices
+- Collaborate with cross-functional teams to identify and mitigate security risks
+- Provide guidance and oversight to ensure compliance with security policies and procedures
+- Support the development of security awareness training programs for employees
+- Stay up-to-date with emerging security trends and threats, and recommend proactive measures to address them
+
+Qualifications:
+- 8+ years of experience in security program management, preferably in a cloud-based environment
+- Strong knowledge of security frameworks, regulations, and industry standards (e.g., NIST, ISO 27001)
+- Excellent communication, leadership, and project management skills
+- Ability to work effectively in a fast-paced environment and adapt to changing priorities
+- Bachelor's degree in Computer Science, Information Assurance, or a related field
+
+Benefits:
+- Salary range: $120,000 - $150,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible work arrangements, including remote work options

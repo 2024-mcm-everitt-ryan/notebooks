@@ -1,0 +1,29 @@
+Company: Weiss, Robinson and Hobbs
+Role: Java Developer
+
+We are seeking an experienced Java Developer to join our dynamic team. As a Java Developer, you will be responsible for designing, developing, and delivering high-quality software solutions. You will work closely with our cross-functional teams to identify and prioritize project requirements, develop robust and scalable code, and ensure timely delivery of projects.
+
+Responsibilities:
+
+ Design, develop, and test Java-based applications
+ Collaborate with team members to identify and prioritize project requirements
+ Develop robust and scalable code that meets our high standards
+ Participate in code reviews and contribute to the improvement of the codebase
+ Troubleshoot and resolve technical issues
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science or related field
+ At least 3 years of experience in Java development
+ Strong analytical and problem-solving skills
+ Excellent communication and teamwork skills
+ Experience with Agile development methodologies
+ Strong understanding of computer science fundamentals
+
+Perks and Benefits:
+
+ We are committed to fair and equitable pay practices. The salary for this position ranges from USD 80,000 to USD 120,000, based on your experience and skills.
+ Opportunities for career growth and professional development
+ Collaborative and dynamic work environment
+ Flexible working hours and remote work options
+ Comprehensive health insurance and retirement plans

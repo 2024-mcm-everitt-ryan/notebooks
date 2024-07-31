@@ -1,0 +1,32 @@
+Company: Johnson Group
+
+Job Title: Technical Lead Engineering
+
+About Us:
+The Johnson Group is a leading technology firm dedicated to driving innovation and excellence in the industry. We pride ourselves on our diverse and inclusive work environment, where everyone has the opportunity to grow and thrive.
+
+Job Description:
+We are seeking a highly skilled Technical Lead Engineer to join our team. As a Technical Lead, you will be responsible for leading the development and implementation of cutting-edge engineering projects. You will work closely with cross-functional teams to design, develop, and deploy innovative solutions that meet our clients' needs.
+
+Responsibilities:
+- Lead and mentor a team of engineers to deliver high-quality projects on time and within budget
+- Collaborate with stakeholders to identify project requirements and develop solutions
+- Design, develop, and deploy engineering projects using the latest technologies and methodologies
+- Ensure compliance with industry standards and best practices
+
+Qualifications:
+- Bachelor's degree in Computer Science, Engineering, or a related field
+- 5+ years of experience in a technical lead or engineering role
+- Strong knowledge of programming languages, including Java and Python
+- Excellent leadership, communication, and problem-solving skills
+
+What We Offer:
+- Salary range: $100,000 - $130,000 per year
+- Comprehensive health, dental, and vision insurance
+- Retirement plan with company match
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Recognition and rewards for outstanding performance
+
+We value diversity and welcome candidates from Hispanic and Latino communities, as well as other underrepresented racial groups. We are committed to creating an inclusive environment where everyone can thrive and reach their full potential.

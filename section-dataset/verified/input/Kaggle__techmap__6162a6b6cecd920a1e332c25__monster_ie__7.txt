@@ -1,0 +1,32 @@
+Description
+
+The Forcepoint Security Labs team is looking for a talented security researcher to join our growing front-line team. This is the think-tank research group behind Forcepoint. You will be working on detecting, intercepting, and performing detailed analysis of the latest attacks, threats, and malware. You get to work with some of the most advanced tools ranging from state-of-the-art artificial intelligence platforms to live threat intelligence correlation. We are looking for an enthusiastic self-starter with a passion for discovering the threats across all stages of the attack life cycle.
+
+What you will be doing:
+- Work on security research projects in the areas of web, email, file, and data security.
+- Develop prototypes for research conducted and build tools as required.
+- Manage customer submissions and questions in a timely and effective manner.
+- Knowledge sharing internally and externally through blogs, security conferences, etc.
+- Network packet capture (PCAP) analysis.
+- Analyse, translate, and document code behaviour.
+- Reverse engineer malicious code (virus and worms).
+- Participate in research projects with other team members and associates.
+- Knowledge-sharing (internally and externally) through blogs, visiting security conferences, and customer events.
+
+Experience you can bring:
+- Previous experience in the security space with a good understanding of the security threat landscape.
+- Strong knowledge of scripting/programming languages with an understanding of what the scripts are doing.
+- Familiarity with current exploit kits.
+- Prior experience dealing with Advanced Persistent Threats.
+- Knowledge of OS concepts, protocols like TCP/IP, SSL, DNS, HTTP, SMTP, etc.
+- Experience in some of the following: web security, email security, vulnerabilities and exploitation, network and host security, sandbox security, 0-day threats, APTs.
+- Experience in understanding and creating network traffic signatures is a plus.
+- Knowledge of software development practices and methodologies.
+- In-depth understanding of the underlying technologies within operating systems.
+- Complex Event Processing knowledge is a bonus.
+- Excellent problem-solving skills, flexibility, and adaptability to changing priorities.
+- Ability to work under pressure and to meet tight deadlines.
+- Strong written and verbal communication skills.
+- Ability to work on individual projects as well as part of a team.
+
+This is a great opportunity to work on cutting-edge security research projects with a talented team of researchers and see the impact of your work on Forcepoint's products.

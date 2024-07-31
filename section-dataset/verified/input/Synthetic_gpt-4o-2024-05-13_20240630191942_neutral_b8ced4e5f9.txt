@@ -1,0 +1,37 @@
+Company Background:
+Baker-Branch is a leading logistics and supply chain company dedicated to providing innovative solutions to our clients. We are committed to fostering a diverse and inclusive workplace where everyone feels valued and respected.
+
+Job Type:
+Full-time Testing Lead
+
+Job Description:
+We are seeking a detail-oriented and experienced Testing Lead to join our dynamic team. The ideal candidate will be responsible for overseeing the testing processes, ensuring the quality of our software products, and leading a team of testers. This role requires strong analytical skills and the ability to work collaboratively across departments.
+
+Responsibilities:
+- Lead and manage the testing team, providing guidance and support.
+- Develop and implement testing strategies and plans.
+- Coordinate with development and product teams to understand requirements and ensure comprehensive test coverage.
+- Conduct regular performance reviews and provide training and development opportunities for team members.
+- Monitor and report on testing progress and quality metrics.
+- Identify and resolve any issues or bugs in a timely manner.
+
+Qualifications and Experience:
+- Bachelor's degree in Computer Science, Information Technology, or related field.
+- Minimum of 5 years of experience in software testing, with at least 2 years in a lead role.
+- Proficiency in data analysis and test automation tools.
+- Strong understanding of software development life cycle (SDLC).
+- Excellent communication and interpersonal skills.
+- Ability to work collaboratively in a team environment.
+
+Perks and Benefits:
+- Competitive salary ranging from 80,000 to 100,000 USD per annum, based on experience and skills.
+- Comprehensive health and dental insurance.
+- Opportunities for professional development and career advancement.
+- Flexible working hours and remote work options.
+- Inclusive and supportive work culture that values diversity.
+
+How to Apply:
+We encourage applications from underrepresented groups. If you are passionate about quality assurance and meet the qualifications listed above, please submit your resume and cover letter to careers@baker-branch.com.
+
+Equal Opportunity Employer:
+Diversity and inclusion are core principles of our organisation. We welcome applications from all qualified candidates without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, disability, or veteran status.

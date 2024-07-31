@@ -1,0 +1,36 @@
+Company: Wilson, Kim and Carroll
+
+Job Title: Senior Windows Administrator
+
+Job Type: Full-time
+
+About Us:
+Wilson, Kim and Carroll is a leading technology firm committed to creating a diverse and inclusive workplace. We believe that a diverse team is a stronger team, and we're dedicated to fostering an environment where everyone can thrive.
+
+Job Description:
+We're seeking an experienced Senior Windows Administrator to join our IT team. As a Senior Windows Administrator, you will be responsible for managing and maintaining our Windows-based infrastructure, ensuring high availability, security, and performance. You will work closely with our team to design, implement, and support our Windows environment, and provide technical guidance and training to junior team members.
+
+Responsibilities:
+
+ Manage and maintain our Windows-based infrastructure, including servers, workstations, and applications
+ Ensure high availability, security, and performance of our Windows environment
+ Design, implement, and support new Windows-based solutions
+ Provide technical guidance and training to junior team members
+ Collaborate with cross-functional teams to resolve technical issues and implement new solutions
+
+Qualifications and Experience:
+ 5+ years of experience in Windows administration
+ Strong knowledge of Windows Server, Active Directory, and Windows troubleshooting
+ Excellent problem-solving and analytical skills
+ Ability to work in a fast-paced environment and prioritize multiple tasks
+ Bachelor's degree in Computer Science or related field
+
+What We Offer:
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $90,000 to $120,000 USD, based on your experience and skills.
+ Comprehensive health and dental benefits
+ 401(k) matching program
+ Flexible work hours and remote work options
+ Opportunities for professional growth and development
+ A supportive and inclusive work environment
+
+We are dedicated to increasing the presence of LGBTQ+ individuals in our workforce and creating opportunities for LGBTQ+ professionals to succeed in our team. We believe in the power of diverse voices, especially those from the LGBTQ+ community, and are looking for candidates who embrace diversity and can bring LGBTQ+ perspectives to our team.

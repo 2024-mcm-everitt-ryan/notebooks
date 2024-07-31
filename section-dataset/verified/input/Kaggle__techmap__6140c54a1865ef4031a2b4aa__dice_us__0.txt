@@ -1,0 +1,19 @@
+10-12 years of experience with managing production deployment and production level MLOPS applications on AWS.
+
+Experience in managing and administrating DATAIKU platform on AWS.
+
+Analyze and investigate various kinds of production issues on the platform.
+
+Should have experience in applying patches, code migration from lower environment to higher environment, user configurations.
+
+Develop custom Python or R-based plugins in collaboration with Solutions, R&D, and Product teams, to enhance Dataiku functionality.
+
+2-10 years of experience with Client tools (e.g., Python, R).
+
+2-10 years of experience in deploying Machine Learning models.
+
+Familiarity with data visualization in Python, R, JavaScript.
+
+Understanding of underlying data systems such as Cloud architectures, Hadoop, or SQL.
+
+Experience with Customer-facing roles with good Oral & Communication.

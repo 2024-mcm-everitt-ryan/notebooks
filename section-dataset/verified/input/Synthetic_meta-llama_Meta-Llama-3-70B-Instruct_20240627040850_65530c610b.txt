@@ -1,0 +1,29 @@
+Company: Smith PLC
+
+Job Title: Manager, eCommerce Engineering
+
+About Us:
+Smith PLC is a leading eCommerce solutions provider, dedicated to delivering innovative and scalable online shopping experiences. We are committed to fostering a diverse and inclusive work environment that celebrates individuality and promotes collaboration.
+
+Job Description:
+We are seeking an experienced Manager, eCommerce Engineering to lead our team of engineers in developing and maintaining our eCommerce platform. The ideal candidate will have a strong technical background, excellent leadership skills, and a passion for delivering high-quality solutions.
+
+Responsibilities:
+- Lead a team of engineers in designing, developing, and deploying eCommerce solutions
+- Collaborate with cross-functional teams to identify and prioritize project requirements
+- Develop and implement technical strategies to improve platform performance and scalability
+- Ensure compliance with industry standards and best practices
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- 5+ years of experience in eCommerce engineering, with at least 2 years in a leadership role
+- Proficient in Java, JavaScript, and HTML/CSS
+- Excellent communication and project management skills
+- Ability to work in a fast-paced environment and adapt to changing priorities
+
+What We Offer:
+- Salary range: $90,000 - $120,000 per year
+- Comprehensive benefits package including health, dental, and vision insurance, company matched pension, and paid time off
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Equal opportunities for all candidates are provided, and we welcome applications from diverse backgrounds.

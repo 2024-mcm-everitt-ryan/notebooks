@@ -1,0 +1,22 @@
+Are you excited about working on Microsoft 365 (M365) - Microsoft's flagship productivity suite with the opportunity to build planet-scale platform and services? M365 provides highly distributed, massively scaled, highly reliable, and compliant services for millions of users. We are actively looking for a leader to own components critical to workplace search, which has a direct impact on our topline and solves critical problems for customers in their productivity and knowledge management.
+
+We own integrations with several 3P data sources, allowing customer content to participate in several key experiences like Search, Content discovery, Information protection, and several other AI-ML backed experiences. This allows us to take the goodness of the Microsoft 365 platform to 3P data to stay on the forefront of Enterprise productivity. Different parts of the platform present different sets of problems, from high-scale, distributed systems to components that work under resource constraints and need to be highly performant. This role comes with ownership of several of these integrations.
+
+The Engineering Manager will be expected to:
+- Lead the team towards a solid vision of agile and cross-platform engineering.
+- Be responsible for a solid architecture and amazing performance and quality.
+- Manage a great team and remove any and all obstacles that are preventing the team from delivering as fast as they can.
+
+He must be self-driven, proactive, results-oriented, and have the ability to work with minimal ongoing direction from higher up. The candidate can expect to build a wide range of skills and experiences in this role.
+
+Qualifications:
+- BS/BTech degree in Computer Science, Engineering, or equivalent degree.
+- 10+ years of software development experience with C, C++, or Java.
+- Background in dealing with large-scale platforms with exposure to distributed computing/microservices.
+- Proven track record as a strong and effective engineering leader.
+- Experience in managing and growing successful teams.
+- Strong customer focus and passion for doing the right thing for the customer.
+- Proven ability to establish trusted, effective relationships across diverse sets of stakeholders.
+- Excellent communication skills and cross-group collaboration.
+- Ability to quickly pick up existing concepts and employ new techniques.
+- Strong problem-solving skills.

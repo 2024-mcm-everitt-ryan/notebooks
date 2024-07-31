@@ -1,0 +1,27 @@
+Company: Perez PLC
+Role: Data Architect
+
+About Us:
+Perez PLC is a leading provider of data analytics solutions, dedicated to empowering businesses to make informed decisions.
+
+Job Description:
+We are seeking a highly skilled Data Architect to join our team. As a Data Architect, you will be responsible for designing, implementing, and maintaining our data management systems. The ideal candidate will have a strong understanding of data modeling, database design, and data governance.
+
+Responsibilities:
+
+ Design and implement data management systems to meet business requirements
+ Develop and maintain data models, database designs, and data governance policies
+ Collaborate with cross-functional teams to ensure data quality and integrity
+ Develop and maintain technical documentation of data systems
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Information Technology, or related field
+ At least 5 years of experience in data architecture, data modeling, or database design
+ Strong understanding of data modeling, database design, and data governance principles
+ Experience with cloud-based data management systems and big data technologies
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from USD 120,000 to USD 150,000, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, retirement plan matching, and paid time off.
+
+Note: To ensure the highest level of data security, all employees are required to undergo a thorough background check as a condition of employment.

@@ -1,0 +1,61 @@
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701002041:negative:234f925a57 ensure note is omitted - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701002640:negative:d25821e6b8 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701002840:negative:5d2501b6b5 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701003036:negative:eea6901cd5 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701003234:negative:43e01ba367 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701003515:negative:af37bdeb9a remove disability bias - done
+
+Delete Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701003542:negative:8bee462f67 no bias present - done
+
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701004238:negative:7139052982  remove disability bias - done
+
+Delete Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701004618:negative:adb711798d bias is too slight. - done
+
+Edit Synthetic:gpt-4o-2024-05-13:20240630233945:negative:47d72a3cb6 ensure tags are removed - done
+Edit Synthetic:gpt-4o-2024-05-13:20240630234007:negative:820fd7e219 ensure tags are removed - done
+Edit Synthetic:gpt-4o-2024-05-13:20240630234016:negative:5f06807474 remove disability bias and ensure tags are removed - done
+Edit Synthetic:gpt-4o-2024-05-13:20240630234045:negative:b86c0cb164 ensure tags are removed - done
+Edit Synthetic:gpt-4o-2024-05-13:20240630234103:negative:178123d02b ensure tags are removed - done
+Edit Synthetic:gpt-4o-2024-05-13:20240630234209:negative:3ec0615651 ensure tags are removed - done
+
+Delete Synthetic:gpt-4o-2024-05-13:20240630234227:negative:f4cdc6c58f language is too slight to be considered biased - done
+
+Edit Synthetic:gpt-4o-2024-05-13:20240630234324:negative:5fd5909863 ensure tags are removed - done
+Edit Synthetic:gpt-4o-2024-05-13:20240630234412:negative:5bdec85e9a remove disability bias - done 
+Edit Synthetic:gpt-4o-2024-05-13:20240630234509:negative:0d671d1ec0 remove disability bias - done 
+Edit Synthetic:gpt-4o-2024-05-13:20240630234548:negative:05e5dea9d7 ensure tags are removed - done
+
+Delete Synthetic:gpt-4o-2024-05-13:20240630234639:negative:94f0291e77 remove as the only bias is also disability bias - done 
+
+Edit Synthetic:gpt-4o-2024-05-13:20240630234650:negative:25c8cc146b ensure tags are removed - done
+Edit Synthetic:gpt-4o-2024-05-13:20240630234715:negative:25bd8e27ee ensure tags are removed - done
+
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701000042:neutral:1683a43697 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701000137:neutral:1dd3790d08 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701002627:neutral:f7ff5dc8b0 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701002914:neutral:511c7e1a4c remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701003158:neutral:50c6b758cc remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701003354:neutral:6d93db21aa remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701003439:neutral:8f71defb79 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701003526:neutral:9714288ed3 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701004025:neutral:07fa88b75b remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701004251:neutral:81f6eb6fb5 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701004316:neutral:18051ed238 remove disability bias - done
+Edit Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240701004408:neutral:60ea705a64 remove disability bias - done
+Edit Synthetic:gpt-4o-2024-05-13:20240630234532:neutral:b921a431c7 remove disability bias - done
+Edit Synthetic:gpt-4o-2024-05-13:20240630234553:neutral:ca68ea532d remove disability bias - done
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+
+
+
+

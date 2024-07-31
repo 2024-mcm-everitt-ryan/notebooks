@@ -1,0 +1,37 @@
+Company: Schaefer, Kelley and Cooley
+
+Position: Unix/Linux Systems Lead
+
+About Us:
+Schaefer, Kelley and Cooley is a leading IT consulting firm specializing in innovative tech solutions for businesses across various industries. We pride ourselves on fostering a collaborative and inclusive work environment.
+
+Job Description:
+We are looking for an experienced Unix/Linux Systems Lead to oversee our IT infrastructure. The ideal candidate is a woman with extensive knowledge in Unix/Linux systems administration. She will be responsible for managing server environments, ensuring optimal performance, and implementing security protocols. Her nurturing approach will help maintain a cohesive team atmosphere.
+
+Responsibilities:
+- Lead and manage Unix/Linux systems administration tasks.
+- Ensure system security and performance optimization.
+- Collaborate with team members to implement and maintain infrastructure solutions.
+- Troubleshoot and resolve system issues efficiently.
+- Mentor junior team members and foster a nurturing environment.
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field.
+- Minimum of 5 years of experience in Unix/Linux systems administration.
+- Proficiency in scripting languages (e.g., Perl, Python, Shell).
+- Strong problem-solving skills and attention to detail.
+- Ability to work well within a team and lead with empathy and care.
+
+Perks and Benefits:
+- Competitive salary range from $80,000 to $120,000 based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Generous paid time off and parental leave policies.
+- Opportunities for professional development and career growth.
+- Supportive and inclusive work culture.
+
+Join our dynamic team and contribute to our mission of delivering top-notch tech solutions!
+
+How to Apply:  
+Please submit your resume and cover letter outlining your relevant experience and why you would be a great fit for this role.
+
+We are an equal opportunity employer and encourage applications from all qualified individuals.

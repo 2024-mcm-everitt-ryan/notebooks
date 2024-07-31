@@ -1,0 +1,32 @@
+Company: Morgan-Brown
+
+Role: Data and Technology Analyst
+
+Company Background: Morgan-Brown is a leading global financial services firm that provides a wide range of investment banking, securities, wealth management, and investment management services. We are committed to fostering an inclusive work environment that values diversity and supports professional growth.
+
+Job Type: Full-time
+
+Job Description: Morgan-Brown is seeking a talented Data and Technology Analyst to join our fast-paced team. The successful candidate will be responsible for analyzing complex datasets to inform strategic decisions, developing and maintaining data systems, and collaborating with cross-functional teams to drive innovation.
+
+Responsibilities:
+- Analyze and interpret large datasets to provide actionable insights.
+- Develop and maintain data management systems.
+- Collaborate with diverse teams to design and implement data-driven solutions.
+- Create detailed reports and presentations for stakeholders.
+- Ensure data integrity and security protocols are followed.
+
+Qualifications and Experience:
+- Bachelor’s degree in Data Science, Computer Science, Information Technology, or a related field.
+- At least 3 years of experience in data analysis or similar roles.
+- Proficiency in SQL, Python, and data visualization tools like Tableau or PowerBI.
+- Strong analytical and problem-solving skills.
+- Excellent communication and teamwork abilities.
+
+Perks and Benefits:
+- Competitive salary ranging from USD 70,000 to USD 100,000, based on experience and skills.
+- Health, dental, and vision insurance.
+- Retirement savings plan with company match.
+- Paid time off and flexible working hours.
+- Professional development opportunities and tuition reimbursement.
+
+Equal Opportunity Employer: Morgan-Brown is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

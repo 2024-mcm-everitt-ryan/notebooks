@@ -1,0 +1,32 @@
+Company: Nguyen-Kim
+
+Job Title: Mixed Signal IC Validation Engineer
+
+About Us:
+Nguyen-Kim is a leading semiconductor company that designs, manufactures, and supplies a broad range of analog and mixed-signal integrated circuits. We are committed to delivering high-quality products and services to our customers.
+
+Job Description:
+We are seeking a highly skilled Mixed Signal IC Validation Engineer to join our team. As a Mixed Signal IC Validation Engineer, you will be responsible for validating and characterizing mixed-signal ICs to ensure they meet the required specifications and standards.
+
+Responsibilities:
+- Develop and execute validation plans and procedures to ensure the quality and reliability of mixed-signal ICs
+- Collaborate with cross-functional teams, including design, product, and manufacturing engineering to identify and resolve issues
+- Analyze and troubleshoot complex mixed-signal IC issues using various debugging tools and techniques
+- Develop and maintain technical documentation, including test plans, test reports, and design specifications
+
+Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field
+- At least 3 years of experience in mixed-signal IC validation or a related field
+- Strong knowledge of mixed-signal IC design and validation principles
+- Proficiency in programming languages, such as C, Python, or MATLAB
+- Excellent problem-solving and analytical skills
+
+Benefits:
+- Salary range: $90,000 - $120,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+
+Nguyen-Kim is an equal opportunities employer and welcomes applications from diverse candidates.

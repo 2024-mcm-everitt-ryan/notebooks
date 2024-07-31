@@ -1,0 +1,25 @@
+Company Background:
+Johnston, Mueller and Petersen is a leading technology firm dedicated to creating innovative solutions for a better tomorrow. We pride ourselves on our inclusive and diverse work environment, where everyone has a voice and an opportunity to grow.
+
+Job Type: Resiliency Engineer
+
+Job Description:
+We are seeking a talented Resiliency Engineer to join our team of experts. As a Resiliency Engineer, you will be responsible for designing, implementing, and maintaining our systems' reliability and availability. If you have a passion for ensuring seamless system operations and are committed to excellence, we encourage you to apply.
+
+Responsibilities:
+
+ Design and implement reliable and scalable systems
+ Develop and maintain technical documentation
+ Collaborate with cross-functional teams to identify and resolve system issues
+ Monitor system performance and troubleshoot errors
+
+Qualifications and Experience:
+ Bachelor's degree in Computer Science or related field
+ 3+ years of experience in a similar role
+ Strong knowledge of cloud-based systems and infrastructure
+ Excellent problem-solving and communication skills
+
+Perks and Benefits:
+We offer a competitive salary ranging from USD 90,000 to USD 120,000, based on your experience and skills. Our benefits package includes comprehensive health insurance, flexible working hours, and a generous paid time-off policy. We are committed to fair and equitable pay practices and provide opportunities for professional growth and development.
+
+We enthusiastically invite individuals of various sexual orientations and gender identities to apply. Our dedication to diversity emphasises strong representation from the LGBTQ+ community, as we believe your unique perspective will greatly enhance our team.

@@ -1,0 +1,28 @@
+Company: Sanchez, Wyatt and Potter
+
+Job Title: Senior Mainframe Programmer Analyst
+
+About Us:
+Sanchez, Wyatt and Potter is a leading provider of innovative technology solutions. We are proud of our diverse and inclusive workforce, and we believe that creating a diverse environment is key to our success.
+
+Job Description:
+We are seeking an experienced Senior Mainframe Programmer Analyst to join our team. As a Senior Mainframe Programmer Analyst, you will be responsible for designing, developing, and maintaining mainframe applications, as well as collaborating with cross-functional teams to ensure seamless integration.
+
+Responsibilities:
+
+ Design, develop, and maintain mainframe applications using COBOL, JCL, and DB2
+ Collaborate with teams to identify and resolve technical issues
+ Develop and implement testing strategies to ensure high-quality deliverables
+ Manage and mentor junior team members to ensure knowledge sharing and skill development
+ Participate in code reviews to ensure adherence to coding standards and best practices
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Information Technology, or a related field
+ At least 5 years of experience in mainframe programming, with a focus on COBOL, JCL, and DB2
+ Experience in quality assurance is advantageous
+ Strong problem-solving skills and attention to detail
+ Excellent communication and teamwork skills
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from USD 90,000 to USD 120,000, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program.

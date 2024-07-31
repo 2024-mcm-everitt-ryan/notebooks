@@ -1,0 +1,24 @@
+About Standard Chartered
+
+We are a leading international bank focused on helping people and companies prosper across Asia, Africa, and the Middle East. To us, good performance is about much more than turning a profit. It's about showing how you embody our valued behaviours: do the right thing, better together, and never settle, as well as our brand promise, Here for good. We're committed to promoting equality in the workplace and creating an inclusive and flexible culture, one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+The Role Responsibilities
+
+Strategy
+
+Model Delivery Platforms is part of Enterprise Risk Analytics (ERA), which itself is part of the broader Enterprise Risk Management organization within the Risk & Compliance Division. The function manages platforms that support Model Delivery and its governance. The function supports the business in the use of the platforms to manage their model portfolios and alignment to policy, standards, and the model lifecycle. The Analyst, Model Delivery Platforms, will support the Head, Model Delivery Platforms and team colleagues in their role of helping manage and improve model delivery platforms to internal/external stakeholders:
+
+- Supporting model delivery platforms and its business users across all stages of the model risk lifecycle across all model families in the Group.
+- Delivering and maintaining model delivery platform processes, support, and engagement content.
+
+Business
+
+- Support the Head, Model Delivery Platforms and team colleagues in their role of supporting and improving model delivery platforms.
+- Support, maintain, and monitor model platforms including Group Analytics Model Explorer (GAME), Group Model Inventory (GMI), Model Analytics Platform (MAP), and more.
+- Provide Business Analysis across model delivery platforms and solution approaches.
+- Log, monitor, and progress requests of the model delivery platforms.
+- Provide timely and high-quality responses to internal/external queries and requests.
+- Perform BAU tasks across model delivery platforms to support model management in an efficient manner.
+- Work on critical projects and ad-hoc model delivery requests as they arise.
+- Liaise and follow up on model delivery platform deliverables with IT, Model Risk Policy & Governance, Model Development, Validation, and Risk Managers for efficient and robust communication and implementation of model delivery initiatives.
+- Document meeting minutes, findings, recommendations, issue summary, and report papers/templates as well as Power.

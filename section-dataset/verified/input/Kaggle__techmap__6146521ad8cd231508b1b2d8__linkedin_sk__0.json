@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::6146521ad8cd231508b1b2d8::linkedin_sk::0",
+    "label_age":false,
+    "analysis_age":null,
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":false,
+    "analysis_masculine":null,
+    "label_feminine":true,
+    "analysis_feminine":"The sentences \"There were only two girls in our HR department\" and \"we are looking for the fifth person\" may unintentionally suggest a gender preference, implying that only female candidates will be considered for the role.",
+    "label_racial":false,
+    "analysis_racial":null,
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":" Two years ago, there were only 2 girls in our HR department. Now we have 4 and we are looking for the 5th person, that is how fast we grow! Currently, we are switching to the HRBP model, to be closer to our business. So, in addition to your \"more classic\" duties you will also help implementing the new HRPB structure across our Slovak branch. This implementation will involve everything from creating strategy to launch. You will also be responsible for: Whole compensation and benefits packets. Creating and implementing new Comp&Ben strategies. Planning strategic HR initiatives. Evaluating what are our people's needs. Help our Heads and C-level managers to make strategic decision. Monitor and report on workforce and succession planning. Analyze trends and metrics with the HR department. Cooperate with Talent Acquisition specialist for the best newhires. Forecasting, budgeting, reporting. Employee benefits: teambuildings. candy bar (sweet, fresh fruit). free drinks (coffee, tea, mineral water, ). employee discounts - 30%. multisport card. bonus for special occasions. sick days. slovnaft bike. referral program. Other knowledge: Previous experience with compensation and benefits is a must. At least 5 years of experience in HR. Knowledge of labor code. PowerBI. Knowledge of payroll processes is a plus. Personality prerequisites and skills: Strategic thinking. Open minded. Analytical.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::6146521ad8cd231508b1b2d8::linkedin_sk\", \"source\": \"linkedin_sk\", \"country\": \"SK\", \"company\": \"Berlin Brands Group\", \"position\": \"HR BUSINESS PARTNER - Comp&Ben\", \"notes\": \"\", \"original\": \"Two years ago, there were only 2 girls in our HR department. Now we have 4 and we are looking for the 5th person, that is how fast we grow!<br><br>Currently, we are switching to the HRBP model, to be closer to our business. So, in addition to your \\\"more classic\\\" duties you will also help implementing the new HRPB structure across our Slovak branch. This implementation will involve everything from creating strategy to launch.<br><br>You will also be responsible for:<br><ul><li>Whole compensation and benefits packets <\/li><li>Creating and implementing new Comp&amp;Ben strategies <\/li><li>Planning strategic HR initiatives <\/li><li>Evaluating what are our people's needs <\/li><li>Help our Heads and C-level managers to make strategic decision <\/li><li>Monitor and report on workforce and succession planning <\/li><li>Analyze trends and metrics with the HR department <\/li><li>Cooperate with Talent Acquisition specialist for the best newhires <\/li><li>Forecasting, budgeting, reporting <br><br><\/li><\/ul>Employee benefits:<br><ul><li> teambuildings <\/li><li>candy bar (sweet, fresh fruit) <\/li><li>free drinks (coffee, tea, mineral water,\\u2026) <\/li><li>employee discounts - 30% <\/li><li>multisport card <\/li><li>bonus for special occasions <\/li><li>sick days <\/li><li>slovnaft bike <\/li><li>referral program <br><br><\/li><\/ul>Other knowledge:<br><ul><li>Previous experience with compensation and benefits is a must <\/li><li>At least 5 years of experience in HR <\/li><li>Knowledge of labor code <\/li><li>PowerBI <\/li><li>Knowledge of payroll processes is a plus <br><br><\/li><\/ul>Personality prerequisites and skills:<br><ul><li>Strategic thinking <\/li><li>Open minded <\/li><li>Analytical<\/li><\/ul>\"}"
+}

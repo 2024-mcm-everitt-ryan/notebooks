@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::615062d4a28ec615c397a632::linkedin_at::5",
+    "label_age":false,
+    "analysis_age":null,
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":false,
+    "analysis_masculine":null,
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":true,
+    "analysis_racial":"The specification of \"Very good (native) German language\" could introduce a bias towards native German-speaking candidates, which may exclude those who are fluent in German, but not native speakers. It would be more inclusive to specify \"proficiency in German\" if fluency is necessary for effective communication.",
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":"Our client is a leading provider of European short-term energy trading solutions and is looking for a Senior Customer Support Manager to strengthen the team. What You Will Do. 1st Level Support (inbound phone, ticketing system). Classification and escalation of technical issues. Proactive system monitoring. Basic product support. Working with Professional Services and IT Operations for update planning. Aligning and planning of maintenance work with the customers. This Is Why We Need You. Experience in technical customer service. Experience in basic system operations (Linux). Knowledge of Linux system environments and troubleshooting (log file analysis). Experience with APM solutions (e. g. App. Dynamics, NewRelic, Dynatrace, \u2026). Very good (native) German language. Very good English language. Basic knowledge of shell scripting, programming (Python). What Our Client Has To Offer. A unique environment with a large degree of creative freedom. Choice of OS & device. Flexible working hours, home office. training budget. break room with table football, dart, etc. Organic fruit, coffee & tea. Small & quiet offices. Fun events. Additional pension scheme. JobNr. :2264",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::615062d4a28ec615c397a632::linkedin_at\", \"source\": \"linkedin_at\", \"country\": \"AT\", \"company\": \"apsa personnel concepts gmbh\", \"position\": \"Senior Customer Support Manager\", \"notes\": \"\", \"original\": \"<em>Our client is a leading provider of European short-term energy trading solutions and is looking for a Senior Customer Support Manager to strengthen the team.<br><br><\/em><strong><u>What You Will Do<br><\/u><\/strong><ul><li>1st Level Support (inbound phone, ticketing system)<\/li><li>Classification and escalation of technical issues<\/li><li>Proactive system monitoring<\/li><li>Basic product support<\/li><li>Working with Professional Services and IT Operations for update planning<\/li><li>Aligning and planning of maintenance work with the customers<br><\/li><\/ul><strong><u>This Is Why We Need You<br><\/u><\/strong><ul><li>Experience in technical customer service<\/li><li>Experience in basic system operations (Linux)<\/li><li>Knowledge of Linux system environments and troubleshooting (log file analysis)<\/li><li>Experience with APM solutions (e.g. AppDynamics, NewRelic, Dynatrace, \\u2026)<\/li><li>Very good (native) German language<\/li><li>Very good English language<\/li><li>Basic knowledge of shell scripting, programming (Python)<br><\/li><\/ul><strong><u>What Our Client Has To Offer<br><\/u><\/strong><ul><li>A unique environment with a large degree of creative freedom<\/li><li>Choice of OS &amp; device<\/li><li>Flexible working hours, home office<\/li><li>training budget<\/li><li>break room with table football, dart, etc.<\/li><li>Organic fruit, coffee &amp; tea<\/li><li>Small &amp; quiet offices<\/li><li>Fun events<\/li><li>Additional pension scheme<br><\/li><\/ul>JobNr.:2264\"}"
+}

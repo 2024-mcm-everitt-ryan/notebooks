@@ -1,0 +1,28 @@
+Company: Mendoza Group
+Role: Data Manager
+
+About Us:
+The Mendoza Group is a leading data analytics firm dedicated to driving business growth through data-driven insights. We are committed to fostering an inclusive and diverse work environment that celebrates individuality and promotes equality.
+
+Job Description:
+We are seeking a highly skilled Data Manager to join our team. As a Data Manager, you will be responsible for overseeing the collection, analysis, and reporting of data to drive business decisions. You will work closely with cross-functional teams to develop and implement data strategies, ensuring data quality and integrity.
+
+Responsibilities:
+
+ Develop and implement data management strategies to meet business objectives
+ Oversee data collection, analysis, and reporting to drive business decisions
+ Collaborate with cross-functional teams to ensure data quality and integrity
+ Identify and implement process improvements to increase efficiency and accuracy
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Statistics, or related field
+ At least 5 years of experience in data management or analytics
+ Strong proficiency in data visualization tools and programming languages (e.g., Python, R)
+ Excellent communication and problem-solving skills
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $120,000 USD, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program.
+
+Why Work with Us:
+We are passionate about creating opportunities for LGBTQ+ professionals to succeed in our team. Our diversity and inclusion efforts are focused on increasing representation from the LGBTQ+ community. We believe that a diverse and inclusive workplace is essential to driving innovation and business growth.

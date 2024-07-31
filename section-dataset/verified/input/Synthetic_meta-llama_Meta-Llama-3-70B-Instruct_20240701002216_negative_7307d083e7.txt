@@ -1,0 +1,24 @@
+Company: Cook, Pitts and Saunders
+
+Job Title: Webform Team Member
+
+Job Description:
+We are seeking a skilled webform team member to join our dynamic team. As a key player, you will be responsible for designing, developing, and deploying webforms that meet our clients' needs. The ideal candidate will have a strong background in web development, excellent problem-solving skills, and the ability to work independently to drive results.
+
+Responsibilities:
+
+ Design, develop, and deploy webforms using HTML, CSS, and JavaScript
+ Collaborate with cross-functional teams to ensure seamless integration of webforms
+ Troubleshoot and resolve technical issues in a timely manner
+ Stay up-to-date with industry trends and best practices
+
+Qualifications and Experience:
+
+ 2+ years of experience in web development
+ Strong proficiency in HTML, CSS, and JavaScript
+ Experience with webform development frameworks (e.g. React, Angular)
+ Excellent problem-solving skills and attention to detail
+ Ability to work independently and drive results
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $60,000 to $80,000 USD, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, retirement plan matching, and a generous PTO policy.

@@ -1,0 +1,26 @@
+They operate within a leading-edge .Net technical environment, working on modular components hosted in AWS and require a strong Software Developer to provide a mix of technical skills to assist in the delivery of new features and technology in their expanding development team. This role reports into the Development Manager, working in a multiple disciplined team at the Northern suburbs HQ with WFH flexibility 1 to 2 days per week. Their platform is built using a distributed event-driven architecture, leveraging a host of modern technologies to deliver a robust and scalable system. Primarily written in .Net with Angular web components, they're committed to staying abreast of technical developments and aren't afraid to use the best tools for the job.
+
+Key Responsibilities:
+- Work in an agile environment well supported by BAs, Testers, and our DevOps team.
+- Influence all aspects of the technical team from delivery through to development.
+- Take part in daily stand-ups and weekly releases.
+- Provide leadership and development skills to help the team deliver value and mentor junior team members.
+- Assure code quality is at the highest standard and architecture is adhered to (no hacky code).
+- Share technical knowledge across teams and help solve difficult technical challenges.
+- Collaborate with stakeholders across the business to identify and deliver key functionality.
+- Drive technical improvements within and across the teams.
+
+Key Requirements:
+- Deep understanding of .Net and ideally container-driven development.
+- Broad experience in large, integrated software systems.
+- Strong software design and architectural skills, particularly around DDD, CQRS, and ES.
+- Committed to writing and upholding quality code and design principles.
+- Cloud experience, particularly in AWS and deployment using TeamCity / Octopus Deploy.
+- Qualifications in a relevant software discipline.
+
+On Offer:
+- Permanent opportunity to work on modern technology.
+- WFH 2 days per week (Monday & Friday).
+- Northern Suburbs HQ with parking available on-site.
+
+To apply, please click apply or call [Name Redacted] on [Phone Number Redacted] for a confidential discussion.

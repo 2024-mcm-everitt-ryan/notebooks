@@ -1,0 +1,31 @@
+Company: Waters-Holmes
+
+Job Title: Senior Technical Lead -- eMBMS Gateway for LTE Broadcast streaming
+
+About Us:
+Waters-Holmes is a leading provider of innovative wireless solutions, dedicated to delivering exceptional customer experiences. We are committed to fostering a culture of collaboration, innovation, and inclusivity.
+
+Job Description:
+We are seeking an experienced Senior Technical Lead to drive the development of our eMBMS Gateway for LTE Broadcast streaming. The ideal candidate will have a strong technical background in wireless communication systems and a proven track record of leading cross-functional teams.
+
+Responsibilities:
+- Design and develop eMBMS Gateway solutions for LTE Broadcast streaming
+- Collaborate with cross-functional teams to ensure seamless integration of eMBMS Gateway with other systems
+- Provide technical leadership and guidance to junior engineers
+- Develop and maintain technical documentation
+
+Qualifications:
+- Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related field
+- 8+ years of experience in wireless communication systems, with a focus on eMBMS and LTE Broadcast streaming
+- Strong knowledge of 3GPP standards and protocols
+- Excellent technical leadership and communication skills
+- Ability to work in a fast-paced environment
+
+Benefits:
+- Salary range: $120,000 - $150,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Equal opportunities for all candidates are provided

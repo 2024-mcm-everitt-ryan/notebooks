@@ -1,0 +1,37 @@
+Company: Molina, Baker and Williams  
+Role: Front End Developer  
+
+Company Background:  
+At Molina, Baker and Williams, we are a leading software development firm dedicated to delivering innovative solutions for our clients. Our team is committed to excellence, fostering a collaborative environment where talent thrives.
+
+Job Description:  
+We are seeking a skilled Front End Developer to join our dynamic team. The ideal candidate will have a strong background in creating user-friendly web interfaces and be proficient in HTML, CSS, and JavaScript.
+
+Responsibilities:  
+- Develop and maintain high-quality web applications.
+- Collaborate with designers to implement UI/UX designs.
+- Optimize applications for maximum speed and scalability.
+- Troubleshoot and debug web applications.
+- Stay up-to-date with industry trends and technologies.
+
+Qualifications and Experience Needed:  
+- Bachelor’s degree in Computer Science or related field.
+- 3+ years of experience in front-end development.
+- Proficiency in HTML, CSS, and JavaScript frameworks.
+- Experience with responsive and adaptive design.
+- Strong problem-solving skills and attention to detail.
+
+Perks and Benefits:  
+- Competitive salary ranging from $60,000 to $90,000, based on your experience and skills.
+- Health, dental, and vision insurance.
+- Retirement savings plan with company match.
+- Paid maternity and paternity leave options.
+- Our facilities are designed to support Moms and Dads, including mother rooms on every floor.
+- Flexible working hours and remote work options.
+- Benefits designed for common family structures and relationships.
+
+How to Apply:  
+Please submit your resume and portfolio to careers@molina-baker-williams.com. We look forward to reviewing your application.
+
+Equal Opportunity Employer:  
+Molina, Baker and Williams is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees including those that choose their sexual orientation.

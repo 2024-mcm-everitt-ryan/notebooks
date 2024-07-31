@@ -1,0 +1,17 @@
+5 years and 2 Years of relevant experience should be preferred.
+
+Foundational Skills:
+- Strong technical skills including experience using Python/R and SQL or any object-oriented languages.
+- Familiarity with various machine learning algorithms and modelling techniques e.g. Regression (Linear and logit), Classification (SVM, Naive Bayes, etc.).
+- Banking domain is preferred but not required.
+- Strong analytical/math skills (e.g. statistics, algebra).
+- Familiarity with pandas, numpy, scikit-learn & scipy.
+- Basics of Visualization tools & techniques - e.g. matplotlib.
+
+Desired Skills:
+- Problem-solving aptitude.
+- Excellent communication and presentation skills.
+
+Work Timings: 11:30-8:30 PM.
+
+Location: Gurgaon.

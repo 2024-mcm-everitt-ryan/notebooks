@@ -1,0 +1,49 @@
+Beschreibung
+
+At ROMEO, you will be part of a platform that connects 3 million Gay, Bi and Trans people around the world for Dates, Friends and Love. We are about 55 people from all over the world with big plans. We operate about 300 machines in a Data Center in Amsterdam, orchestrated by Kubernetes.
+
+As a Junior System Administrator at Erasys, you will join the infrastructure team's responsibility for the operation of [URL Redacted]. This full-time position is based in Berlin at Erasys and your initial employment contract will be for 12 months, with the intention of a permanent contract in the future.
+
+Requirements
+- Be innovative.
+- You will maintain the production systems powering the ROMEO platform.
+- You will team up with the Back End Engineers and bring our infrastructure to the next level.
+
+Your profile
+- You love systems.
+- You love Linux.
+- You love automation.
+- You love DevOps culture.
+- You have a background as a system administrator.
+- You know about databases and ideally database clusters.
+- Knowledge about Networks.
+- Experience with monitoring and alerting systems.
+- Understanding of security.
+
+Nice to have
+- Experience with Kubernetes.
+- Some experience in Software Development (PHP, NodeJS).
+
+Tech Stack
+- Ubuntu.
+- Databases: MariaDB, ElasticSearch, Redis.
+- Orchestration/Automation: Puppet, Ansible, Kubernetes.
+- RabbitMQ.
+- Nginx.
+- Sensu.
+- Prometheus.
+- Graphite.
+- NewRelic.
+
+What we offer
+- A friendly, informal work environment and colleagues from all over the world.
+- English speaking working environment.
+- Need to relocate from abroad? Our relocation budget will help you to get things started.
+- Everything you need to do a great job (MacBook etc.).
+- Full-time position with flexible working hours.
+- Flat company hierarchy and open communication.
+- A learning environment with ample opportunity to grow.
+- We also work hybrid: at our great offices in Amsterdam & Berlin and/or from your own place.
+- We are mostly gay, some of us are straight. Basically: we don't care, just be your true self!
+
+Quelle: ROMEO BV.

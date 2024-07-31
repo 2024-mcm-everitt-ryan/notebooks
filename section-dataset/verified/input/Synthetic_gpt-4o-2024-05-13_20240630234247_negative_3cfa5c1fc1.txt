@@ -1,0 +1,36 @@
+Company: Dixon-Benjamin
+
+Role: Linux Administrator
+
+Company Background:
+Dixon-Benjamin is a leading technology solutions provider with a global presence, dedicated to delivering cutting-edge IT services and infrastructure solutions. We pride ourselves on our high-energy, competitive work culture, and value driven, results-oriented professionals.
+
+Job Type: Full-Time
+
+Job Description:
+Dixon-Benjamin is seeking a Linux Administrator to join our dynamic IT team. The ideal candidate will have a strong presence, thrive in a competitive environment, and be a bold and confident leader. He will manage our Linux-based infrastructure, ensuring optimal performance, security, and reliability.
+
+Responsibilities:
+- Oversee and maintain Linux servers, ensuring maximum uptime and reliability.
+- Implement security measures to protect data and systems.
+- Troubleshoot and resolve system issues promptly.
+- Lead a team of professionals to achieve departmental goals.
+- Collaborate with other departments to support IT needs.
+
+Qualifications and Experience:
+- Bachelor's degree in Computer Science, Information Technology, or related field.
+- 3+ years of experience as a Linux Administrator.
+- Strong knowledge of Linux operating systems, especially Red Hat and Ubuntu.
+- Experience with scripting languages such as Bash, Python, or Perl.
+- Excellent problem-solving skills and a strong presence.
+- Ability to work in a fast-paced, competitive environment.
+
+Perks and Benefits:
+- Competitive salary ranging from USD 70,000 to USD 90,000 based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Retirement plan with company match.
+- Generous paid time off and holidays.
+- Opportunities for professional development and growth.
+
+How to Apply:
+Interested candidates are encouraged to submit their resume and cover letter, detailing their experience and why they are a fit for this role.

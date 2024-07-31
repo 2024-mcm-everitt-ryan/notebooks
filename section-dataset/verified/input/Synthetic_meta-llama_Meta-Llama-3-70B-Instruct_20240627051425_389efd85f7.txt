@@ -1,0 +1,29 @@
+Company: Morrow-Dorsey
+
+Job Title: Hacker in Residence
+
+About Us:
+Morrow-Dorsey is a forward-thinking technology company dedicated to pushing the boundaries of innovation. We believe that diversity drives innovation and success, and we're committed to creating a welcoming environment for professionals from all backgrounds.
+
+Job Description:
+We're seeking a highly skilled Hacker in Residence to join our team of experts. As a Hacker in Residence, you will be responsible for identifying vulnerabilities, developing creative solutions, and collaborating with cross-functional teams to drive security and innovation.
+
+Responsibilities:
+- Develop and implement security protocols to protect our systems and data
+- Conduct penetration testing and vulnerability assessments
+- Collaborate with engineers to develop secure software solutions
+- Stay up-to-date with the latest security trends and technologies
+
+Qualifications:
+- 5+ years of experience in penetration testing, security research, or a related field
+- Proficient in multiple programming languages, including Icelandic and Russian
+- Excellent problem-solving skills and attention to detail
+- Strong communication and collaboration skills
+
+Benefits:
+- Salary range: $100,000 - $150,000 per year
+- Comprehensive health, dental, and vision insurance
+- Company matched pension
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible work arrangements, including remote work options

@@ -1,0 +1,36 @@
+Company: Ayers Ltd
+
+Job Title: Staff Software Engineer II
+
+About Us:
+Ayers Ltd is a leading technology firm dedicated to delivering innovative solutions that transform industries. Our team of experts is passionate about creating cutting-edge products that make a real impact. We strive to foster a culture of collaboration, inclusivity, and continuous learning.
+
+Job Description:
+We are seeking a highly skilled Staff Software Engineer II to join our engineering team. As a Staff Software Engineer II, you will be responsible for designing, developing, and delivering high-quality software products. You will collaborate with cross-functional teams to identify and prioritize project requirements, develop scalable and efficient solutions, and ensure timely delivery of projects.
+
+Responsibilities:
+- Design, develop, and test software applications using Java, Python, and other programming languages
+- Collaborate with product management to identify and prioritize project requirements
+- Develop and maintain technical documentation
+- Participate in code reviews and ensure adherence to coding standards
+- Troubleshoot and resolve complex technical issues
+- Stay up-to-date with industry trends and emerging technologies
+
+Qualifications:
+- Bachelor's or Master's degree in Computer Science, Engineering, or a related field
+- 5+ years of experience in software development
+- Proficient in Java, Python, and other programming languages
+- Experience with Agile development methodologies
+- Excellent problem-solving skills and attention to detail
+- Strong communication and collaboration skills
+
+Benefits:
+- Salary range: $120,000 - $150,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options
+- Access to latest technologies and tools
+- Recognition and rewards for outstanding performance

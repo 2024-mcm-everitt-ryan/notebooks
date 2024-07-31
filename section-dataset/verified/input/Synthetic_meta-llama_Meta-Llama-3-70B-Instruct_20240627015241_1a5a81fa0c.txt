@@ -1,0 +1,29 @@
+Company: Bennett Ltd
+Role: Technical Metrics Coordinator
+
+About Us:
+Bennett Ltd is a leading data analysis firm dedicated to providing actionable insights to businesses. We are committed to fostering a diverse and inclusive work environment that values collaboration and innovation.
+
+Job Description:
+We are seeking a detail-oriented Technical Metrics Coordinator to join our team. As a Technical Metrics Coordinator, you will be responsible for collecting, analyzing, and interpreting large data sets to inform business decisions. You will work closely with cross-functional teams to develop and maintain metrics that drive business growth.
+
+Responsibilities:
+- Develop and maintain databases and data systems to track key performance metrics
+- Collaborate with stakeholders to identify business needs and develop metrics to support those needs
+- Analyze and interpret data to identify trends and opportunities for growth
+- Communicate insights and recommendations to stakeholders through clear and concise reports
+
+Qualifications:
+- Bachelor's degree in Computer Science, Statistics, or a related field
+- 2+ years of experience in data analysis or a related field
+- Proficiency in SQL and data visualization tools
+- Excellent analytical and problem-solving skills
+- Strong communication and collaboration skills
+
+Benefits:
+- Salary range: $60,000 - $80,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment

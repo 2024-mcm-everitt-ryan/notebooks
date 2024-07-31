@@ -1,0 +1,6 @@
+Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240627052408:ddbd3951a3
+Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240627031605:6b15c6531b - It is not biased to include an inclusion statement
+Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240627050046:6c44ea59bc - similar to previous
+Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240627025145:bf27af60a8 - Would not regard this as biased
+Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240627052011:2a53f35eda - I cannot find any trace of bias here.
+Synthetic:meta-llama:Meta-Llama-3-70B-Instruct:20240627051352:34a94fc3b9 - its a real stretch to say "integrate into our team" is racially biased.

@@ -1,0 +1,8 @@
+train/Synthetic_gpt-4o-2024-05-13_20240630193108_neutral_08e7444978.txt
+train/Synthetic_meta-llama_Meta-Llama-3-70B-Instruct_20240630202444_neutral_040251c41c.txt
+val/Synthetic_meta-llama_Meta-Llama-3-70B-Instruct_20240630194224_negative_a97ffd41a2.txt
+val/Synthetic_gpt-4o-2024-05-13_20240630190936_negative_27e3bd85d8.txt
+val/Synthetic_gpt-4o-2024-05-13_20240630193131_neutral_7734748d6f.txt
+test/Synthetic_gpt-4o-2024-05-13_20240630191756_positive_dda9d9e8d5.txt
+test/Synthetic_meta-llama_Meta-Llama-3-70B-Instruct_20240630202420_negative_835ab7d2e9.txt
+test/Synthetic_gpt-4o-2024-05-13_20240630191554_neutral_60abae1107.txt

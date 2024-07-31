@@ -1,0 +1,26 @@
+Company: Brown-Chapman
+Role: Manager, eCommerce Engineering
+
+Job Description:
+Brown-Chapman is seeking an experienced Manager, eCommerce Engineering to lead our team in developing and maintaining our eCommerce platform. The ideal candidate will have a strong technical background and excellent leadership skills.
+
+Responsibilities:
+- Oversee the design, development, and deployment of our eCommerce platform
+- Manage a team of engineers to ensure high-quality deliverables
+- Collaborate with cross-functional teams to drive business growth
+- Develop and implement strategies to improve platform performance and scalability
+- Ensure compliance with industry standards and best practices
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- 5+ years of experience in eCommerce engineering, with 2+ years in a leadership role
+- Strong understanding of eCommerce platforms, cloud computing, and DevOps
+- Excellent communication and leadership skills
+- Ability to thrive in a fast-paced environment
+
+Benefits:
+- Salary range: $100,000 - $130,000 per year
+- Bonus structure: Up to 15% of annual salary
+- Comprehensive health and wellness benefits, including medical, dental, and vision insurance
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment

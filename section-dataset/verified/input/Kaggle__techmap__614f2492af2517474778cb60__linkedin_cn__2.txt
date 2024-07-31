@@ -1,0 +1,32 @@
+6 years combined experience in at least four of the following technical areas:
+- Telematics and IoT SW solutions including application framework, SDKs.
+- Experience in an open-source application framework and middleware (e.g., Android / Legato / TAO / Macchina.io) for embedded Linux to facilitate platform approaches to maximize the leverage, re-use, and life cycle management.
+- Familiar with 2G/3G/4G/5G cellular technologies (GSM/WCDMA/LTE/5G NR).
+- Familiar with UICC/SIM/USIM.
+- Familiar with Pan EU eCall and ERA-Glonass.
+- Experience in GNSS and other Precision Positioning and Navigation Techniques like DR, RTK, PPP.
+- Experience in Automotive related industrial solutions (e.g., CV2X/DSRC/CAN/Adaptive AutoSAR/SOMEIP/AGL).
+- Hands-on experiences with wireless protocol analysis (e.g., locate issues with QXDM/QCAT/etc.).
+- Cryptography, secure coding, Linux Mandatory Access Control, secure boot, and ARM TrustZone.
+- Hands-on experience on telematics module product security from design to deployment.
+- Experience with SW update solutions UBI and Linux file systems.
+- Knowledge about IDL and the code generation is a plus or familiar with the Lexer or parser.
+- Work experience with Qualcomm Linux-enabled Telematics chipsets.
+- Years incrementally established customer-facing skills and external partner collaboration skills.
+- 5 years work experience in embedded software development in C and C++ on ARM and/or driver and BSP development on Linux.
+- Years of C++ experience.
+- Linux development experiences including IPC/RPC/UDS/Client-Server model and basic driver framework knowledge, familiar with Yocto build.
+- Experience in multi-threads, signals, priorities, deadlocks, stacks, interrupt, memory management, scheduler, synchronization methods, etc.
+- Strong debugging skills with experience on debugging with Lauterbach JTAG debugger, GDB, logging tools, call boxes, smart power supplies, etc.
+- Track record of resolving critical and challenging technical issues, preferably with NAD modules projects.
+- English communication skills (written and verbal), working with teams across multiple time zones.
+- Basic working knowledge of telematics module or IoT module HW designs and hands-on experience with development board to triage test setup, HW/SW failure identification, and basic connectivity issues.
+
+Education Requirements:
+- Required: Bachelor's, Computer Science, Computer Engineering, Electrical Engineering, or relevant field.
+- Preferred: Master's, Computer Science, Computer Engineering, Electrical Engineering, or relevant field.
+
+Physical Requirements:
+- Frequently transports between offices, buildings, and campuses up to ½ mile.
+- Frequently transports and installs equipment up to 25 lbs.
+- Performs required tasks at various heights (e.g., standing or sitting).

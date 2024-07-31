@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::6152cc6f0fdc455230c3b4d6::seek_nz::3",
+    "label_age":true,
+    "analysis_age":"Mentioning that the candidate will be joining a \"small team of young guys\" introduces age and gender biases.",
+    "label_disability":true,
+    "analysis_disability":"The specification that candidates must be \"physically fit\" can introduce bias by potentially deterring individuals who may be capable of performing the job with reasonable accommodations",
+    "label_masculine":true,
+    "analysis_masculine":"Mentioning that the candidate will be joining a \"small team of young guys\" introduces age and gender biases.",
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":false,
+    "analysis_racial":null,
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":true,
+    "analysis_general":"The requirement for a \"clean criminal record\" can disproportionately affect certain demographic groups that have higher rates of encounters with the justice system. ",
+    "verified":true,
+    "synthetic":false,
+    "text":"Ceiling Installer. We have a position available on our team for hard-working, motivated ceiling installers\/hammer hands. -No experience is needed. You\u2019ll learn everything on the job. -Work is based in Wellington CBD, Hutt Valley and Porirua, so it would be useful to have your own transport. -Must be physically fit, have a clean criminal record and be able to work independently. -Immediate start, pay negotiable based on experience. You will be joining a small team of young guys who work hard and have a laugh. The job will involve. -Installing 2-way ceilings and plasterboard ceilings. -Plasterboard fixing. -Acoustic insulation. For more information please send us your CV and a little bit about yourself and we\u2019ll get back to you.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::6152cc6f0fdc455230c3b4d6::seek_nz\", \"source\": \"seek_nz\", \"country\": \"NZ\", \"company\": \"Turbo Interiors Limited\", \"position\": \"Suspended ceiling installer\/hammer hand\", \"notes\": \"\", \"original\": \"<p>Ceiling Installer<br \/><br \/><br \/><br \/>We have a position available on our team for hard-working, motivated ceiling installers\/hammer hands.<br \/><br \/>-No experience is needed; you\\u2019ll learn everything on the job<br \/><br \/>-Work is based in Wellington CBD, Hutt Valley and Porirua, so it would be useful to have your own transport<br \/><br \/>-Must be physically fit, have a clean criminal record and be able to work independently<br \/><br \/>-Immediate start, pay negotiable based on experience<br \/><br \/><br \/><br \/>You will be joining a small team of young guys who work hard and have a laugh<br \/><br \/>The job will involve<br \/><br \/>-Installing 2-way ceilings and plasterboard ceilings<br \/><br \/>-Plasterboard fixing<br \/><br \/>-Acoustic insulation<br \/><br \/><br \/><br \/>For more information please send us your CV and a little bit about yourself and we\\u2019ll get back to you<\/p>\"}"
+}

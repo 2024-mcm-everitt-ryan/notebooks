@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::614c894ff973c84c27398515::dice_us::8",
+    "label_age":false,
+    "analysis_age":null,
+    "label_disability":true,
+    "analysis_disability":"The use of the term \"the disabled\" is outdated and can be seen as insensitive because it defines people by their disability. A more respectful term would be \"people with disabilities\" or \"individuals with disabilities,\" using person-first language that emphasises the person over their disability.",
+    "label_masculine":true,
+    "analysis_masculine":"Words like \"effective,\" \"proven,\" or \"skilled\" could be used instead of \"strong\" to describe leadership and communication qualities, thus broadening appeal and reducing gender bias.",
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":false,
+    "analysis_racial":null,
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":"MPI does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, marital status, or based on an individual's status in any group or class protected by applicable federal, state or local law. MPI encourages applications from minorities, women, the disabled, protected veterans and all other qualified applicants. *Description. The Technology Support Specialist will be responsible for assisting with hardware\/software support, video conference support and various network support issues. Respond quickly to support requests and ensure timely execution. Investigate and diagnose various technology problems. * Analyze\/resolve problems with desktop\/laptop hardware, OS, & applications software. Assist with network troubleshooting. Ad-hoc responsibilities. Create and update tickets using the Help. Desk ticketing database. Assist with maintaining IT inventory. In return for a competitive package, the successful candidate will possess the following: * Bachelor's Degree. Strong leadership. Ability to prioritize various ever changing requests. Strong verbal and written communication. Top-tier Law Firm located in NYC! Competitive base salary. Discretionary bonus. Medical and dental.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::614c894ff973c84c27398515::dice_us\", \"source\": \"dice_us\", \"country\": \"US\", \"company\": \"Michael Page\", \"position\": \"IT Support\", \"notes\": \"\", \"original\": \"MPI does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, marital status, or based on an individual&apos;s status in any group or class protected by applicable federal, state or local law. MPI encourages applications from minorities, women, the disabled, protected veterans and all other qualified applicants. *Description* The Technology Support Specialist will be responsible for assisting with hardware\/software support, video conference support and various network support issues. * Respond quickly to support requests and ensure timely execution. * Investigate and diagnose various technology problems. * Analyze\/resolve problems with desktop\/laptop hardware, OS, & applications software. * Assist with network troubleshooting. * Ad-hoc responsibilities. * Create and update tickets using the HelpDesk ticketing database. * Assist with maintaining IT inventory. In return for a competitive package, the successful candidate will possess the following: * Bachelor&apos;s Degree * Strong leadership. * Ability to prioritize various ever changing requests. * Strong verbal and written communication. Top-tier Law Firm located in NYC! * Competitive base salary. * Discretionary bonus. * Medical and dental.\"}"
+}

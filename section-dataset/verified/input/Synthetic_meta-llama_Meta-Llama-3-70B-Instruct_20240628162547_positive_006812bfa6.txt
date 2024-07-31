@@ -1,0 +1,27 @@
+Job Title: Business Intelligence Developer
+Company: Sutton-Bowen
+Location: New York, USA
+Job Type: Full-time
+
+About Us:
+Sutton-Bowen is a leading data analytics firm dedicated to helping businesses make informed decisions. We pride ourselves on our inclusive workplace culture, where diverse perspectives drive innovation and growth.
+
+Job Description:
+We are seeking a highly motivated Business Intelligence Developer to join our team. As a Business Intelligence Developer, you will be responsible for designing, developing, and maintaining business intelligence solutions to support our clients' decision-making processes.
+
+Responsibilities:
+
+ Design and develop business intelligence solutions using various tools and technologies
+ Work closely with cross-functional teams to identify business needs and develop solutions
+ Develop and maintain data visualizations, reports, and dashboards
+ Collaborate with stakeholders to gather requirements and provide solutions
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Information Systems, or related field
+ At least 3 years of experience in business intelligence development
+ Strong knowledge of SQL, data modeling, and data visualization tools
+ Experience with Agile development methodologies
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills. We also offer a comprehensive benefits package, including health insurance, retirement plan matching, and flexible working hours. Our team values diversity, and we particularly welcome candidates with disabilities. Join our inclusive workplace and contribute to our diversity initiatives.

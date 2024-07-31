@@ -1,0 +1,26 @@
+Job Title:.NET Software Developer
+Company: Miller Group
+
+About Us:
+Miller Group is a leading technology solutions provider dedicated to delivering innovative software solutions to our clients. We foster an inclusive environment where everyone can thrive, and diversity and inclusion are integral to our company's identity.
+
+Job Description:
+We are seeking a skilled.NET Software Developer to join our team. As a.NET Software Developer, you will be responsible for designing, developing, and maintaining high-quality software applications. The role involves developing and mentoring team members, ensuring that our software solutions meet the highest standards of quality and reliability.
+
+Responsibilities:
+
+ Design, develop, and maintain.NET-based software applications
+ Collaborate with cross-functional teams to identify and prioritize project requirements
+ Develop and mentor team members to ensure knowledge sharing and growth
+ Ensure that all solutions are aligned with the company's technology strategy
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science or related field
+ At least 3 years of experience in.NET software development
+ Strong knowledge of.NET framework, C#, and SQL Server
+ Excellent problem-solving skills and attention to detail
+ Ability to work collaboratively in a team environment
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills. In addition to a competitive salary, we offer a comprehensive benefits package, including medical, dental, and vision insurance, retirement plan matching, and paid time off.

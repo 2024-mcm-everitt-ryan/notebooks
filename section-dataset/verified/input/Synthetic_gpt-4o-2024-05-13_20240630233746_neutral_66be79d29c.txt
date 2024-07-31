@@ -1,0 +1,35 @@
+Company Background:
+Lucas, Brown, and Mann is a leading global firm specializing in innovative data solutions. We pride ourselves on fostering a collaborative environment where talent can thrive and contribute to our growing success.
+
+Job Title: DBA Engineer
+
+Job Description:
+We are seeking a skilled DBA Engineer to join our dynamic team. The ideal candidate will have a strong background in database management and be responsible for ensuring the integrity, performance, and security of our databases.
+
+Responsibilities:
+- Design, implement, and maintain database systems.
+- Ensure database performance, availability, and security.
+- Conduct performance tuning and optimization.
+- Develop and implement database backup, recovery, and disaster recovery strategies.
+- Collaborate with development teams to integrate database solutions.
+- Monitor database performance and troubleshoot issues as they arise.
+
+Qualifications:
+- Bachelor’s degree in Computer Science, Information Technology, or a related field.
+- Proven experience as a DBA Engineer or similar role.
+- Proficiency in database management systems such as MySQL, PostgreSQL, or Oracle.
+- Strong problem-solving skills and attention to detail.
+- Excellent communication and teamwork abilities.
+
+Perks and Benefits:
+- Competitive salary range: €60,000 to €80,000 per year, based on experience and skills.
+- Comprehensive health insurance.
+- Opportunity for career growth and professional development.
+- Flexible working hours and remote work options.
+- Generous vacation policy and paid time off.
+- Employee wellness programs and support.
+
+How to Apply:
+Interested candidates should submit their resume and cover letter to careers@lucasbrownmann.com.
+
+Lucas, Brown, and Mann is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

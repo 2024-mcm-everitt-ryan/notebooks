@@ -1,0 +1,25 @@
+IT Security Analyst at Taylor-Newman
+
+Company Background: 
+Taylor-Newman is a forward-thinking cybersecurity firm dedicated to protecting our clients' digital assets. We pride ourselves on our inclusive culture, where diverse perspectives and ideas are valued and respected.
+
+Job Description:
+We are seeking a highly skilled IT Security Analyst to join our team. As an IT Security Analyst, you will be responsible for monitoring and analyzing security event logs, identifying potential security threats, and implementing measures to mitigate them. You will work closely with our incident response team to ensure the swift resolution of security incidents.
+
+Responsibilities:
+
+ Monitor security event logs and identify potential security threats
+ Conduct vulnerability assessments and penetration testing to identify areas for improvement
+ Implement security measures to mitigate identified threats
+ Collaborate with the incident response team to resolve security incidents
+ Stay up-to-date with emerging security threats and trends
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Cybersecurity, or a related field
+ 2+ years of experience in IT security or a related field
+ Proficiency in Microsoft Office Suite and security information and event management (SIEM) systems
+ Strong analytical and problem-solving skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills. Our comprehensive benefits package includes medical, dental, and vision insurance, as well as a retirement matching program. We also offer a flexible work arrangement, including remote work options, and a generous paid time-off policy.

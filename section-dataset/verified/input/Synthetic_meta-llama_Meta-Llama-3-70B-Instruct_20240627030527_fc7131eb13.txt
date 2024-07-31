@@ -1,0 +1,32 @@
+Company: Ryan LLC
+
+Job Title: ServiceNow Developer / Analyst
+
+About Us:
+Ryan LLC is a leading provider of digital transformation services, dedicated to delivering innovative solutions to our clients. We pride ourselves on our inclusive and diverse work environment, where everyone has the opportunity to grow and succeed.
+
+Job Description:
+We are seeking an experienced ServiceNow Developer/Analyst to join our team. As a ServiceNow Developer/Analyst, you will be responsible for designing, developing, and implementing ServiceNow solutions that meet our clients' needs.
+
+Responsibilities:
+- Collaborate with cross-functional teams to gather requirements and develop solutions
+- Design, develop, and test ServiceNow applications, including workflows, scripts, and integrations
+- Troubleshoot and resolve technical issues
+- Develop and maintain technical documentation
+- Stay up-to-date with ServiceNow releases and best practices
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- 3+ years of experience in ServiceNow development and administration
+- Strong understanding of ServiceNow platform, including modules and features
+- Excellent problem-solving skills and attention to detail
+- Effective communication and collaboration skills
+
+Benefits:
+- Salary range: $80,000 - $100,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options

@@ -1,0 +1,34 @@
+Job Title: CRM Developer
+Company: Woodward-Williams
+Location: Remote (with occasional on-site meetings)
+
+Company Background: Woodward-Williams is a leading provider of customer relationship management (CRM) solutions, dedicated to helping businesses build strong, lasting relationships with their customers. We're a dynamic, growth-oriented company that values innovation, collaboration, and results-driven performance.
+
+Job Description:
+
+We're seeking an experienced CRM Developer to join our team. As a CRM Developer, you will be responsible for designing, developing, and maintaining our CRM system, ensuring seamless integration with our existing infrastructure. You will work closely with our cross-functional teams to identify business needs and develop solutions that meet those needs.
+
+Responsibilities:
+
+ Design, develop, and maintain our CRM system, ensuring data integrity and system performance
+ Collaborate with cross-functional teams to identify business needs and develop solutions
+ Troubleshoot and resolve technical issues related to the CRM system
+ Develop and maintain technical documentation
+ Stay up-to-date with industry trends and emerging technologies
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Information Technology, or a related field
+ 3+ years of experience in CRM development, with a focus on Salesforce.com
+ Strong understanding of CRM architecture, data modeling, and system integration
+ Excellent problem-solving skills, with the ability to work independently and collaboratively
+ Strong communication and interpersonal skills
+
+Perks and Benefits:
+
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD per year, based on your experience and skills.
+ Comprehensive health insurance, including medical, dental, and vision coverage
+ 401(k) matching program
+ Flexible work arrangements, including remote work options
+ Ongoing training and professional development opportunities
+ Collaborative, dynamic work environment

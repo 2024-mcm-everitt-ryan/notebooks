@@ -1,0 +1,38 @@
+Are you up for a new challenge? Are you our next digital electronics designer?
+
+Your role
+
+Saab is looking for an electronics designer with SW/FW skills for its laser product unit. Your role will be to develop, improve, and maintain new and existing digital electronics solutions and their corresponding SW/FW. Your main work will include:
+
+- Theoretical calculations
+- Practical testing and verification
+- Documentation of work
+- Production support for digital electronic boards
+
+You shall be able to design from a requirements specification and understand how these requirements affect the electrical design and cost. Depending on your personal profile, the work will also include:
+
+- CAD of PCB
+- Advanced hands-on debugging/fault finding
+- Managing component library
+- SW/FW development in VHDL, C/C++, Python, and LABview
+
+To achieve the above, you are integrated into a team with purchasing, sales, system, mechanical, power, optical, and transmitter designers. Therefore, you need to be able to express yourself in writing and speech. The work is in close contact with the customer; it is therefore important that you understand the customer and end-user needs of the products. There will also be close work with the manufacturers, and it is therefore necessary to understand the process of manufacturing and to communicate requirements and expectations on deliveries. When needed, international traveling to customers/manufacturers can occur. You shall also keep yourself updated with the latest electrical standards and regulations.
+
+Your profile
+
+We are looking for a person with strong personal drive and result-focused. You shall perform your tasks with profound investigations and have the ability to independently gather information from all possible sources. Your working method shall be systematic with written documentation as a normal standard. Your personal skills are:
+
+- Language skills in Swedish and English are required
+- Bachelor or Master of Science degree in electrical/software engineering or corresponding education or corresponding work experience
+- Structured with drive and quality awareness
+- Communicative and accurate
+- See solutions to complex problems
+- Programming skills in C/C++, Python, VHDL, and/or LABview
+- Experience from CAD of PCB is a merit
+- Experience of Cadence Allegro is a merit
+- Experience in Component engineering is a merit
+- Driver's license for car is a merit
+
+This position requires that you pass a security vetting based on the current regulations around/of security protection. For positions requiring security clearance, additional obligations on citizenship may apply.
+
+What you will be a part of

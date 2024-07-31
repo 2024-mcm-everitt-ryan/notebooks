@@ -1,0 +1,29 @@
+Company: Terry-Morton
+
+Job Title: Senior Infrastructure Architect
+
+About Us:
+Terry-Morton is a leading technology firm dedicated to delivering innovative solutions to clients worldwide. We value the richness that diversity brings to our team and strive to create an inclusive environment where everyone can thrive.
+
+Job Description:
+We are seeking an experienced Senior Infrastructure Architect to join our team. As a Senior Infrastructure Architect, you will be responsible for designing and implementing scalable infrastructure solutions that meet our clients' needs. You will work closely with our development teams to ensure seamless integration of infrastructure with application development.
+
+Responsibilities:
+- Design and implement infrastructure solutions that meet clients' needs
+- Collaborate with development teams to ensure seamless integration of infrastructure with application development
+- Ensure infrastructure solutions are scalable, secure, and meet industry standards
+- Develop and maintain technical documentation of infrastructure designs and implementations
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- At least 5 years of experience in infrastructure architecture
+- Strong understanding of cloud-based infrastructure solutions
+- Excellent communication and collaboration skills
+
+Benefits:
+- Salary range: $120,000 - $150,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment

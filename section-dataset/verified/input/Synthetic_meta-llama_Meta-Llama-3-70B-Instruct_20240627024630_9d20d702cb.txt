@@ -1,0 +1,30 @@
+Company: Shepherd-Bishop
+Role: Mobile Engineer Intern
+
+About Us:
+Shepherd-Bishop is a leading mobile application development company dedicated to creating innovative solutions for our clients. We foster an inclusive culture that values diversity, equity, and inclusion.
+
+Job Description:
+We are seeking a highly motivated Mobile Engineer Intern to join our team. As a Mobile Engineer Intern, you will be responsible for developing and maintaining our mobile applications.
+
+Responsibilities:
+- Collaborate with our team of engineers to design, develop, and deploy mobile applications
+- Develop high-quality, reusable code that meets our coding standards
+- Participate in code reviews and ensure that solutions are aligned with industry best practices
+- Troubleshoot and debug application issues
+- Stay up-to-date with industry trends and emerging technologies
+
+Qualifications:
+- Currently pursuing a degree in Computer Science, Information Technology, or a related field
+- Proficiency in Java, Swift, or Kotlin
+- Experience with mobile application development frameworks such as React Native or Flutter
+- Strong problem-solving skills and attention to detail
+- Excellent communication and teamwork skills
+- Knowledge of German is an asset
+
+Benefits:
+- Internship salary of $20 per hour
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options
+- Access to the latest technologies and tools

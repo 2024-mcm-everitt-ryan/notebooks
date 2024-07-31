@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::6148e29f1bad341ec5903aad::linkedin_ph::0",
+    "label_age":true,
+    "analysis_age":"The requirement for \"10-15 years web and desktop application development work experience\" could potentially exclude younger candidates who may not have had the opportunity to gain that many years of experience, even if they possess the necessary skills and qualifications.",
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":true,
+    "analysis_masculine":"The job description uses language that may subtly favour male candidates, such as \"Strong leadership skills\" and \"Result oriented\", which are often associated with masculine stereotypes in the workplace.",
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":false,
+    "analysis_racial":null,
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":" 10-15 years web and desktop application development work experience. Experienced with JSON, Angular, JQuery, AJAX, XML and REST web services. Experienced with MongoDB, MySQL and PostgreSQL database. Experienced with developing web applications using ASP. Net and PHP. Experienced with developing desktop applications and service using C. Net, C. and Java. Experienced in cloud technologies (AWS, Azure and Google cloud). Experienced in Android mobile application development. Result oriented, able to work in a team environment as well as independently. Strong analytical and problem-solving skills. Strong administrative\/organizational skills (ability to effectively prioritize, manage time, and meet deadlines for multiple projects). Strong leadership skills. Experienced in SCRUM agile methodology. Advance knowledge in Sharepoint administration and application development. Advance knowledge in multithreading and socket programming. Advance knowledge in telephony, VoIP and video streaming technology. Advance knowledge in Git. Amazon Connect cloud contact center administration and integration. Experienced in Kubernetes. Experienced in setting-up CI\/CD pipeline using Jenkins. Advance knowledge in Microservice architecture.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::6148e29f1bad341ec5903aad::linkedin_ph\", \"source\": \"linkedin_ph\", \"country\": \"PH\", \"company\": \"Concentrix\", \"position\": \"Senior Professional II - Software Architect\", \"notes\": \"\", \"original\": \"10-15 years web and desktop application development work experience<br><ul><li> Experienced with JSON, Angular, JQuery, AJAX, XML and REST web services<\/li><li> Experienced with MongoDB, MySQL and PostgreSQL database<\/li><li> Experienced with developing web applications using ASP.Net and PHP<\/li><li> Experienced with developing desktop applications and service using C#.Net, C++ and Java<\/li><li> Experienced in cloud technologies (AWS, Azure and Google cloud)<\/li><li> Experienced in Android mobile application development<\/li><li> Result oriented, able to work in a team environment as well as independently<\/li><li> Strong analytical and problem-solving skills<\/li><li> Strong administrative\/organizational skills (ability to effectively prioritize, manage time, and meet deadlines for multiple projects)<\/li><li> Strong leadership skills<\/li><li> Experienced in SCRUM agile methodology<\/li><li> Advance knowledge in Sharepoint administration and application development<\/li><li> Advance knowledge in multithreading and socket programming.<\/li><li> Advance knowledge in telephony, VoIP and video streaming technology<\/li><li> Advance knowledge in Git.<\/li><li> Amazon Connect cloud contact center administration and integration<\/li><li> Experienced in Kubernetes<\/li><li> Experienced in setting-up CI\/CD pipeline using Jenkins.<\/li><li> Advance knowledge in Microservice architecture<\/li><\/ul>\"}"
+}

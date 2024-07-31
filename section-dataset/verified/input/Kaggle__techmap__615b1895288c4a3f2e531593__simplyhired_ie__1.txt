@@ -1,0 +1,29 @@
+The IFDS Europe Information Security Office is built on 5 pillars:
+- Governance & Oversight
+- Client Engagement
+- Training & Awareness
+- Incident Management
+- ISO by Design
+
+The ISO has responsibility for the overall framework, policy adherence, and day-to-day tasks across each of the 5 pillars. IFDS Technology is provided by a combination of Group/JV technology functions and other 3rd party software providers. A key element of the role is developing a detailed understanding of the Information Security model, principles, and controls adopted by each of these providers and to act as the primary Oversight partner for these services.
+
+THE KEY RESPONSIBILITIES OF THE IFDS EUROPE INFORMATION SECURITY OFFICER ARE:
+- Own and maintain Information Security Policy and overall framework, ensuring both organisational compliance and alignment with regulatory bodies such as the Central Bank of Ireland, CSSF, and EBA.
+- Perform ongoing oversight of Group/JV Information Security functions and services – acting as primary liaison for all related MI/Reporting/Incident Management.
+- Partner with Group/JV Security, Governance, and Technology functions to align with strategic vision and goals – supporting significant projects as required.
+- Support annual or periodic Due Diligence requests from clients or prospects (i.e. presentations, questionnaires, RFP responses, etc.) and present at client board meetings as required.
+- Prepare quarterly Board reports and monthly Business Risk Committee reports on the current Information Security Posture for both Ireland and Luxembourg.
+- Communicate inherent security risks, awareness, and training to technical and non-technical business users.
+- Partner with the IT Vendor function and Risk & Compliance team on Information Security risk management activities including information security risk assessment, vendor reviews, and lead the remediation of identified gaps and issues.
+- Perform application ISRMP (Information Security Risk Management Profile) exercises and own overall programme of ISRMPs for IFDS applications.
+- Act as Senior Information Security escalation point for all significant incidents, issues, or ad hoc support requirements.
+- Day-to-day oversight and management of Information Security analyst.
+
+THE KEY COMPETENCIES / SKILLS / BEHAVIORS OF THE IFDS EUROPE INFORMATION SECURITY OFFICER ARE:
+- Ability to prioritise effectively and multitask efficiently.
+- SME knowledge and experience to provide technical input to strategic and operational initiatives within a large organization.
+- Strong technical experience in infrastructure, software, and hardware products and services.
+- Business-minded: ability to understand business challenges and opportunities.
+- Outstanding leadership, teamwork, and people management skills.
+- Demonstrated ability to work collaboratively and partner with employees, leaders, clients, and vendors, building trusted and sustainable relationships.
+- Demonstrated ability to work in a virtual organization.

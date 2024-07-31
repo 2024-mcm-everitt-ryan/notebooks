@@ -1,0 +1,34 @@
+Company: Jackson, Wells and Thomas
+
+Job Title: Senior Software Engineer – Development Lead
+
+About Us:
+Jackson, Wells and Thomas is a leading software development firm dedicated to creating innovative solutions for our clients. We take pride in our diverse and inclusive work environment, where everyone has the opportunity to grow and thrive.
+
+Job Description:
+We are seeking an experienced Senior Software Engineer to lead our development team. As a Development Lead, you will be responsible for overseeing the design, development, and deployment of our software products. You will lead a team of skilled engineers, mentor junior developers, and collaborate with cross-functional teams to deliver high-quality products.
+
+Responsibilities:
+- Lead the development team to design, develop, and deploy software products
+- Mentor and guide junior developers to improve their skills and knowledge
+- Collaborate with cross-functional teams to identify and prioritize project requirements
+- Develop and implement best practices for code quality, testing, and deployment
+- Stay up-to-date with industry trends and emerging technologies
+
+Qualifications:
+- Bachelor's or Master's degree in Computer Science or a related field
+- 5+ years of experience in software development, with at least 2 years in a leadership role
+- Proficiency in multiple programming languages, including Java and Python
+- Strong understanding of software development life cycles, agile methodologies, and version control systems
+- Excellent leadership, communication, and problem-solving skills
+
+Benefits:
+- Salary range: $120,000 - $150,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options
+
+We are committed to building a team that reflects a variety of racial and ethnic backgrounds. We encourage applications from candidates of diverse racial and ethnic backgrounds, including but not limited to candidates of African, Asian, Latin American, and Indigenous descent.

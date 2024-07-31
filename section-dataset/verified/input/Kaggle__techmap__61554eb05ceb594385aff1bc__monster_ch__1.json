@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::61554eb05ceb594385aff1bc::monster_ch::1",
+    "label_age":false,
+    "analysis_age":null,
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":false,
+    "analysis_masculine":null,
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":true,
+    "analysis_racial":"Stating a preference for an \"English native speaker\" could introduce a bias towards native English-speaking candidates, potentially excluding those who are fluent in English but not native speakers. This could be perceived as discriminatory. Instead, the requirement could be softened to \"proficiency or fluency in English.\" Additionally, specifying \"EU passport holders or Swiss passport or Swiss working permit\" is a legal requirement, not a bias. However, it's crucial to clearly state that this is a legal necessity rather than a preference to avoid any perception of discrimination.",
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":"A family living in Geneva in the Vessy area is looking for a Nanny for their three kids, two girls of 5 and 7 years old and a boy of 3 years old. The kids are going to school in Champel, which is 10 mins driving from Vessy. The job is to start as soon as possible. Ideal candidate: The nanny will be responsible, reliable, friendly with the kids, previous experience working with children. Driving license is mandatory, if the nanny has a car it would be a big plus. Conditions: Medium-Long term \/ Live-out contract. Hours : (19h\/20h per week): Monday, Tuesday, Thursday Friday 16-19h. Wednesday 12-19h. The job is mainly: pick them up from school, take them to extracurricular practice and\/or home, heat up dinner and wait for us to come back from work. They might need some help with homework from time to time. - EU passport holders or Swiss passport or Swiss working permit. Driving license mandatory + nanny's car if possible. Experience with children. Good references that we can validate. English native speaker. Long term. Working area. Salary TBC.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::61554eb05ceb594385aff1bc::monster_ch\", \"source\": \"monster_ch\", \"country\": \"CH\", \"company\": \"Good-People\", \"position\": \"Nanny\/babysitter Vessy\", \"notes\": \"\", \"original\": \"<p>A family living in Geneva in the Vessy area is looking for a Nanny for their three kids, two girls of 5 and 7 years old and a boy of 3 years old. The kids are going to school in Champel, which is 10 mins driving from Vessy.<\/p><p><em><strong>The job is to start as soon as possible<\/strong><\/em><\/p><p><strong>Ideal candidate<\/strong>: The nanny will be responsible, reliable, friendly with the kids, previous experience working with children. Driving license is mandatory, if the nanny has a car it would be a big plus. <\/p><p><strong>Conditions<\/strong>: Medium-Long term \/ Live-out contract<\/p><p><strong>Hours<\/strong> : (19h\/20h per week):<\/p><p>Monday, Tuesday, Thursday Friday 16-19h<\/p><p>Wednesday 12-19h<\/p><p><strong>The job is mainly<\/strong>: pick them up from school, take them to extracurricular practice and\/or home, heat up dinner and wait for us to come back from work. They might need some help with homework from time to time.<\/p><p>- EU passport holders or Swiss passport or Swiss working permit<\/p><p>- Driving license mandatory + nanny's car if possible<\/p><p>- Experience with children<\/p><p>- Good references that we can validate<\/p><p>- English native speaker<\/p><p>- Long term<\/p><p>- Working area<\/p><p>- Salary TBC<\/p>\"}"
+}

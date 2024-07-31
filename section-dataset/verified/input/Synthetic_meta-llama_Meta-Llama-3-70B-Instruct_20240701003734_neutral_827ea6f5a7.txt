@@ -1,0 +1,27 @@
+Company: Cordova-Aguirre
+
+Job Type: Unix System Administrator
+
+About Us:
+Cordova-Aguirre is a leading technology firm that provides innovative solutions to businesses worldwide. We value diversity, equity, and inclusion, and strive to create a workplace where everyone can thrive.
+
+Job Description:
+We are seeking an experienced Unix System Administrator to join our team. As a Unix System Administrator, you will be responsible for ensuring the smooth operation of our Unix-based systems, including installation, configuration, and maintenance of hardware and software.
+
+Responsibilities:
+
+ Install, configure, and maintain Unix-based systems, including hardware and software
+ Monitor system performance and troubleshoot issues as needed
+ Implement security measures to protect against cyber threats
+ Collaborate with cross-functional teams to resolve technical issues
+ Develop and maintain technical documentation
+
+Qualifications and Experience:
+ Bachelor's degree in Computer Science or related field
+ 3+ years of experience in Unix system administration
+ Strong knowledge of Unix operating systems, including Linux and Solaris
+ Experience with scripting languages, such as Perl and Python
+ Excellent problem-solving and analytical skills
+
+Perks and Benefits:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD per year, based on your experience and skills. We also offer a comprehensive benefits package, including medical, dental, and vision insurance, retirement plan matching, and paid time off.

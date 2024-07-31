@@ -1,0 +1,44 @@
+We are a young and unconventional software company created in 2011 by experienced pricing software and pricing consulting professionals. As the first pureplay, native Cloud and SaaS provider in our industry, Pricefx became and intends to stay the leading SaaS Pricing (Price Optimisation & Management) and CPQ (Configure-Price-Quote) vendor. 
+
+We are an agile company that brings good ideas to life quickly and is committed to market-driven innovation. Our flexibility means our customers come from diverse industries and sizes with brands like Michelin, Sonoco, Solenis, Dana, Avery Dennison, Robert Bosch, etc. We are a solid and sustainable company which is and will be strongly growing globally for the years ahead. It's a great time to join us and grow with us worldwide. 
+
+You can find out more about us: [URL Redacted].
+
+Your mission? 
+You will be part of the new team responsible for an infrastructure, where Pricefx application is running. The team is prepared to jump in when issues occur, is proactive to avoid future problems whenever possible, and plans for growth and new demands. 
+
+You will be in charge of:
+- Investigation of issues in HW, Linux, Networks, Databases.
+- Performance tuning.
+- Installations, configurations, deployments.
+- Automatization.
+- Work on standards and documentation.
+
+What should you have to succeed?
+- Linux administration ideally Debian.
+- MariaDB/MySQL, PostgreSQL administration, tuning, replications.
+- At least basic networking knowledge, DNS, VPN, firewall.
+- Apache, HAProxy.
+- ELK stack.
+- Prometheus.
+- Salt Stack.
+- AWS.
+- Ability to speak English fluently (written and communication skills at B2 level or higher is a must).
+
+This would make it easier:
+- Pricing knowledge and an IT background.
+- CPQ experience.
+- SaaS experience.
+
+Other job specifics:
+- After fully completed training, we will expect you to help us with the weekend standby duties. The rotation basis is approx. once a month including other Site Reliability Engineers.
+- Applicants need to have permission to live and work in the Czech Republic (we do not provide any assistance with work permit transcript).
+- We offer a full-time employment contract (part-time or freelance cooperation is not possible for this role).
+- We are looking for people to work on-site after a lift of current restrictions (under normal circumstances, this role is not a remote one, although the home office is possible upon agreement).
+- We require a clean criminal record.
+
+Location:
+Czech Republic - Prague / Hradec Kralove / Ostrava.
+
+What will you love about us?
+Your opinion matters here.

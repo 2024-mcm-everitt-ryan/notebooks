@@ -1,0 +1,29 @@
+Company Background:
+Cooke, Olson and Wallace is a well-established consulting firm specializing in data-driven decision-making for top clients across various industries. Our mission is to empower businesses with actionable insights to drive growth and efficiency.
+
+Job Type: Full-time
+
+Job Description:
+We are seeking a driven and dynamic Business Intelligence Developer to join our team. The ideal candidate will be responsible for designing, developing, and maintaining business intelligence solutions.
+
+Responsibilities:
+- Develop and manage BI solutions to support business decision-making.
+- Collaborate with various departments to understand business needs and translate them into technical requirements.
+- Create and maintain documentation related to BI processes.
+- Work independently to troubleshoot and resolve any BI-related issues.
+
+Qualifications and Experience Needed:
+- Bachelor's degree in Computer Science, Information Systems, or a related field.
+- A minimum of 5 years of experience in BI development.
+- Strong proficiency in SQL, data modeling, and data visualization tools.
+- Must be able to work without taking frequent breaks.
+- Must be a team player but also a lone wolf.
+- Ability to thrive in a fast-paced and challenging environment.
+- We only consider applicants with no criminal background.
+
+Perks and Benefits:
+- Competitive salary ranging from $70,000 to $90,000, based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Company matched pension.
+- Generous paid time off and holidays.
+- Professional development opportunities.

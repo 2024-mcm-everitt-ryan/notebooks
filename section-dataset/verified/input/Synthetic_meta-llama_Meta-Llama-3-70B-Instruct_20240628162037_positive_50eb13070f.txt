@@ -1,0 +1,30 @@
+Company: Wright-Martin
+
+Job Title: Database Administrator
+
+Join our dynamic team at Wright-Martin as a Database Administrator, where you will play a critical role in ensuring the integrity and efficiency of our database systems. As a committed equal opportunities employer, we value diversity and inclusion in the workplace.
+
+Job Description:
+We are seeking a highly skilled Database Administrator to manage, maintain, and optimize our database systems. The ideal candidate will have strong technical expertise, excellent problem-solving skills, and the ability to work collaboratively with our development teams.
+
+Responsibilities:
+
+ Design, implement, and maintain database architectures to meet business needs
+ Ensure database performance, scalability, and security
+ Collaborate with development teams to optimize database queries and troubleshoot issues
+ Develop and maintain database documentation and standards
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Information Technology, or related field
+ 3+ years of experience as a Database Administrator
+ Strong knowledge of database management systems, including MySQL and Oracle
+ Excellent problem-solving skills and attention to detail
+
+Perks and Benefits:
+
+ We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills.
+ Comprehensive health insurance and retirement benefits
+ Opportunities for professional growth and development
+ Flexible working hours and remote work options
+ Our commitment to diversity includes encouraging candidates with disabilities to apply. We value an inclusive team and provide reasonable accommodations to ensure equal opportunities for all.

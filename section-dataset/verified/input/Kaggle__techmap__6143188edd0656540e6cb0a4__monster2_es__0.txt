@@ -1,0 +1,38 @@
+ENGINEERING MANAGEMENT
+
+Summary
+
+Love Wikipedia and its sibling projects? The Wikimedia Foundation is an inclusive employer, and we are looking for experienced engineering management to join our team, reporting to engineering leadership in Technology and Product Engineering. We're committed to making knowledge available to everyone globally. This is an opportunity to do good while improving what we think is the best place on the internet.
+
+You know how to build a sustainable culture, showing empathy for users and employees, a collaborative mindset, and data-informed systems thinking. You are passionate about growing people, helping software engineers achieve their career goals while also creating amazing opportunities for them to flourish and improve technically. In this role, you will work in a distributed remote environment, where we value teamwork and a consensus-oriented approach as we build fully open source software. You are a proactive and collaborative partner with product management, design, quality & test engineering, technical program management, and community relations. You will manage highly skilled engineers, who ship quality software used by over a billion users, empowering them to do their best work.
+
+Travel is not currently required due to the pandemic. During normal non-pandemic times, some travel is expected, usually 3-4 times per year.
+
+You are responsible for:
+
+- Fostering a supportive team environment, ensuring diverse voices are heard.
+- Guiding team members with structured development techniques.
+- Coaching engineers in the art and science of software engineering and evolvable software architecture.
+- Participating in hiring considerate of diversity, equity, and inclusion.
+- Partnering with peers on cross-team delivery and radiating organizational updates.
+- Facilitating product technical strategy and roadmap setting with software engineers and technical product management.
+- Supervising budget and staffing.
+
+Skills and Experience:
+
+- Expertise in consumer-facing internet technology for large and diverse audiences.
+- History of developing high productivity engineering teams.
+- BS/MS/Ph.D. in Computer Science or other relevant technical field or the equivalent in work experience.
+
+Qualities that are important to us:
+
+- A desire to make meaningful contributions to knowledge equity, free culture, and open access.
+- Clear communication in both synchronous and asynchronous channels.
+
+Additionally, we'd love it if you have:
+
+- Fluency in one or more regional languages of Africa or Asia.
+- Experience with service-based and streaming architectures.
+- Familiarity with Wikipedia / wikitext / markdown editing or content management systems (e.g., MediaWiki, Drupal, WordPress).
+
+We grow and care for MediaWiki and Wikimedia-specific services.

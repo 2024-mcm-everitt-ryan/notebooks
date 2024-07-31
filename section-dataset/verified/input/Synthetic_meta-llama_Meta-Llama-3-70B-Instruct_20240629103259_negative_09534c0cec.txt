@@ -1,0 +1,23 @@
+Company Background:
+Abbott-Jordan is a cutting-edge technology firm dedicated to delivering innovative solutions to clients globally. We pride ourselves on our fast-paced and dynamic work environment, where talented individuals can thrive and grow.
+
+Job Type:.NET Developer
+
+Job Description:
+We are seeking a highly skilled.NET Developer to join our team of experts. As a.NET Developer at Abbott-Jordan, you will be responsible for designing, developing, and maintaining our software applications. If you have a strong passion for coding and a keen eye for detail, we want to hear from you.
+
+Responsibilities:
+
+ Collaborate with cross-functional teams to identify and prioritize project requirements
+ Develop high-quality, testable, and scalable code using.NET framework
+ Troubleshoot and debug code issues, optimizing application performance
+ Participate in code reviews, ensuring adherence to best practices and standards
+
+Qualifications and Experience:
+ 3+ years of experience in.NET development
+ Bachelor's degree in Computer Science or related field
+ Proficiency in C#,.NET framework, and SQL Server
+ Strong problem-solving skills and attention to detail
+
+Perks and Benefits:
+We offer a salary ranging from $70,000 to $90,000 USD, based on your experience and skills. Our comprehensive benefits package includes medical insurance, retirement planning, and paid time off. We are committed to fair and equitable pay practices and provide opportunities for professional growth and development.

@@ -1,0 +1,31 @@
+Company: Garcia-Kelly
+Job Title: Data and Information Management Co-op (Intern)
+
+About Us:
+Garcia-Kelly is a leading provider of data management solutions, dedicated to helping organizations make informed decisions. We are committed to fostering a diverse and inclusive workplace culture.
+
+Job Description:
+We are seeking a highly motivated and detail-oriented Data and Information Management Co-op (Intern) to join our team. As a Data and Information Management Co-op (Intern), you will play a key role in managing and analyzing data to drive business insights. This is an excellent opportunity to gain hands-on experience in a dynamic and fast-paced environment.
+
+Responsibilities:
+- Assist in data quality control and data visualization projects
+- Develop and maintain databases, data warehouses, and data pipelines
+- Collaborate with cross-functional teams to identify business needs and develop data-driven solutions
+- Work closely with the data analytics team to develop and implement data models
+- Stay up-to-date with industry trends and emerging technologies
+
+Qualifications:
+- Currently enrolled in a degree program in Computer Science, Information Systems, or a related field
+- Strong understanding of database management systems and data modeling
+- Proficiency in SQL and data visualization tools
+- Excellent analytical and problem-solving skills
+- Strong communication and teamwork skills
+
+Benefits:
+- Hourly rate of $20
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible work arrangements, including remote work options
+
+How to Apply:
+If you are a motivated and detail-oriented individual with a passion for data management, please submit your application, including your resume and a cover letter.

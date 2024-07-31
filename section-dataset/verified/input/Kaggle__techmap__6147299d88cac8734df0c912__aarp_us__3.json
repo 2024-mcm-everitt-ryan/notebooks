@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::6147299d88cac8734df0c912::aarp_us::3",
+    "label_age":false,
+    "analysis_age":null,
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":false,
+    "analysis_masculine":null,
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":false,
+    "analysis_racial":null,
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":"About who needs care: Can't walk anymore. Pleasant and sweet. Has her wits about her. Sleeps often. Goes to dialysis 3 days a week. About the care needs: Friendly and caring. Patient and honest. Services needed include: feeding, and bathing \/ dressing.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::6147299d88cac8734df0c912::aarp_us\", \"source\": \"aarp_us\", \"country\": \"US\", \"company\": \"Care.com\", \"position\": \"Seeking Senior Care Provider Nesquehoning\", \"notes\": \"\", \"original\": \"About who needs care: Can't walk anymore. Pleasant and sweet. Has her wits about her. Sleeps often. Goes to dialysis 3 days a week. \\n\\nAbout the care needs: Friendly and caring. Patient and honest.\\n\\nServices needed include: feeding, and bathing \/ dressing.\"}"
+}

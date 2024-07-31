@@ -1,0 +1,30 @@
+Company Background:
+Johnson Ltd is an innovative leader in cloud solutions, specializing in Metacloud OpenStack. We pride ourselves on delivering top-notch services to our global clientele through our dedicated and cohesive team.
+
+Job Type:
+Full-Time
+
+Job Description:
+We are seeking a Software Cloud Architect with expertise in Metacloud OpenStack to join our dynamic team. This role involves designing and implementing cloud architecture solutions, optimizing performance, and ensuring seamless integration within our existing infrastructure.
+
+Responsibilities:
+- Design and implement scalable cloud solutions using Metacloud OpenStack.
+- Collaborate with cross-functional teams to ensure seamless integration.
+- Monitor and optimize cloud performance.
+- Ensure security and compliance with industry standards.
+- Provide technical guidance and support to team members.
+
+Qualifications and Experience Needed:
+- Bachelor’s degree in Computer Science or related field.
+- Minimum of 5 years of experience in cloud architecture, specifically with Metacloud OpenStack.
+- Must be able to integrate into our team effectively.
+- Seeking someone with a familiar mindset.
+- Strong problem-solving skills and attention to detail.
+- Excellent communication and leadership abilities.
+
+Perks and Benefits:
+- Salary range: $120,000 - $150,000 per year, with performance-based bonuses.
+- Comprehensive health and dental insurance.
+- Opportunities for professional development and career growth.
+- Flexible work hours and remote work options.
+- Collaborative and inclusive work environment.

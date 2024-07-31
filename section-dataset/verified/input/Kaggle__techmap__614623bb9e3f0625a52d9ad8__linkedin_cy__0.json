@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::614623bb9e3f0625a52d9ad8::linkedin_cy::0",
+    "label_age":false,
+    "analysis_age":null,
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":false,
+    "analysis_masculine":null,
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":false,
+    "analysis_racial":null,
+    "label_sexuality":true,
+    "analysis_sexuality":"The phrase \"he \/she\" can be seen as excluding those who do not identify as male or female.",
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":" The Sales Executive will be part of the Sales Department and the main responsibilities will be to promote sales of the Companys properties and to meet the Companys customer acquisition and revenue growth objectives. He \/ She will be responsible for selling the companys properties and expand, work and assist the Agent \/ Introducer network of the Company for promoting the project. The Sales Executive should use his\/her knowledge of the property market and their experience to match clients needs. The Company offers an attractive remuneration package based on qualifications and experience, including Medical Insurance as well as excellent opportunities for career development and advancement. If you believe that this opening sounds challenging, send your CV to marinaayianapa. com. The Employees normal place of work is in Ayia Napa Marina.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::614623bb9e3f0625a52d9ad8::linkedin_cy\", \"source\": \"linkedin_cy\", \"country\": \"CY\", \"company\": \"Ayia Napa Marina\", \"position\": \"Sales Executive\", \"notes\": \"\", \"original\": \"The Sales Executive will be part of the Sales Department and the main responsibilities will be to promote sales of the Company\\u2019s properties and to meet the Company\\u2019s customer acquisition and revenue growth objectives. He \/ She will be responsible for selling the company\\u2019s properties and expand, work and assist the Agent \/ Introducer network of the Company for promoting the project. The Sales Executive should use his\/her knowledge of the property market and their experience to match clients\\u2019 needs.<br><br>The Company offers an attractive remuneration package based on qualifications and experience, including Medical Insurance as well as excellent opportunities for career development and advancement. If you believe that this opening sounds challenging, send your CV to careers@marinaayianapa.com.<br><br>The Employee\\u2019s normal place of work is in Ayia Napa Marina.\"}"
+}

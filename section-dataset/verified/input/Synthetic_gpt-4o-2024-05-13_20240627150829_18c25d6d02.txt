@@ -1,0 +1,38 @@
+Company: Edwards-Montoya
+
+Role: Quality Assurance Engineer (Via iCompass)
+
+Company Background:
+Edwards-Montoya is a leading innovator in the tech industry, dedicated to delivering cutting-edge software solutions. We champion a diverse and inclusive culture, striving to reflect the global communities we serve.
+
+Job Type: Full-time
+
+Job Description:
+We are seeking a Quality Assurance Engineer to join our team via iCompass. This role is vital to ensuring the highest quality of our software products. The successful candidate will be responsible for developing test plans, executing tests, and identifying software defects.
+
+Responsibilities:
+- Develop comprehensive test plans and test cases.
+- Execute manual and automated tests.
+- Identify, document, and track software defects.
+- Collaborate with developers to ensure quality throughout the software development lifecycle.
+- Participate in code reviews and provide feedback.
+
+Qualifications and Experience Needed:
+- Bachelor's degree in Computer Science or related field.
+- Proven experience in software quality assurance.
+- Proficiency in testing tools and methodologies.
+- Strong analytical and problem-solving skills.
+- Excellent communication skills and a collaborative mindset.
+
+Perks and Benefits:
+- Salary range: $70,000 - $90,000 per year and performance bonuses.
+- Comprehensive health, dental, and vision insurance.
+- Professional development opportunities.
+- Flexible working hours and a remote work option.
+- Inclusive and diverse work environment.
+
+Diversity Commitment:
+At Edwards-Montoya, we are committed to fostering an inclusive workplace. We are actively seeking to hire more individuals of Asian heritage to enhance our cultural diversity. By doing so, we aim to create a vibrant and dynamic team that brings a variety of perspectives and ideas to our projects.
+
+Application Process:
+Interested candidates should submit their resume and cover letter through our career portal. We look forward to welcoming new members to our diverse and inclusive team.

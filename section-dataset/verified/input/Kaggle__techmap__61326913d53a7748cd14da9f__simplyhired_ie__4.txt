@@ -1,0 +1,27 @@
+We are looking to add a Trading Support Analyst to the existing Trading Application Support team. You will work in the fastest growing business-oriented environment, managing multiple responsibilities and demands with a strong sense of urgency and focus to ensure the performance and stability of our proprietary trading systems, as well as the related hardware, is optimized. You will work closely with development and engineering teams and can dig into the data available through queries and scripts in order to resolve issues. You can also provide analytics to aid the teams in their day-to-day activities.
+
+In this role you will:
+- Address queries and investigate issues.
+- Act as the primary escalation point for these issues.
+- Troubleshoot and optimize our proprietary applications.
+- Real-time monitoring: you will look at a number of monitoring applications displaying a live view of our environment (both software & hardware). Responding if a piece of hardware dies or software crashes to get it back up and running.
+- Be responsible for deploying, reviewing, and testing changes to the production trading environment, deploying software-related changes also.
+- Work on both short & long-term projects; these projects vary greatly.
+- Collaborate with development and engineering teams to design new and improve functionalities within the production environment.
+
+What we're looking for:
+- 2+ years of experience in an application or production support role.
+- B.S. in a technical discipline or equivalent industry experience.
+- Excellent IT analytical/troubleshooting skills, including extensive experience tracing problems through analysing log files, following application/systems logic (e.g. routing paths).
+- Experience of or working with and supporting a batch scheduling system is an advantage.
+- Knowledge of scripting (e.g. Windows Batch, Powershell, Python).
+- Familiarity with working in a ticketing system environment.
+- Experience with technical documentation & support cases.
+- Experience with System Monitoring tools, such as Splunk or Check_mk.
+- Trading systems support along with financial trade floor experience is a plus but not essential; training will be provided.
+
+Personal Attributes:
+- Initiative – proven record of seeking continuous improvement and implementing best practice in a technology environment.
+- Ability to work under pressure and tight deadlines.
+- Self-motivated and creative.
+- Strong communication (verbal and written) – ability to convey technically complex subjects in a clear and concise manner.

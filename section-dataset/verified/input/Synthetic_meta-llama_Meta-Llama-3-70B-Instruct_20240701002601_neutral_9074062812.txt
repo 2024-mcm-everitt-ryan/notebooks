@@ -1,0 +1,26 @@
+Job Title: Senior Windows Administrator
+Company: Austin, Warner and Wilson
+
+About Us:
+Austin, Warner and Wilson is a leading IT consulting firm that provides innovative solutions to businesses of all sizes. Our team of experts is dedicated to delivering exceptional service and support to our clients.
+
+Job Description:
+We are seeking a highly skilled Senior Windows Administrator to join our team. As a Senior Windows Administrator, you will be responsible for managing and maintaining our Windows-based infrastructure, ensuring high availability, and resolving complex technical issues. You will work closely with our team of IT professionals to design, implement, and support our clients' IT systems.
+
+Responsibilities:
+
+ Manage and maintain Windows servers, including patches, updates, and troubleshooting
+ Design and implement Windows-based infrastructure solutions for our clients
+ Collaborate with cross-functional teams to resolve technical issues and improve system performance
+ Develop and maintain technical documentation and procedures
+ Provide training and support to junior team members
+
+Qualifications and Experience:
+ Bachelor's degree in Computer Science or related field
+ 5+ years of experience in Windows administration
+ In-depth knowledge of Windows Server operating systems, including Active Directory, DNS, and DHCP
+ Strong problem-solving skills and attention to detail
+ Excellent communication and teamwork skills
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $90,000 to $120,000 USD per year, based on your experience and skills. Additionally, we offer a comprehensive benefits package, including medical, dental, and vision insurance, retirement plan matching, and paid time off.

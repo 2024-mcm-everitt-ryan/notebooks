@@ -1,0 +1,35 @@
+Company: Villanueva-Perry
+
+Job Title: Senior Staff Engineer - DSP
+
+About Us:
+Villanueva-Perry is a leading provider of digital signal processing solutions. Our team of experts is dedicated to developing innovative technologies that transform industries. We foster a collaborative environment that values diversity, equity, and inclusion.
+
+Job Description:
+We are seeking an experienced Senior Staff Engineer - DSP to join our team. As a Senior Staff Engineer, you will lead the design, development, and implementation of digital signal processing algorithms for our flagship products. You will collaborate with cross-functional teams to identify and prioritize project requirements, ensuring timely delivery of high-quality solutions.
+
+Responsibilities:
+- Lead the development of digital signal processing algorithms for our flagship products
+- Collaborate with cross-functional teams to identify and prioritize project requirements
+- Ensure timely delivery of high-quality solutions
+- Provide technical guidance and mentorship to junior engineers
+- Stay up-to-date with industry trends and emerging technologies
+
+Qualifications:
+- Master's degree in Electrical Engineering, Computer Science, or a related field
+- 8+ years of experience in digital signal processing algorithm design and development
+- Proficiency in programming languages such as C++, Python, and MATLAB
+- Strong understanding of digital signal processing concepts and algorithms
+- Excellent communication and leadership skills
+
+Benefits:
+- Salary range: $120,000 - $150,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for career growth and professional development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options
+
+Equal Employment Opportunity:
+Villanueva-Perry is an equal opportunity employer. We believe that a diverse workforce is essential to our success. Our recruitment practices are fair and impartial, and we welcome applications from individuals of all backgrounds.

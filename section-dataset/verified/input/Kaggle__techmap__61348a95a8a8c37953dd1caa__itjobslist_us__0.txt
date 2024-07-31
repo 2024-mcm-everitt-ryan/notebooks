@@ -1,0 +1,25 @@
+Caden is a consumer data advocacy startup, currently operating in stealth mode. We're led by industry veterans, backed by powerhouse investors, and crewed by the brightest minds in the game. We exist to make the internet a better place for all.
+
+We are looking for a data scientist to join the team and own the data function. A successful candidate has deep technical expertise in applying AI/ML technologies in big data applications and/or adjacent domains, ideally has been through the entire lifecycle of an award-winning data product, and must be passionate about finding valuable insights in data. You will have the opportunity to work with a team of talented engineers, researchers, and data scientists to solve the most challenging consumer data problems.
+
+What You'll Do:
+- Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+- Apply advanced machine learning, data mining, statistical methods, algorithms, and time series models to vast amounts of user data to derive insights.
+- Enhance data collection procedures to include information that is relevant for building analytic systems.
+- Process, cleanse, and verify the integrity of data used for analysis.
+- Coordinate with different functional teams to implement models and monitor outcomes.
+- Perform ad-hoc analysis and present results in a clear manner.
+- Create machine learning-based AI models to enable and optimize workflow.
+
+What You Have:
+- Years of industry experience in applying AI/ML, preferably on well-known consumer data products or services.
+- Experience of applying AI/ML in more than one domain is highly desirable.
+- Hands-on experience using modern big data pipelines.
+- Natural language processing (NLP) and data mining experience are highly desirable.
+- Energetic self-starter, with the desire to work in a dynamic fast-paced environment.
+- Ability to think out-of-the-box and evaluate results based on customer value.
+- High-level degree / PhD in Computer Science, Statistics, Electrical Engineering, or equivalent technical degree.
+
+This role will work out of our downtown Manhattan office.
+
+Powered by JazzHR.

@@ -1,0 +1,31 @@
+Company: Henderson-Gross
+
+Job Title: Linux Administrator/DevOps Engineer
+
+About Us:
+Henderson-Gross is a leading technology firm that values diversity and inclusion. We believe that diverse perspectives and backgrounds are valued and contribute to our success.
+
+Job Description:
+We are seeking a skilled Linux Administrator/DevOps Engineer to join our team. The ideal candidate will have experience in Linux system administration, cloud infrastructure, and DevOps practices.
+
+Responsibilities:
+- Manage and maintain Linux-based systems, ensuring high uptime and availability
+- Collaborate with cross-functional teams to design and implement cloud infrastructure
+- Develop and maintain automation scripts using tools such as Ansible and Terraform
+- Participate in on-call rotations to provide 24/7 support
+
+Qualifications:
+- Bachelor's degree in Computer Science or a related field
+- At least 3 years of experience in Linux system administration
+- Experience with cloud providers such as AWS or Azure
+- Strong understanding of DevOps practices and tools
+
+Benefits:
+- Salary range: $80,000 - $100,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+
+We are an equal opportunities employer and welcome applications from all qualified candidates.

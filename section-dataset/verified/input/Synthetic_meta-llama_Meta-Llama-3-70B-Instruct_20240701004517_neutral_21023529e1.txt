@@ -1,0 +1,27 @@
+Company: Brown-Brown
+Role: IT Security Analyst
+
+About Us:
+Brown-Brown is a leading cybersecurity firm dedicated to protecting businesses from threats in the digital landscape. Our team of experts is committed to staying ahead of the curve, and we're seeking a skilled IT Security Analyst to join our ranks.
+
+Job Description:
+As an IT Security Analyst at Brown-Brown, you will play a critical role in identifying and mitigating security risks. Your expertise will help us strengthen our defenses and ensure the integrity of our clients' data. You will collaborate with our team to develop and implement effective security measures, conduct vulnerability assessments, and stay up-to-date with the latest threats and trends.
+
+Responsibilities:
+
+ Conduct security audits and risk assessments to identify vulnerabilities
+ Develop and implement security protocols and procedures
+ Collaborate with cross-functional teams to integrate security measures
+ Stay current with emerging threats and industry trends
+ Analyze and respond to security incidents
+
+Qualifications and Experience:
+
+ Bachelor's degree in Computer Science, Cybersecurity, or related field
+ 2+ years of experience in IT security or a related field
+ Strong understanding of security principles, threat analysis, and risk assessment
+ Excellent analytical and problem-solving skills
+ Ability to work effectively in a fast-paced environment
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $80,000 to $110,000 USD, based on your experience and skills. You'll also receive a comprehensive benefits package, including medical, dental, and vision insurance, as well as a retirement matching program.

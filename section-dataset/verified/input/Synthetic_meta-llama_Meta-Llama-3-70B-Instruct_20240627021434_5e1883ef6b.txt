@@ -1,0 +1,33 @@
+Job Title: Python Test Automation Engineer at Nest Labs (Client)
+Company: Stone PLC
+
+About Us:
+Stone PLC is a leading consultancy firm that partners with innovative companies like Nest Labs to deliver cutting-edge solutions. Our team is dedicated to excellence, and we're seeking a talented Python Test Automation Engineer to join our client's team.
+
+Job Description:
+We're looking for an experienced Python Test Automation Engineer to develop and maintain automated tests for our client's products. The ideal candidate will have a strong background in Python programming, experience with test automation frameworks, and excellent problem-solving skills.
+
+Responsibilities:
+- Design, develop, and execute automated tests for our client's products
+- Collaborate with cross-functional teams to identify and prioritize testing needs
+- Develop and maintain test scripts, test data, and test environments
+- Troubleshoot and debug testing issues
+- Participate in code reviews and ensure high-quality code
+
+Qualifications:
+- Bachelor's degree in Computer Science or a related field
+- At least 3 years of experience in test automation using Python
+- Strong understanding of software development life cycles and testing methodologies
+- Excellent problem-solving skills and attention to detail
+- Ability to work in a fast-paced environment and adapt to changing priorities
+
+What We Offer:
+- Salary range: $80,000 - $100,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for career growth and professional development
+- Collaborative and dynamic work environment
+- Flexible working hours and remote work options
+
+We're seeking candidates who can navigate corporate environments and have a strong understanding of our client's culture. If you're a team player who can easily adapt to our team, we encourage you to apply.

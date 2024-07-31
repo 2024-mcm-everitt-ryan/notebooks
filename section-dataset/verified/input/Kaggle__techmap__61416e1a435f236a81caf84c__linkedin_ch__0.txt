@@ -1,0 +1,27 @@
+Crossover is the world's #1 source of remote full-time jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+If you are a hands-on technical leader looking to create a bigger impact, then we think it's about time to get yourself out of the middle management trap. You've been a software engineer your whole career and proven yourself an effective technical leader. Shouldn't an elite engineer like you be the one making important decisions for your company?
+
+At Trilogy, management doesn't simply mean oversight. It means making important technical decisions. Trilogy is an enterprise software company, run by actual software engineers, not MBAs. We are looking for high-performing architects with hands-on technical leadership experience to spearhead the most important teams in our engineering department. We need technical experts to solve our most challenging software engineering problems. If you're looking to take charge in a high-stakes environment, we'd like to challenge you to lead a fast-scaling organization responsible for dozens of high-quality software releases per week.
+
+What You Will Be Doing
+- Software architecture design
+- Making important technical decisions based on product change requests
+- Deep Dive analysis: Analyze technical problems and opportunities to improve our software quality, getting all the way into the code
+- Writing Improvement Proposals: You will make technical recommendations to improve the quality of our software development, based on your deep dive findings
+
+What You Won't Be Doing
+- HR and administrative management: We want your technical expertise. We will never waste your time doing performance reviews, committees, etc.
+- Overseeing steady-state operations: Our culture is continuous improvement. If it's bad, fix it. If it's good, make it better.
+
+Technical Team Lead Key Responsibilities
+- Improving our software development operation: Based on your insights from reviewing a week's worth of work, you propose and implement big ideas to simplify the code, systematically improve quality, and scale our growing portfolio of over 100 B2B software products
+
+Basic Requirements
+- Technical/quantitative university degree
+- Years of experience writing code. You'll have to pass a coding test to get this job
+- Experience managing teams from multiple engineering functions (developers, designers, product managers, testers, etc.)
+
+Nice-to-have Requirements
+- Experience using deep work blocks to maximize quality and output
+- Experience working 100% remotely with asynchronous communication dominating how you collaborate

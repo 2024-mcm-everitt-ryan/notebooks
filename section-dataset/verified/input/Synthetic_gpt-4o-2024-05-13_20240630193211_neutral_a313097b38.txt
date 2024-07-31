@@ -1,0 +1,32 @@
+Company Background:
+Garcia PLC is a leading engineering firm specializing in innovative virtual system solutions. We are committed to creating diverse and inclusive work environments that nurture talent and encourage growth.
+
+Job Title: Virtual Systems Engineer
+
+Job Description:
+Garcia PLC is seeking a Virtual Systems Engineer to join our dynamic team. The ideal candidate will possess a strong background in virtual systems and cloud computing, with a keen eye for detail and a passion for problem-solving. They will work collaboratively with various departments to design, implement, and maintain virtual systems that meet our clients' needs.
+
+Responsibilities:
+- Design, implement, and manage virtual systems and cloud infrastructures.
+- Collaborate with cross-functional teams to ensure seamless integration of systems.
+- Monitor system performance and troubleshoot issues to ensure high availability.
+- Develop and maintain documentation for system configurations and processes.
+- Provide technical support and training to team members.
+
+Qualifications and Experience Needed:
+- Bachelor’s degree in Computer Science, Information Technology, or related field.
+- Minimum of 3 years of experience in virtual systems engineering or related roles.
+- Proficient in cloud platforms such as AWS, Azure, or Google Cloud.
+- Strong understanding of network configurations and security protocols.
+- Excellent problem-solving and analytical skills.
+- Ability to work independently and as part of a team.
+
+Perks and Benefits:
+- Competitive salary ranging from £50,000 to £70,000, based on experience and skills.
+- Comprehensive health insurance including dental and vision.
+- Flexible working hours and remote work options.
+- Professional development opportunities and certifications.
+- Inclusive and supportive work environment.
+
+Application Process:
+We encourage applications from individuals of all backgrounds and are committed to providing a fair and equitable hiring process. Please submit your resume and cover letter outlining your qualifications and experience.

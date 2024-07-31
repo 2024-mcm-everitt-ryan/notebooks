@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::614d8531485c2703de232477::dice_us::1",
+    "label_age":true,
+    "analysis_age":"The phrase \"Recent grads\" is biased against older qualified candidates.",
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":false,
+    "analysis_masculine":null,
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":false,
+    "analysis_racial":null,
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":true,
+    "analysis_general":"\"local candidates only\" is biased against anyone not from the local area.",
+    "verified":true,
+    "synthetic":false,
+    "text":". Volt is hiring for a. Manufacturing Engineeringto work onsite with our customer, John Deere located in Fargo, ND on a contingent assignment forecasted for 1 year. Looking for local candidates only. Qualifications: Knowledge of manufacturing principles or manufacturing experience. Recent grads with ME Degree\/ Industrial or Mechanical Engineering. Troubleshooting skills, able to work independently and lead small projects. Local candidates preferred. First shift position, M-F 8am \u2013 5pm (flexible). This position is subject to US Export Controls. Must be a US Citizen or lawful permanent resident. Volt provides highly skilled contingent workers to local, national and international clients in all major industries. Volt has over 60 years of experience and is a leader in the industry. We work with many of the Fortune 500 and 1000 companies to provide workforce solutions. We have a talented and upbeat staffing team focused on the quality of your career. We have a long-standing tradition of developing lasting and mutually beneficial relationships with our employees. Volt is an Equal Opportunity Employer",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::614d8531485c2703de232477::dice_us\", \"source\": \"dice_us\", \"country\": \"US\", \"company\": \"Volt Services Group\", \"position\": \"Manufacturing Engineer\", \"notes\": \"\", \"original\": \"<img src=&quot;https:\/\/counter.adcourier.com\/YmRleHRlci43MTgzNi40MDczQHZvbHRiaC5hcGxpdHJhay5jb20.gif&quot;><br \/><br \/><br \/><a rel=&quot;nofollow&quot; >Volt is hiring <\/a><a rel=&quot;nofollow&quot; >for a <b>Manufacturing Engineering <\/b>to work onsite with our customer, John Deere located in Fargo, ND on a contingent assignment forecasted for 1 year. Looking for local candidates only. <\/a><br \/>Qualifications:<ul><li>Knowledge of manufacturing principles or manufacturing experience.<\/li><li>Recent grads with ME Degree\/ Industrial or Mechanical Engineering<\/li><li>Troubleshooting skills, able to work independently and lead small projects.<\/li><li>Local candidates preferred<\/li><li>First shift position, M-F 8am &ndash; 5pm (flexible)<\/li><\/ul><br \/><b>This position is subject to US Export Controls. Must be a US Citizen or lawful permanent resident. <\/b><br \/>Volt provides highly skilled contingent workers to local, national and international clients in all major industries. Volt has over 60 years of experience and is a leader in the industry. We work with many of the Fortune 500 and 1000 companies to provide workforce solutions.<br \/>We have a talented and upbeat staffing team focused on the quality of your career. We have a long-standing tradition of developing lasting and mutually beneficial relationships with our employees.<br \/>Volt is an Equal Opportunity Employer\"}"
+}

@@ -1,0 +1,27 @@
+Moyer-James is seeking a highly skilled Performance QA Engineer (MTS 3) to join our team. As a Performance QA Engineer, you will be responsible for ensuring the quality and performance of our software products.
+
+- Collaborate with cross-functional teams to identify and resolve performance issues
+- Develop and execute tests to ensure product quality and reliability
+- Analyze data to identify trends and areas for improvement
+- Communicate findings and recommendations to stakeholders
+- Stay up-to-date with industry trends and emerging technologies
+
+Requirements:
+
+- Bachelor's degree in Computer Science or a related field
+- 5+ years of experience in performance testing and quality assurance
+- Proficient in languages such as Java, Python, or C++
+- Experience with performance testing tools such as JMeter, Gatling, or NeoLoad
+- Excellent problem-solving and communication skills
+- Fluent in English
+
+What We Offer:
+
+- Salary range: $90,000 - $120,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Recognition and rewards for outstanding performance
+- Flexible working hours and remote work options

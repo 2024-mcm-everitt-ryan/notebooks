@@ -1,0 +1,44 @@
+CRM Technical Consultant (M/F) Brussels
+
+Are you a strong relationship builder with a first experience in the software industry? Do you have strong development skills and want to interact more with customers from a functional perspective? Then you are probably the right fit to become our CRM Technical Consultant in Brussels.
+
+You will be part of the company's project department under the supervision of a Team Leader and will be in charge of carrying out consulting services.
+
+Your missions
+
+Not a day is the same at Efficy. As a CRM Technical Consultant, you have an important role to play for our customers and within our project delivery team. Thanks to your technical skills, you will implement and configure our Efficy solution on your own for our smaller projects. You will also have the opportunity to be part of bigger projects teams under the responsibility of a Project Manager and working together with other consultants and/or analysts and/or developers.
+
+Your daily tasks will be diverse and look like these:
+- Collect, identify and analyse the business requirements.
+- Write detailed functional specifications.
+- Advise the client in the expression of his needs.
+- Programming and configuration based on functional analysis (including unit testing).
+- Configuration of the application database & application database on clients' servers.
+- Support the customer during the testing phase.
+- Write technical specifications/documentation if needed.
+- Assist to technical meetings with the client if required.
+
+Profile
+
+As you are often in contact with our customers, you represent the company. Therefore, we expect the following minimum requirements:
+- You have a bachelor or master degree in IT and/or relevant experience.
+- 3 years of experience in a similar position or as a senior developer.
+- You are motivated and solution-oriented.
+- Autonomous and responsible.
+- Leadership and good communicator.
+- Spirit of analysis and synthesis.
+- Knowledge of CRM, accounting and business systems is an asset.
+- Knowledge of Dutch and English is required.
+
+Expected technical knowledge
+- Back and frontend web development.
+- JavaScript/Ajax/JQuery.
+- SQL.
+- SOAP/JSON/Webservices.
+- HTML/CSS (Native and SaSS).
+- Browser debugging, experience troubleshooting cross-browser compatibility issues.
+- Server side debugging.
+
+What do we offer?
+
+Of course, you will be well rewarded for bridging the gap to make sure the project team can deliver the best projects for our customers.

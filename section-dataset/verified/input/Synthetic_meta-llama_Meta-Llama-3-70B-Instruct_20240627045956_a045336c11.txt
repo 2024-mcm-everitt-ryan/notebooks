@@ -1,0 +1,32 @@
+Job Title: DevOps Architect - Cisco Cloud Services
+
+Company Background:
+Smith, Powers and Jackson is a leading technology consulting firm dedicated to delivering innovative solutions to our clients. We pride ourselves on our commitment to diversity, equity, and inclusion, and strive to create a workplace that reflects the communities we serve.
+
+Job Description:
+We are seeking an experienced DevOps Architect to join our Cisco Cloud Services team. As a DevOps Architect, you will be responsible for designing, implementing, and maintaining our clients' cloud infrastructure, ensuring scalability, reliability, and security. 
+
+Responsibilities:
+- Collaborate with cross-functional teams to design and deploy cloud-based solutions
+- Develop and maintain automation scripts using Ansible, Terraform, and other tools
+- Ensure compliance with industry standards and best practices
+- Provide technical leadership and guidance to junior team members
+- Stay up-to-date with the latest cloud technologies and trends
+
+Qualifications:
+- Bachelor's degree in Computer Science, Information Technology, or related field
+- 5+ years of experience in DevOps, cloud computing, or a related field
+- Strong knowledge of Cisco Cloud Services, AWS, or Azure
+- Experience with Agile methodologies and version control systems
+- Excellent communication and problem-solving skills
+
+What We Offer:
+- Salary range: $120,000 - $150,000 per year
+- Comprehensive benefits package including health, dental, and vision insurance
+- Retirement plan with company match
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment
+- Flexible work arrangements, including remote work options
+- A commitment to diversity, equity, and inclusion in the workplace
+
+At Smith, Powers and Jackson, we believe that a diverse and inclusive workforce is essential to driving innovation and delivering exceptional results. We actively encourage applications from individuals from diverse racial backgrounds, including but not limited to Hispanic, African American, Asian, and Indigenous candidates. We are dedicated to creating a workplace where everyone feels valued, respected, and empowered to succeed.

@@ -1,0 +1,17 @@
+Wood (trading locally as JSC WOOD KSS) is currently recruiting for a Senior Electrical Designer with extensive experience in the oil and gas petrochemical industry (for KZ passport holders).
+
+The designer shall populate the database with Electrical design and engineering data to such an extent that an Electrical Single Line Diagram can be generated from. Data to be used to populate the EDMS database should be gathered from a variety of sources, including but not limited to the following:
+- Existing SLDs
+- Existing Electrical schematic drawings
+- Existing cable schedules
+- Existing Electrical equipment datasheets
+- Field data gathering from existing installations
+- Create hand drawn drawings where no existing drawings are available
+
+The candidate should be able to carry out industrial site surveys of discipline related scope of work. This may involve:
+- Climbing ladders for scaffolding access (working at heights) and wearing of a safety harness
+- Confined space access i.e. vessels, columns, and pits
+
+Manually capture all required data into sketch and get piping sizes of general layout (elevation, object references, mark up columns, equipment, building). Check out in control room and sign out at exit from red zone. Develop drawings in AutoCAD software from available data and sketches. It is required to create separate drawing for each individual line (service, number, class). Adhere to standards during development of drawings. Select materials according to specification and line class. Review and coordinate main engineering solutions with Discipline Engineer. The final structure shall ensure reliability, cost efficiency, and ease of operation. Review design drawings according to Check List. Send drawing to responsible Project Engineer for review upon completion.
+
+Smartplan Electrical.

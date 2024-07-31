@@ -1,0 +1,27 @@
+Company: Bryant, Gonzalez and Mendoza
+Job Title: Java Tutor
+
+About Us:
+Bryant, Gonzalez and Mendoza is a leading education consulting firm dedicated to providing top-notch tutoring services to students of all ages. We are committed to fostering a collaborative and inclusive work environment that values diversity and promotes growth.
+
+Job Description:
+We are seeking a highly skilled and experienced Java Tutor to join our team. The ideal candidate will possess excellent communication skills, a strong understanding of Java programming, and the ability to adapt to diverse learning styles.
+
+Responsibilities:
+- Develop personalized lesson plans tailored to individual students' needs
+- Conduct one-on-one tutoring sessions and group classes
+- Provide constructive feedback and guidance to students
+- Collaborate with other tutors to share best practices and improve instructional methods
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- At least 2 years of experience in teaching or tutoring Java programming
+- Strong knowledge of Java syntax, data structures, and object-oriented programming
+- Excellent communication and interpersonal skills
+- Must be able to work effectively in a fast-paced environment
+- Seeking candidates who are familiar with our company culture and values
+
+Benefits:
+- Hourly rate of $30-$40
+- Opportunities for professional growth and development
+- Collaborative and dynamic work environment

@@ -1,0 +1,21 @@
+Description
+
+General:
+Software Engineers build highly secure and scalable software to transform how businesses pay other businesses up and down their supply chain. We are blazing many new trails in this space and have found outstanding product-market fit. Our early success has generated many greenfield product opportunities ahead. As a Software Engineer, you'll contribute high-quality code to our products that are deployed via CICD to a modern stack. You'll build features used by internal and external customers to both modernize, optimize, and monetize payments.
+
+Our Product Development organization is made up of small teams of Software Engineers. Each team focuses on a specific aspect of our product: for example, you might be part of a team that builds a customer-facing front-end application, or a backend system that keeps track of complex money flows. We are remote-first and encourage movement among teams to share context, skills, and experience, so you'll learn about many different aspects of our products. If you are looking for a fast-paced startup that is experiencing hyper-growth and plenty more new tech to build, we believe Finexio may be right for you.
+
+Essential Responsibilities:
+Software Engineers are involved throughout the product life cycle, from idea generation, design, and prototyping to execution, and shipping. As a Software Engineer, you'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that solve them. We think the best way to understand what our users need is to meet them, so we encourage our team to get to know our customers directly.
+
+What we are looking for the most in a Software Engineer is that you can write clean, effective code and be able to learn new technologies and languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Right now, we use:
+- Python, Django, Node, Typescript, React
+- Industry-standard build tooling, including CircleCI and Github
+- Infrastructure-as-code deployed on AWS
+- Postgres, AWS Aurora
+
+As an Engineer, you will be held directly accountable for delivering optimal and high-quality code and meeting or exceeding committed timelines.
+
+Requirements:
+- 10 years of demonstrated hands-on experience in software development and a minimum of 3 recent years utilizing technologies
+- You can expertly architect and build major new software systems

@@ -1,0 +1,39 @@
+Company: Ferrell-Floyd  
+Role: SharePoint Developer  
+
+Company Background:  
+Ferrell-Floyd is a leading technology solutions firm specializing in innovative digital transformation services. We are committed to fostering an inclusive and diverse workplace that respects and values various perspectives and experiences.  
+
+Job Type:  
+Full-Time  
+
+Job Description:  
+We are seeking a talented SharePoint Developer to join our team. The ideal candidate will be responsible for designing, developing, and maintaining SharePoint applications to support our clients' needs. You will work closely with cross-functional teams to ensure the successful implementation of projects.
+
+Responsibilities:  
+- Design and develop customized SharePoint solutions.
+- Maintain and update existing SharePoint sites.
+- Collaborate with clients and internal teams to gather requirements and translate them into technical solutions.
+- Ensure the security and integrity of SharePoint data.
+- Provide technical support and training to users.
+
+Qualifications and Experience Needed:  
+- Bachelor’s degree in Computer Science, Information Technology, or a related field.
+- Proven experience as a SharePoint Developer.
+- Proficiency in SharePoint Designer, InfoPath, Web Parts, and workflow creation.
+- Strong understanding of JavaScript, HTML, CSS, and other web technologies.
+- Excellent problem-solving skills and attention to detail.
+- Strong communication and interpersonal skills.
+
+Perks and Benefits:  
+- Competitive salary ranging from $60,000 to $80,000 USD, based on experience and skills.
+- Comprehensive health, dental, and vision insurance.
+- Generous parental leave for employees welcoming a child.
+- Retirement plan with company match.
+- Opportunities for professional development and career growth.
+- Inclusive workplace policies supporting employees in all family situations.
+
+How to Apply:  
+If you are a passionate SharePoint Developer looking to work in an inclusive and supportive environment, we encourage you to apply. Please submit your resume and cover letter detailing your relevant experience.
+
+Ferrell-Floyd is an equal opportunity employer. We encourage people of all backgrounds and experiences to apply.

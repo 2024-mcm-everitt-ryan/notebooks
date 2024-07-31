@@ -1,0 +1,31 @@
+Our client is a leading provider of European short-term energy trading solutions and is looking for a Senior Customer Support Manager to strengthen the team.
+
+What You Will Do:
+- 1st Level Support (inbound phone, ticketing system)
+- Classification and escalation of technical issues
+- Proactive system monitoring
+- Basic product support
+- Working with Professional Services and IT Operations for update planning
+- Aligning and planning of maintenance work with the customers
+
+This Is Why We Need You:
+- Experience in technical customer service
+- Experience in basic system operations (Linux)
+- Knowledge of Linux system environments and troubleshooting (log file analysis)
+- Experience with APM solutions (e.g. AppDynamics, NewRelic, Dynatrace)
+- Very good (native) German language
+- Very good English language
+- Basic knowledge of shell scripting, programming (Python)
+
+What Our Client Has To Offer:
+- A unique environment with a large degree of creative freedom
+- Choice of OS & device
+- Flexible working hours, home office
+- Training budget
+- Break room with table football, dart, etc.
+- Organic fruit, coffee & tea
+- Small & quiet offices
+- Fun events
+- Additional pension scheme
+
+JobNr: 2264

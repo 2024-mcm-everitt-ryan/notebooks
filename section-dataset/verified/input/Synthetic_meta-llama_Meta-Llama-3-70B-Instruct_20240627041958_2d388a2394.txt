@@ -1,0 +1,31 @@
+Company: Brady-Adams
+
+Job Title: Senior Staff Engineer - DSP
+
+About Us:
+Brady-Adams is a leading technology firm dedicated to delivering innovative solutions for the modern world. Our team of experts is passionate about pushing the boundaries of what is possible.
+
+Job Description:
+We are seeking a highly skilled Senior Staff Engineer - DSP to join our team of engineers. As a Senior Staff Engineer - DSP, you will be responsible for designing, developing, and implementing digital signal processing algorithms for our cutting-edge products.
+
+Responsibilities:
+- Design and develop digital signal processing algorithms for various applications
+- Collaborate with cross-functional teams to integrate DSP algorithms into our products
+- Optimize algorithm performance for real-time implementation
+- Develop and maintain technical documentation for DSP algorithms
+
+Qualifications:
+- Master's degree in Electrical Engineering, Computer Science, or a related field
+- At least 5 years of experience in digital signal processing algorithm development
+- Proficiency in programming languages such as C++, Python, and MATLAB
+- Excellent problem-solving skills and attention to detail
+- Ability to work effectively in a team environment
+- Seeking individuals who can navigate social norms and effectively communicate with our global team
+
+Benefits:
+- Salary range: $120,000 - $150,000 per year
+- Health, dental, and vision insurance
+- Company matched pension
+- Paid time off and holidays
+- Opportunities for career growth and professional development
+- Collaborative and dynamic work environment

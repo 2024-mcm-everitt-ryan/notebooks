@@ -1,0 +1,27 @@
+Company: Bishop, Johnson and Green
+
+Job Title: DBA Lead
+
+About Us:
+Bishop, Johnson and Green is a leading technology firm dedicated to delivering innovative solutions that transform businesses. Our team of experts is committed to excellence, and we're looking for a talented DBA Lead to join our ranks.
+
+Job Description:
+As a DBA Lead, you will be responsible for leading our database administration team, ensuring the smooth operation of our databases, and developing strategies to improve data management and security. You will work closely with cross-functional teams to identify and resolve database-related issues, optimize database performance, and implement new database technologies.
+
+Responsibilities:
+
+ Lead a team of database administrators to ensure 24/7 database uptime and performance
+ Develop and implement database management strategies to improve data security and integrity
+ Collaborate with development teams to optimize database design and performance
+ Troubleshoot and resolve complex database issues
+ Stay up-to-date with industry trends and emerging technologies to recommend innovative solutions
+
+Qualifications and Experience:
+
+ Several years of experience in database administration, with a focus on leading teams
+ Strong knowledge of database management systems, including Oracle, MySQL, and PostgreSQL
+ Excellent leadership and communication skills
+ Degree in Computer Science or related field
+
+What We Offer:
+We are committed to fair and equitable pay practices. The salary for this position ranges from $115,000 to $140,000 USD, based on your experience and skills. Our comprehensive benefits package includes medical, dental, and vision insurance, retirement plan matching, and generous paid time off. We also offer opportunities for professional growth and development, as well as a dynamic and supportive work environment.

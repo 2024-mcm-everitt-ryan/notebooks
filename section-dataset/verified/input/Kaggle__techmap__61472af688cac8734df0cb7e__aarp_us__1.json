@@ -1,0 +1,21 @@
+{
+    "id":"Kaggle::techmap::61472af688cac8734df0cb7e::aarp_us::1",
+    "label_age":false,
+    "analysis_age":null,
+    "label_disability":false,
+    "analysis_disability":null,
+    "label_masculine":false,
+    "analysis_masculine":null,
+    "label_feminine":false,
+    "analysis_feminine":null,
+    "label_racial":true,
+    "analysis_racial":"The phrase \"Spanish speaking preferred.\"  may indirectly favour candidates from certain ethnic or national backgrounds, which could be seen as discriminatory unless language proficiency is essential for the role due to the needs of the care recipient. To avoid bias, it would be helpful to clearly justify why certain requirements, like language proficiency, are necessary for effective performance in the role.",
+    "label_sexuality":false,
+    "analysis_sexuality":null,
+    "label_general":false,
+    "analysis_general":null,
+    "verified":true,
+    "synthetic":false,
+    "text":"I need senior care provider with experience. Our care concerns are: Medication Prompting, Feeding, Companionship. Important. experience with managing and administering medication is required. Responsibilities include feeding. We're looking for someone to provide companionship. Spanish speaking preferred.",
+    "metadata":"{\"document_id\": \"Kaggle::techmap::61472af688cac8734df0cb7e::aarp_us\", \"source\": \"aarp_us\", \"country\": \"US\", \"company\": \"Care.com\", \"position\": \"Seeking Senior Care Provider Levittown\", \"notes\": \"\", \"original\": \"I need senior care provider with experience. Our care concerns are: Medication Prompting, Feeding, Companionship. Important - experience with managing and administering medication is required. Responsibilities include feeding. We're looking for someone to provide companionship. Spanish speaking preferred.\"}"
+}

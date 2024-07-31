@@ -1,0 +1,34 @@
+Company: Dickson LLC
+
+Role: AEM/JAVA Developer
+
+Company Background: Dickson LLC is a leading technology solutions provider focusing on delivering high-quality digital experiences. Our team is dedicated to innovation, collaboration, and excellence in the field of software development.
+
+Job Type: Full-time
+
+Job Description and Responsibilities:
+We are seeking an experienced AEM/JAVA Developer to join our dynamic team. The ideal candidate will be responsible for designing, developing, and maintaining applications that meet our clients' requirements and enhance their digital experiences. This role demands a high level of technical expertise and the ability to work collaboratively within the team.
+
+- Develop and implement AEM solutions for our clients.
+- Collaborate with cross-functional teams to define, design, and ship new features.
+- Troubleshoot and resolve issues in a timely manner.
+- Ensure the performance, quality, and responsiveness of applications.
+- Maintain code quality and organization.
+
+Qualifications and Experience Needed:
+- Bachelor's degree in Computer Science, Engineering, or related field.
+- Proven experience in AEM and JAVA development.
+- Strong understanding of web technologies (HTML, CSS, JavaScript).
+- Familiarity with RESTful APIs, version control tools, and development frameworks.
+- Excellent problem-solving skills and attention to detail.
+- Must have a neutral accent to communicate effectively with clients.
+- Preference for individuals from similar cultural backgrounds.
+- Looking for someone who can easily adapt to our team and share our corporate values.
+
+Perks and Benefits:
+- Salary range: $80,000 - $120,000 per year, based on experience and qualifications.
+- Performance-based bonuses.
+- Comprehensive health, dental, and vision insurance.
+- Generous paid time off and sick leave.
+- Opportunities for professional development and growth.
+- Collaborative and inclusive work environment.

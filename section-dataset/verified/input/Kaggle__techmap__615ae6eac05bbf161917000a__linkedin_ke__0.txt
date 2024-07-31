@@ -1,0 +1,8 @@
+- 2-3 years of strong Elixir experience
+- 3-5 years of functional programming experience
+- 7-10 years of overall software engineering experience
+- Senior engineer with several successful projects under their belt
+- Software design and architecture
+- Preferred web development stacks are Golang, Ruby on Rails, Java
+- Familiarity with common API and services design best practices
+- Deep experience in overall system design and implementation: how they scale, how they should fit together, and how they're likely to break

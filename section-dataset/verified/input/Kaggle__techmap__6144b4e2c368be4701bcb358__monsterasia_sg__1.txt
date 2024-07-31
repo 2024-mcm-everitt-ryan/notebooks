@@ -1,0 +1,27 @@
+10 or more years of IT experience with expertise in Enterprise Cloud infrastructure (GCP, AWS, or Azure) in a mission-critical environment. AWS or Azure certification is highly desired. 
+
+- In-depth Kubernetes, Docker/Podman experience with strong debugging, troubleshooting, and problem-solving skills. CKA/CKAD is highly desired.
+- Expertise in one of the following programming languages: Java, C, C++, Golang, or JavaScript, with a focus on Site Reliability Engineering or API development.
+- Strong experience building CI/CD pipelines using tools such as Git, Maven, Gradle, Ant, Terraform, Helm, Ansible, Artifactory, and Jenkins.
+- Monitoring and operations experience using tools such as Prometheus, Grafana, Splunk, and ELK stack.
+- Good understanding of networking protocols and cybersecurity best practices in a cloud environment.
+- Experience with Redis or Hazelcast is highly desirable.
+- Experience with API gateway.
+- Scrum Master and Product Owner certification would be preferable.
+- Preferred AWS/Azure Certification – Cloud Practitioner, Solution Architect.
+- Preferred CKA/CKAD.
+- Architecture certification is desired.
+- OpenShift, AWS EKS, Kubernetes, and Docker/Podman.
+- Helm, Ansible, Terraform, Vault.
+- Test automation and security check automation.
+- Monitoring and Alerting – Prometheus, Grafana, PagerDuty, Unified Meeting.
+- Logging – ELK, Fluentd.
+- Cloud AWS/Azure.
+- DevOps toolchain experience (Bitbucket, Jenkins, Artifactory, SonarQube, AppScan).
+- Design and delivery of highly available and scalable solutions.
+- Software programming experience preferable Java.
+- Build automation tools (Ant, Maven, Gradle).
+- Unix, Shell, Groovy scripting.
+- Databases (RDS – Postgres, Aurora).
+
+Apply now to join the Bank for those with big career ambitions. To view information on our benefits including our flexible working please visit our website. We welcome conversations on flexible working.
